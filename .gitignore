@@ -1,0 +1,7 @@
+dist/
+revision-data.json
+.serena/
+node_modules/
+Relink_Defender_Field_Guide_Revised.html
+handbook-preview.*
+chatgpt-conversation-archiver.js

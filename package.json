@@ -1,0 +1,12 @@
+{
+  "name": "relink-progression-handbook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Source-backed Defender progression handbook for all 28 Relink characters",
+  "scripts": {
+    "build": "node prepare-revision.js && node assemble-revision.js",
+    "test": "node verify-revision.js && node verify-site.js",
+    "preview": "python -m http.server 8765 --bind 127.0.0.1 --directory dist"
+  },
+  "engines": { "node": ">=22" }
+}

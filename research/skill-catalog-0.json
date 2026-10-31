@@ -1,0 +1,1330 @@
+{
+  "characters": {
+    "Pl2700": [
+      {
+        "id": 2596259372,
+        "name": "Acidrage Howl",
+        "icon": "assets/skills/9abfc62c.webp"
+      },
+      {
+        "id": 2596412804,
+        "name": "Fast Lane",
+        "icon": "assets/skills/9ac21d84.webp"
+      },
+      {
+        "id": 2771982737,
+        "name": "Flamek Thunder",
+        "icon": "assets/skills/a5391991.webp"
+      },
+      {
+        "id": 2859360741,
+        "name": "Forever Yours",
+        "icon": "assets/skills/aa6e61e5.webp"
+      },
+      {
+        "id": 2930168145,
+        "name": "Heaven Comes Down",
+        "icon": "assets/skills/aea6d151.webp"
+      },
+      {
+        "id": 2534245,
+        "name": "Never Surrender",
+        "icon": "assets/skills/0026ab65.webp"
+      },
+      {
+        "id": 3779136635,
+        "name": "Play with Fire",
+        "icon": "assets/skills/e1410c7b.webp"
+      },
+      {
+        "id": 24188904,
+        "name": "Slow Kill",
+        "icon": "assets/skills/017117e8.webp"
+      }
+    ],
+    "Pl1100": [
+      {
+        "id": 1976981095,
+        "name": "Draconic Release",
+        "icon": "assets/skills/75d65667.webp"
+      },
+      {
+        "id": 11193941,
+        "name": "L'Ombre d'Hier",
+        "icon": "assets/skills/00aace55.webp"
+      },
+      {
+        "id": 2494731913,
+        "name": "Manigance",
+        "icon": "assets/skills/94b29689.webp"
+      },
+      {
+        "id": 4025775212,
+        "name": "Mirage",
+        "icon": "assets/skills/eff4746c.webp"
+      },
+      {
+        "id": 2791489605,
+        "name": "Nelah Nav",
+        "icon": "assets/skills/a662c045.webp"
+      },
+      {
+        "id": 3337931953,
+        "name": "Salvator",
+        "icon": "assets/skills/c6f4ccb1.webp"
+      },
+      {
+        "id": 1655355229,
+        "name": "Uwe",
+        "icon": "assets/skills/62aab75d.webp"
+      },
+      {
+        "id": 1513449012,
+        "name": "Verdrängen",
+        "icon": "assets/skills/5a356634.webp"
+      }
+    ],
+    "Pl0600": [
+      {
+        "id": 2400747272,
+        "name": "Bouquet",
+        "icon": "assets/skills/8f187f08.webp"
+      },
+      {
+        "id": 3446227166,
+        "name": "Iron Maiden",
+        "icon": "assets/skills/cd6940de.webp"
+      },
+      {
+        "id": 962480163,
+        "name": "Lost Love",
+        "icon": "assets/skills/395e4823.webp"
+      },
+      {
+        "id": 3353024812,
+        "name": "Mesmerize",
+        "icon": "assets/skills/c7db192c.webp"
+      },
+      {
+        "id": 3473610523,
+        "name": "Rose Barrier",
+        "icon": "assets/skills/cf0b171b.webp"
+      },
+      {
+        "id": 1051932791,
+        "name": "Rose Tycoon",
+        "icon": "assets/skills/3eb33877.webp"
+      },
+      {
+        "id": 16130366,
+        "name": "Sillage",
+        "icon": "assets/skills/00f6213e.webp"
+      },
+      {
+        "id": 2353889564,
+        "name": "Spiral Rose",
+        "icon": "assets/skills/8c4d811c.webp"
+      }
+    ],
+    "Pl1000": [
+      {
+        "id": 3404651101,
+        "name": "Feuerangriff",
+        "icon": "assets/skills/caeeda5d.webp"
+      },
+      {
+        "id": 2564928342,
+        "name": "Flammenmarsch",
+        "icon": "assets/skills/98e1b356.webp"
+      },
+      {
+        "id": 2339429650,
+        "name": "Macht",
+        "icon": "assets/skills/8b70dd12.webp"
+      },
+      {
+        "id": 605951890,
+        "name": "Roter Wirbel",
+        "icon": "assets/skills/241e1792.webp"
+      },
+      {
+        "id": 17112587,
+        "name": "Royal Authority",
+        "icon": "assets/skills/01051e0b.webp"
+      },
+      {
+        "id": 1754351166,
+        "name": "Träumerei",
+        "icon": "assets/skills/6891463e.webp"
+      },
+      {
+        "id": 21206098,
+        "name": "X-Seele",
+        "icon": "assets/skills/01439452.webp"
+      },
+      {
+        "id": 1895714294,
+        "name": "Zerreissen",
+        "icon": "assets/skills/70fe4df6.webp"
+      }
+    ],
+    "Pl0700": [
+      {
+        "id": 1361885779,
+        "name": "Benediction",
+        "icon": "assets/skills/512cba53.webp"
+      },
+      {
+        "id": 3471552074,
+        "name": "Blaues Gespenst",
+        "icon": "assets/skills/ceebae4a.webp"
+      },
+      {
+        "id": 2187942686,
+        "name": "Hinrichten",
+        "icon": "assets/skills/82695b1e.webp"
+      },
+      {
+        "id": 2361263139,
+        "name": "Pendel",
+        "icon": "assets/skills/8cbe0423.webp"
+      },
+      {
+        "id": 2756409249,
+        "name": "Purge Spirits",
+        "icon": "assets/skills/a44b77a1.webp"
+      },
+      {
+        "id": 65327548,
+        "name": "Sic 'Em, Geegee!",
+        "icon": "assets/skills/03e4d1bc.webp"
+      },
+      {
+        "id": 2497342226,
+        "name": "Strafe",
+        "icon": "assets/skills/94da6b12.webp"
+      },
+      {
+        "id": 1558255461,
+        "name": "Umlauf",
+        "icon": "assets/skills/5ce11765.webp"
+      }
+    ],
+    "Pl0900": [
+      {
+        "id": 84794598,
+        "name": "Arm Destruction",
+        "icon": "assets/skills/050ddce6.webp"
+      },
+      {
+        "id": 500610653,
+        "name": "Breakthrough",
+        "icon": "assets/skills/1dd6b65d.webp"
+      },
+      {
+        "id": 2294075544,
+        "name": "Drachenstolz",
+        "icon": "assets/skills/88bcd098.webp"
+      },
+      {
+        "id": 3159277366,
+        "name": "Energy Destruction",
+        "icon": "assets/skills/bc4ebf36.webp"
+      },
+      {
+        "id": 3119115679,
+        "name": "Heroic Beat",
+        "icon": "assets/skills/b9e9ed9f.webp"
+      },
+      {
+        "id": 317795500,
+        "name": "Rampart",
+        "icon": "assets/skills/12f12cac.webp"
+      },
+      {
+        "id": 4226746098,
+        "name": "Rift Divider",
+        "icon": "assets/skills/fbef06f2.webp"
+      },
+      {
+        "id": 3174621275,
+        "name": "Soul Eruption",
+        "icon": "assets/skills/bd38e05b.webp"
+      }
+    ],
+    "Pl0800": [
+      {
+        "id": 2125834390,
+        "name": "Blade Impulse",
+        "icon": "assets/skills/7eb5a896.webp"
+      },
+      {
+        "id": 1561967586,
+        "name": "Blauer Dolch",
+        "icon": "assets/skills/5d19bbe2.webp"
+      },
+      {
+        "id": 2450380979,
+        "name": "Kaltzwinger",
+        "icon": "assets/skills/920dd8b3.webp"
+      },
+      {
+        "id": 674223496,
+        "name": "Lawinensturm",
+        "icon": "assets/skills/282fd588.webp"
+      },
+      {
+        "id": 2765440683,
+        "name": "Luftspiegelung",
+        "icon": "assets/skills/a4d546ab.webp"
+      },
+      {
+        "id": 87399192,
+        "name": "Schwertgeist",
+        "icon": "assets/skills/05359b18.webp"
+      },
+      {
+        "id": 785063691,
+        "name": "Southern Cross",
+        "icon": "assets/skills/2ecb1f0b.webp"
+      },
+      {
+        "id": 1360359918,
+        "name": "Turbulenz",
+        "icon": "assets/skills/511571ee.webp"
+      }
+    ],
+    "Pl1200": [
+      {
+        "id": 1491141490,
+        "name": "Holy Ladder",
+        "icon": "assets/skills/58e10372.webp"
+      },
+      {
+        "id": 1778183363,
+        "name": "Invincible",
+        "icon": "assets/skills/69fcecc3.webp"
+      },
+      {
+        "id": 3976250979,
+        "name": "Königsschild",
+        "icon": "assets/skills/ed00c663.webp"
+      },
+      {
+        "id": 615618564,
+        "name": "Rising Cut",
+        "icon": "assets/skills/24b19804.webp"
+      },
+      {
+        "id": 3229257360,
+        "name": "Sacred Charge",
+        "icon": "assets/skills/c07a8e90.webp"
+      },
+      {
+        "id": 3171126120,
+        "name": "Shining Onslaught",
+        "icon": "assets/skills/bd038b68.webp"
+      },
+      {
+        "id": 3600193102,
+        "name": "Sword of Lumiel",
+        "icon": "assets/skills/d696964e.webp"
+      },
+      {
+        "id": 97426662,
+        "name": "Valiant Stance",
+        "icon": "assets/skills/05ce9ce6.webp"
+      }
+    ],
+    "Pl1500": [
+      {
+        "id": 3165963025,
+        "name": "Arhat Skybreaker",
+        "icon": "assets/skills/bcb4c311.webp"
+      },
+      {
+        "id": 2882902282,
+        "name": "Branding Palm",
+        "icon": "assets/skills/abd5990a.webp"
+      },
+      {
+        "id": 2216119261,
+        "name": "Dhyana",
+        "icon": "assets/skills/84174bdd.webp"
+      },
+      {
+        "id": 2524748476,
+        "name": "Eternal Rage",
+        "icon": "assets/skills/967c9abc.webp"
+      },
+      {
+        "id": 255973808,
+        "name": "Infernal Stomp",
+        "icon": "assets/skills/0f41d9b0.webp"
+      },
+      {
+        "id": 143269128,
+        "name": "Iron Shoulder",
+        "icon": "assets/skills/088a1d08.webp"
+      },
+      {
+        "id": 1800729433,
+        "name": "Lion Stance",
+        "icon": "assets/skills/6b54f359.webp"
+      },
+      {
+        "id": 3994997732,
+        "name": "True Avidya",
+        "icon": "assets/skills/ee1ed3e4.webp"
+      }
+    ],
+    "Pl0300": [
+      {
+        "id": 2086918010,
+        "name": "Bullet Hail",
+        "icon": "assets/skills/7c63d77a.webp"
+      },
+      {
+        "id": 161136393,
+        "name": "Coffinmaker",
+        "icon": "assets/skills/099abf09.webp"
+      },
+      {
+        "id": 4034615965,
+        "name": "Collateral Damage",
+        "icon": "assets/skills/f07b5a9d.webp"
+      },
+      {
+        "id": 3608336784,
+        "name": "Double Tap",
+        "icon": "assets/skills/d712d990.webp"
+      },
+      {
+        "id": 2784356460,
+        "name": "Duration",
+        "icon": "assets/skills/a5f5e86c.webp"
+      },
+      {
+        "id": 1297714109,
+        "name": "Slag Shot",
+        "icon": "assets/skills/4d598bbd.webp"
+      },
+      {
+        "id": 1544886776,
+        "name": "Spitfire",
+        "icon": "assets/skills/5c1519f8.webp"
+      },
+      {
+        "id": 608095228,
+        "name": "Wild Gunsmoke",
+        "icon": "assets/skills/243ecbfc.webp"
+      }
+    ],
+    "Pl1400": [
+      {
+        "id": 2995595061,
+        "name": "Apex of Nothingness",
+        "icon": "assets/skills/b28d2735.webp"
+      },
+      {
+        "id": 182109307,
+        "name": "Crescent Moon",
+        "icon": "assets/skills/0adac47b.webp"
+      },
+      {
+        "id": 907319067,
+        "name": "Dance of Blue Petals",
+        "icon": "assets/skills/3614971b.webp"
+      },
+      {
+        "id": 1105445940,
+        "name": "Dance of Pink Petals",
+        "icon": "assets/skills/41e3c434.webp"
+      },
+      {
+        "id": 493837357,
+        "name": "Kyokasuigetsu",
+        "icon": "assets/skills/1d6f5c2d.webp"
+      },
+      {
+        "id": 4148903003,
+        "name": "Setsuna",
+        "icon": "assets/skills/f74b3c5b.webp"
+      },
+      {
+        "id": 956985030,
+        "name": "Transient",
+        "icon": "assets/skills/390a6ec6.webp"
+      },
+      {
+        "id": 1017982425,
+        "name": "Utter Devotion",
+        "icon": "assets/skills/3cad2dd9.webp"
+      }
+    ],
+    "Pl1900": [
+      {
+        "id": 3306606852,
+        "name": "Arcadia",
+        "icon": "assets/skills/c516d104.webp"
+      },
+      {
+        "id": 184093549,
+        "name": "Atonement",
+        "icon": "assets/skills/0af90b6d.webp"
+      },
+      {
+        "id": 2972848139,
+        "name": "Fourfold Vengeance",
+        "icon": "assets/skills/b132100b.webp"
+      },
+      {
+        "id": 2525110522,
+        "name": "Never Enough",
+        "icon": "assets/skills/968220fa.webp"
+      },
+      {
+        "id": 2553321811,
+        "name": "Ragnarok Form",
+        "icon": "assets/skills/98309953.webp"
+      },
+      {
+        "id": 3806108121,
+        "name": "Reginleiv Recidive",
+        "icon": "assets/skills/e2dc99d9.webp"
+      },
+      {
+        "id": 951136106,
+        "name": "Scourge",
+        "icon": "assets/skills/38b12f6a.webp"
+      },
+      {
+        "id": 3252119052,
+        "name": "Unbound",
+        "icon": "assets/skills/c1d7660c.webp"
+      }
+    ],
+    "Pl2100": [
+      {
+        "id": 186364923,
+        "name": "Alone in Heaven",
+        "icon": "assets/skills/0b1bb3fb.webp"
+      },
+      {
+        "id": 1412382735,
+        "name": "Breath of Life",
+        "icon": "assets/skills/542f400f.webp"
+      },
+      {
+        "id": 874655397,
+        "name": "Ecliptica",
+        "icon": "assets/skills/34222ea5.webp"
+      },
+      {
+        "id": 2814747428,
+        "name": "Ethereal Prison",
+        "icon": "assets/skills/a7c5a324.webp"
+      },
+      {
+        "id": 3666217944,
+        "name": "No Way Out",
+        "icon": "assets/skills/da860bd8.webp"
+      },
+      {
+        "id": 836798905,
+        "name": "Revontulet",
+        "icon": "assets/skills/31e089b9.webp"
+      },
+      {
+        "id": 271702992,
+        "name": "Talviyö",
+        "icon": "assets/skills/1031dbd0.webp"
+      },
+      {
+        "id": 3951161465,
+        "name": "The Power of One",
+        "icon": "assets/skills/eb81f079.webp"
+      }
+    ],
+    "Pl2800": [
+      {
+        "id": 895159801,
+        "name": "All Fall Down",
+        "icon": "assets/skills/355b0df9.webp"
+      },
+      {
+        "id": 1874197466,
+        "name": "Crimson Nightmare",
+        "icon": "assets/skills/6fb5fbda.webp"
+      },
+      {
+        "id": 1156958031,
+        "name": "Dead Lands",
+        "icon": "assets/skills/44f5c74f.webp"
+      },
+      {
+        "id": 1212885493,
+        "name": "Indominus",
+        "icon": "assets/skills/484b29f5.webp"
+      },
+      {
+        "id": 284878507,
+        "name": "Kick Face",
+        "icon": "assets/skills/10fae6ab.webp"
+      },
+      {
+        "id": 1392902354,
+        "name": "Opportunity Knocks",
+        "icon": "assets/skills/530600d2.webp"
+      },
+      {
+        "id": 193263757,
+        "name": "Power Plant",
+        "icon": "assets/skills/0b84f88d.webp"
+      },
+      {
+        "id": 2278890404,
+        "name": "Splendor",
+        "icon": "assets/skills/87d51ba4.webp"
+      }
+    ],
+    "Pl2200": [
+      {
+        "id": 3650802349,
+        "name": "Barrido",
+        "icon": "assets/skills/d99ad2ad.webp"
+      },
+      {
+        "id": 2880120386,
+        "name": "Despedazar",
+        "icon": "assets/skills/abab2642.webp"
+      },
+      {
+        "id": 2817236585,
+        "name": "Infinito Creare",
+        "icon": "assets/skills/a7eb9e69.webp"
+      },
+      {
+        "id": 1884973667,
+        "name": "Ispirazione",
+        "icon": "assets/skills/705a6a63.webp"
+      },
+      {
+        "id": 198685409,
+        "name": "Prisión de Armas",
+        "icon": "assets/skills/0bd7b2e1.webp"
+      },
+      {
+        "id": 1854808330,
+        "name": "Rotura",
+        "icon": "assets/skills/6e8e210a.webp"
+      },
+      {
+        "id": 1002015569,
+        "name": "Seven-Star's Brilliance",
+        "icon": "assets/skills/3bb98b51.webp"
+      },
+      {
+        "id": 3328350944,
+        "name": "Tempesta",
+        "icon": "assets/skills/c6629ae0.webp"
+      }
+    ],
+    "Pl1800": [
+      {
+        "id": 3977386444,
+        "name": "Alexandria",
+        "icon": "assets/skills/ed1219cc.webp"
+      },
+      {
+        "id": 3997546479,
+        "name": "Disruption",
+        "icon": "assets/skills/ee45b7ef.webp"
+      },
+      {
+        "id": 312576040,
+        "name": "Mehen",
+        "icon": "assets/skills/12a18828.webp"
+      },
+      {
+        "id": 1963211602,
+        "name": "Mimic Doll",
+        "icon": "assets/skills/75043b52.webp"
+      },
+      {
+        "id": 1531085420,
+        "name": "Pain Train",
+        "icon": "assets/skills/5b42826c.webp"
+      },
+      {
+        "id": 772162404,
+        "name": "Phantasmagoria",
+        "icon": "assets/skills/2e064364.webp"
+      },
+      {
+        "id": 2243978595,
+        "name": "Reinforce",
+        "icon": "assets/skills/85c06563.webp"
+      },
+      {
+        "id": 3111901396,
+        "name": "Rhizomata",
+        "icon": "assets/skills/b97bd8d4.webp"
+      }
+    ],
+    "Pl1300": [
+      {
+        "id": 502182161,
+        "name": "Awakening",
+        "icon": "assets/skills/1deeb111.webp"
+      },
+      {
+        "id": 1564082038,
+        "name": "Empty Mist",
+        "icon": "assets/skills/5d39ff76.webp"
+      },
+      {
+        "id": 3620472164,
+        "name": "Flashing Void",
+        "icon": "assets/skills/d7cc0564.webp"
+      },
+      {
+        "id": 1523350163,
+        "name": "Hymn of the Hundreds",
+        "icon": "assets/skills/5acc7a93.webp"
+      },
+      {
+        "id": 4267003105,
+        "name": "Perpetual Rotation",
+        "icon": "assets/skills/fe554ce1.webp"
+      },
+      {
+        "id": 1361959816,
+        "name": "Sky Shatter",
+        "icon": "assets/skills/512ddb88.webp"
+      },
+      {
+        "id": 376535506,
+        "name": "Tit for Tat",
+        "icon": "assets/skills/167179d2.webp"
+      },
+      {
+        "id": 430267764,
+        "name": "Trice Blade",
+        "icon": "assets/skills/19a55d74.webp"
+      }
+    ],
+    "Pl2000": [
+      {
+        "id": 1061903518,
+        "name": "Arcadia",
+        "icon": "assets/skills/3f4b5c9e.webp"
+      },
+      {
+        "id": 1598838615,
+        "name": "Never Enough",
+        "icon": "assets/skills/5f4c5757.webp"
+      },
+      {
+        "id": 410537208,
+        "name": "Reginleiv Recidive",
+        "icon": "assets/skills/18784cf8.webp"
+      },
+      {
+        "id": 4176810716,
+        "name": "Scourge",
+        "icon": "assets/skills/f8f512dc.webp"
+      }
+    ],
+    "Pl0400": [
+      {
+        "id": 1695039277,
+        "name": "Concentration",
+        "icon": "assets/skills/65083f2d.webp"
+      },
+      {
+        "id": 1688650020,
+        "name": "Fire",
+        "icon": "assets/skills/64a6c124.webp"
+      },
+      {
+        "id": 3569638756,
+        "name": "Flowery Seven",
+        "icon": "assets/skills/d4c45d64.webp"
+      },
+      {
+        "id": 477799884,
+        "name": "Freeze",
+        "icon": "assets/skills/1c7aa5cc.webp"
+      },
+      {
+        "id": 537289675,
+        "name": "Gravity Well",
+        "icon": "assets/skills/200663cb.webp"
+      },
+      {
+        "id": 1027707867,
+        "name": "Healing Winds",
+        "icon": "assets/skills/3d4193db.webp"
+      },
+      {
+        "id": 850698606,
+        "name": "Lightning",
+        "icon": "assets/skills/32b4a16e.webp"
+      },
+      {
+        "id": 3020737948,
+        "name": "Mystic Vortex",
+        "icon": "assets/skills/b40ccd9c.webp"
+      }
+    ],
+    "Pl0000": [
+      {
+        "id": 1401254608,
+        "name": "Armor Break",
+        "icon": "assets/skills/538572d0.webp"
+      },
+      {
+        "id": 508298988,
+        "name": "Clarity",
+        "icon": "assets/skills/1e4c06ec.webp"
+      },
+      {
+        "id": 2885587089,
+        "name": "Conduction",
+        "icon": "assets/skills/abfe9091.webp"
+      },
+      {
+        "id": 3134831267,
+        "name": "Decimate",
+        "icon": "assets/skills/bad9baa3.webp"
+      },
+      {
+        "id": 4105913375,
+        "name": "Dispel",
+        "icon": "assets/skills/f4bb441f.webp"
+      },
+      {
+        "id": 1121027541,
+        "name": "Miserable Mist",
+        "icon": "assets/skills/42d185d5.webp"
+      },
+      {
+        "id": 3002550676,
+        "name": "Overdrive Surge",
+        "icon": "assets/skills/b2f74994.webp"
+      },
+      {
+        "id": 3847849090,
+        "name": "Panacea",
+        "icon": "assets/skills/e5598482.webp"
+      },
+      {
+        "id": 3689504989,
+        "name": "Phalanx",
+        "icon": "assets/skills/dbe960dd.webp"
+      },
+      {
+        "id": 4212467395,
+        "name": "Rage",
+        "icon": "assets/skills/fb1526c3.webp"
+      },
+      {
+        "id": 2524538049,
+        "name": "Rain of Arrows",
+        "icon": "assets/skills/967964c1.webp"
+      },
+      {
+        "id": 1875936314,
+        "name": "Reginleiv",
+        "icon": "assets/skills/6fd0843a.webp"
+      },
+      {
+        "id": 1723322268,
+        "name": "Revive",
+        "icon": "assets/skills/66b7cf9c.webp"
+      },
+      {
+        "id": 4228211436,
+        "name": "Stall",
+        "icon": "assets/skills/fc0562ec.webp"
+      },
+      {
+        "id": 1331907284,
+        "name": "Substitute",
+        "icon": "assets/skills/4f634ad4.webp"
+      },
+      {
+        "id": 4182321016,
+        "name": "Veil",
+        "icon": "assets/skills/f9492778.webp"
+      }
+    ],
+    "Pl2300": [
+      {
+        "id": 3148113856,
+        "name": "Clincher",
+        "icon": "assets/skills/bba467c0.webp"
+      },
+      {
+        "id": 2081376763,
+        "name": "Depravity",
+        "icon": "assets/skills/7c0f49fb.webp"
+      },
+      {
+        "id": 2796898643,
+        "name": "Lethal Rain",
+        "icon": "assets/skills/a6b54953.webp"
+      },
+      {
+        "id": 2137535892,
+        "name": "Merculight",
+        "icon": "assets/skills/7f683594.webp"
+      },
+      {
+        "id": 3646646970,
+        "name": "Peerless Eye",
+        "icon": "assets/skills/d95b6aba.webp"
+      },
+      {
+        "id": 562690234,
+        "name": "Two-Crown's Strife",
+        "icon": "assets/skills/2189f8ba.webp"
+      },
+      {
+        "id": 3665911842,
+        "name": "Valiant Weave",
+        "icon": "assets/skills/da816022.webp"
+      },
+      {
+        "id": 3141688009,
+        "name": "Wheel of Death",
+        "icon": "assets/skills/bb425ac9.webp"
+      }
+    ],
+    "Pl0500": [
+      {
+        "id": 3041693924,
+        "name": "Armor-Piercing Round",
+        "icon": "assets/skills/b54c90e4.webp"
+      },
+      {
+        "id": 1022691671,
+        "name": "Detonator",
+        "icon": "assets/skills/3cf50957.webp"
+      },
+      {
+        "id": 3562494045,
+        "name": "Disruptor",
+        "icon": "assets/skills/d457585d.webp"
+      },
+      {
+        "id": 575073986,
+        "name": "Healing Bullet",
+        "icon": "assets/skills/2246eec2.webp"
+      },
+      {
+        "id": 1999610325,
+        "name": "Intercept",
+        "icon": "assets/skills/772fa1d5.webp"
+      },
+      {
+        "id": 3284971000,
+        "name": "Paralyzing Bullet",
+        "icon": "assets/skills/c3ccadf8.webp"
+      },
+      {
+        "id": 3497430123,
+        "name": "Sumrak",
+        "icon": "assets/skills/d0768c6b.webp"
+      },
+      {
+        "id": 782349275,
+        "name": "Venom Grenade",
+        "icon": "assets/skills/2ea1b3db.webp"
+      }
+    ],
+    "Pl2600": [
+      {
+        "id": 645919097,
+        "name": "Embrasque Sword",
+        "icon": "assets/skills/267ff179.webp"
+      },
+      {
+        "id": 615817192,
+        "name": "Eternity Loop",
+        "icon": "assets/skills/24b49fe8.webp"
+      },
+      {
+        "id": 1953437860,
+        "name": "Hearts on Fire",
+        "icon": "assets/skills/746f18a4.webp"
+      },
+      {
+        "id": 2559048100,
+        "name": "Riding Free",
+        "icon": "assets/skills/9887f9a4.webp"
+      },
+      {
+        "id": 710998218,
+        "name": "Rising Nova",
+        "icon": "assets/skills/2a60f8ca.webp"
+      },
+      {
+        "id": 4058345393,
+        "name": "Star Chaser",
+        "icon": "assets/skills/f1e56fb1.webp"
+      },
+      {
+        "id": 3092947791,
+        "name": "Thunderbird",
+        "icon": "assets/skills/b85aa34f.webp"
+      },
+      {
+        "id": 3513708266,
+        "name": "Unchained",
+        "icon": "assets/skills/d16eeeea.webp"
+      }
+    ],
+    "Pl0100": [
+      {
+        "id": 4211050552,
+        "name": "Armor Break",
+        "icon": "assets/skills/faff8838.webp"
+      },
+      {
+        "id": 3438022709,
+        "name": "Clarity",
+        "icon": "assets/skills/ccec1035.webp"
+      },
+      {
+        "id": 1394464851,
+        "name": "Conduction",
+        "icon": "assets/skills/531dd853.webp"
+      },
+      {
+        "id": 2861865630,
+        "name": "Decimate",
+        "icon": "assets/skills/aa949a9e.webp"
+      },
+      {
+        "id": 2385247270,
+        "name": "Dispel",
+        "icon": "assets/skills/8e2bfc26.webp"
+      },
+      {
+        "id": 3372778876,
+        "name": "Miserable Mist",
+        "icon": "assets/skills/c908857c.webp"
+      },
+      {
+        "id": 1075492697,
+        "name": "Overdrive Surge",
+        "icon": "assets/skills/401ab759.webp"
+      },
+      {
+        "id": 823262814,
+        "name": "Panacea",
+        "icon": "assets/skills/3111fe5e.webp"
+      },
+      {
+        "id": 4011919540,
+        "name": "Phalanx",
+        "icon": "assets/skills/ef2108b4.webp"
+      },
+      {
+        "id": 1012561161,
+        "name": "Rage",
+        "icon": "assets/skills/3c5a7509.webp"
+      },
+      {
+        "id": 4208269321,
+        "name": "Rain of Arrows",
+        "icon": "assets/skills/fad51809.webp"
+      },
+      {
+        "id": 1113019419,
+        "name": "Reginleiv",
+        "icon": "assets/skills/4257541b.webp"
+      },
+      {
+        "id": 3944152473,
+        "name": "Revive",
+        "icon": "assets/skills/eb16fd99.webp"
+      },
+      {
+        "id": 714012356,
+        "name": "Stall",
+        "icon": "assets/skills/2a8ef6c4.webp"
+      },
+      {
+        "id": 3496260479,
+        "name": "Substitute",
+        "icon": "assets/skills/d064b37f.webp"
+      },
+      {
+        "id": 2130001908,
+        "name": "Veil",
+        "icon": "assets/skills/7ef53ff4.webp"
+      }
+    ],
+    "Pl1600": [
+      {
+        "id": 2514750994,
+        "name": "Infinite Wonders",
+        "icon": "assets/skills/95e40e12.webp"
+      },
+      {
+        "id": 1730610451,
+        "name": "Rain of Fury",
+        "icon": "assets/skills/67270513.webp"
+      },
+      {
+        "id": 2833079056,
+        "name": "Realm's Majesty",
+        "icon": "assets/skills/a8dd5b10.webp"
+      },
+      {
+        "id": 1390669521,
+        "name": "Signo Drive",
+        "icon": "assets/skills/52e3eed1.webp"
+      },
+      {
+        "id": 2537767594,
+        "name": "Spear of Arvess",
+        "icon": "assets/skills/974342aa.webp"
+      },
+      {
+        "id": 855805195,
+        "name": "Thousand Flames",
+        "icon": "assets/skills/33028d0b.webp"
+      },
+      {
+        "id": 2352774620,
+        "name": "Vengeful Flames",
+        "icon": "assets/skills/8c3c7ddc.webp"
+      },
+      {
+        "id": 719518365,
+        "name": "Wingclipper",
+        "icon": "assets/skills/2ae2fa9d.webp"
+      }
+    ],
+    "Pl1700": [
+      {
+        "id": 995925869,
+        "name": "Battalions of Fear",
+        "icon": "assets/skills/3b5c9f6d.webp"
+      },
+      {
+        "id": 2124882684,
+        "name": "Damnation",
+        "icon": "assets/skills/7ea722fc.webp"
+      },
+      {
+        "id": 3608830316,
+        "name": "Forgotten Tales",
+        "icon": "assets/skills/d71a616c.webp"
+      },
+      {
+        "id": 2166485695,
+        "name": "Great Scythe Grynoth",
+        "icon": "assets/skills/8121f2bf.webp"
+      },
+      {
+        "id": 980186983,
+        "name": "Immortal Pain",
+        "icon": "assets/skills/3a6c7767.webp"
+      },
+      {
+        "id": 2428801648,
+        "name": "Netherwrath",
+        "icon": "assets/skills/90c49270.webp"
+      },
+      {
+        "id": 3463078095,
+        "name": "Umbral Eclipse",
+        "icon": "assets/skills/ce6a60cf.webp"
+      },
+      {
+        "id": 3967243063,
+        "name": "Violent Shadows",
+        "icon": "assets/skills/ec775337.webp"
+      }
+    ],
+    "Pl2400": [
+      {
+        "id": 1271226080,
+        "name": "Cyclone Skullsplitter",
+        "icon": "assets/skills/4bc55ee0.webp"
+      },
+      {
+        "id": 1276317742,
+        "name": "Dashing Lancer",
+        "icon": "assets/skills/4c13102e.webp"
+      },
+      {
+        "id": 1789407735,
+        "name": "Deathmatch Finale",
+        "icon": "assets/skills/6aa831f7.webp"
+      },
+      {
+        "id": 1125080500,
+        "name": "Explosive Plunge",
+        "icon": "assets/skills/430f5db4.webp"
+      },
+      {
+        "id": 1680578869,
+        "name": "Eye of the Storm",
+        "icon": "assets/skills/642b9935.webp"
+      },
+      {
+        "id": 3157193176,
+        "name": "Flashpoint",
+        "icon": null
+      },
+      {
+        "id": 2438680881,
+        "name": "Impale",
+        "icon": "assets/skills/915b5131.webp"
+      },
+      {
+        "id": 3166704226,
+        "name": "Martial Spear",
+        "icon": "assets/skills/bcc01262.webp"
+      },
+      {
+        "id": 2523875951,
+        "name": "Tip of the Spear",
+        "icon": "assets/skills/966f4a6f.webp"
+      }
+    ],
+    "Pl2500": [
+      {
+        "id": 3587292440,
+        "name": "Battle Hymn",
+        "icon": "assets/skills/d5d1bd18.webp"
+      },
+      {
+        "id": 2446910475,
+        "name": "Hammer of Thunder",
+        "icon": "assets/skills/91d8e40b.webp"
+      },
+      {
+        "id": 3594531077,
+        "name": "Nachtmusik",
+        "icon": "assets/skills/d6403105.webp"
+      },
+      {
+        "id": 1417427118,
+        "name": "Paeanic Aegis",
+        "icon": "assets/skills/547c38ae.webp"
+      },
+      {
+        "id": 1437523835,
+        "name": "Pistol of Demons",
+        "icon": "assets/skills/55aedf7b.webp"
+      },
+      {
+        "id": 1797369787,
+        "name": "Sostenuto",
+        "icon": "assets/skills/6b21afbb.webp"
+      },
+      {
+        "id": 3869072540,
+        "name": "Spear of Legends",
+        "icon": "assets/skills/e69d5c9c.webp"
+      },
+      {
+        "id": 3116579977,
+        "name": "Stave of Divinity",
+        "icon": "assets/skills/b9c33c89.webp"
+      }
+    ],
+    "Pl0200": [
+      {
+        "id": 2267579704,
+        "name": "Azure Sword",
+        "icon": "assets/skills/87288538.webp"
+      },
+      {
+        "id": 3976516683,
+        "name": "Emerald Shield",
+        "icon": "assets/skills/ed04d44b.webp"
+      },
+      {
+        "id": 2683137267,
+        "name": "Enchanted Lands",
+        "icon": "assets/skills/9fed6cf3.webp"
+      },
+      {
+        "id": 2668968402,
+        "name": "Frozen Blade",
+        "icon": "assets/skills/9f1539d2.webp"
+      },
+      {
+        "id": 1726453708,
+        "name": "Heal",
+        "icon": "assets/skills/66e797cc.webp"
+      },
+      {
+        "id": 1907891100,
+        "name": "Light Wall",
+        "icon": "assets/skills/71b81b9c.webp"
+      },
+      {
+        "id": 2040561038,
+        "name": "Sacred Winds",
+        "icon": "assets/skills/79a07d8e.webp"
+      },
+      {
+        "id": 3794052050,
+        "name": "Winter's Rain",
+        "icon": "assets/skills/e224a3d2.webp"
+      }
+    ],
+    "Pl2900": [
+      {
+        "id": 2551845052,
+        "name": "Claws of Reversal",
+        "icon": "assets/skills/981a10bc.webp"
+      },
+      {
+        "id": 2963188812,
+        "name": "Cursed Funeral",
+        "icon": "assets/skills/b09eac4c.webp"
+      },
+      {
+        "id": 3507722394,
+        "name": "Miasmic Abyss",
+        "icon": "assets/skills/d113989a.webp"
+      },
+      {
+        "id": 1917204136,
+        "name": "Primordial Fear",
+        "icon": "assets/skills/724636a8.webp"
+      },
+      {
+        "id": 2994298016,
+        "name": "Sign of Calamity",
+        "icon": "assets/skills/b2795ca0.webp"
+      },
+      {
+        "id": 2404293999,
+        "name": "Soul Breaker",
+        "icon": "assets/skills/8f4e9d6f.webp"
+      },
+      {
+        "id": 2982546603,
+        "name": "Sphere of Reversal",
+        "icon": "assets/skills/b1c60cab.webp"
+      },
+      {
+        "id": 3284391322,
+        "name": "The Black's Blessing",
+        "icon": "assets/skills/c3c3d59a.webp"
+      }
+    ]
+  },
+  "maxPerCharacter": 4
+}

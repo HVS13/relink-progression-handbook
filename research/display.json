@@ -1,0 +1,7540 @@
+{
+  "flatOvermastery": [
+    "032a5217",
+    "0781c7a2",
+    "0b134a7f",
+    "0cf5d0f3",
+    "0db88f30",
+    "0f25b474",
+    "0febc993",
+    "11023c6f",
+    "124db819",
+    "1268b903",
+    "13c9452a",
+    "155c25c3",
+    "1cc2f730",
+    "1e2b3db5",
+    "24499a25",
+    "254a08d4",
+    "2d6c03eb",
+    "2ea457f3",
+    "303becc0",
+    "3526fecb",
+    "38f656e7",
+    "394083bd",
+    "3ac53494",
+    "3ca4c8d5",
+    "3d6600d9",
+    "403be586",
+    "409df671",
+    "427b5e26",
+    "437c055d",
+    "44f04a7a",
+    "49089d4f",
+    "4ab91ea7",
+    "4c0cbd32",
+    "4ce64874",
+    "4e2513df",
+    "52a207b5",
+    "5382923d",
+    "53d358e0",
+    "5767dd9f",
+    "57bbc478",
+    "59dce1e8",
+    "5a51f0cb",
+    "5a57dc07",
+    "60835d4f",
+    "60926b53",
+    "61d4efa0",
+    "6564c02b",
+    "66092bc7",
+    "67bde89b",
+    "6e4f2f5e",
+    "6fb47781",
+    "7125942e",
+    "7cbbb4e0",
+    "7ccf98c5",
+    "7e870ebe",
+    "807e9e58",
+    "829b8b5c",
+    "834892b4",
+    "85f0f318",
+    "871d12cc",
+    "874353d7",
+    "8af65803",
+    "8e66b68c",
+    "8fe7fb0a",
+    "911d4f18",
+    "91265f66",
+    "93572974",
+    "937efb96",
+    "95567556",
+    "9a0988df",
+    "9a29aa64",
+    "9b6f164c",
+    "9bfd4548",
+    "9c6375cf",
+    "a1dc63b3",
+    "a257dac1",
+    "a2bcf523",
+    "a3460028",
+    "a85b4af5",
+    "aac23948",
+    "ab56bde3",
+    "accbece1",
+    "af0d8b97",
+    "b83aa115",
+    "bbe7992a",
+    "bd488071",
+    "be8c17d4",
+    "bf44c20b",
+    "c1360291",
+    "c265b03b",
+    "c2d708c1",
+    "c4925bd7",
+    "c52d2245",
+    "c5d68c62",
+    "c6bdc7a6",
+    "cb43ff8e",
+    "cb63be55",
+    "cb6bb434",
+    "ccef4492",
+    "cd5d6315",
+    "cf24e1a2",
+    "cf6b267a",
+    "d51958d1",
+    "da546dfe",
+    "dcbd8423",
+    "ddc29837",
+    "de6a367a",
+    "df2cab83",
+    "df2eef09",
+    "dfb00115",
+    "e056ba80",
+    "e7710898",
+    "ea5eaafc",
+    "ea99fa76",
+    "ee6100ca",
+    "eefb4ade",
+    "f004e9f2",
+    "f203bb15",
+    "f2111b99",
+    "f5514f81",
+    "f80e3310",
+    "fa230938",
+    "fa9bcf64",
+    "fb276afd",
+    "fe71865d",
+    "2676f9d2",
+    "2c1c933d",
+    "3356dd03",
+    "36f068fd",
+    "3dae6494",
+    "455d6a1c",
+    "59fbb7d8",
+    "6837e60c",
+    "6cb38ef3",
+    "7b05e679",
+    "7b498c32",
+    "9bf7878a",
+    "a3545ca1",
+    "a85495ba",
+    "a901e065",
+    "c11fdfbd",
+    "d5169339",
+    "d63dd12b",
+    "f5c314a0"
+  ],
+  "levelPlates": {
+    "digits": {
+      "lvl": {
+        "0": {
+          "h": 160,
+          "src": "assets/levelplates/digit-lvl-0.webp",
+          "w": 142
+        },
+        "1": {
+          "h": 173,
+          "src": "assets/levelplates/digit-lvl-1.webp",
+          "w": 78
+        },
+        "2": {
+          "h": 165,
+          "src": "assets/levelplates/digit-lvl-2.webp",
+          "w": 137
+        },
+        "3": {
+          "h": 220,
+          "src": "assets/levelplates/digit-lvl-3.webp",
+          "w": 129
+        },
+        "4": {
+          "h": 221,
+          "src": "assets/levelplates/digit-lvl-4.webp",
+          "w": 134
+        },
+        "5": {
+          "h": 221,
+          "src": "assets/levelplates/digit-lvl-5.webp",
+          "w": 140
+        },
+        "6": {
+          "h": 217,
+          "src": "assets/levelplates/digit-lvl-6.webp",
+          "w": 143
+        },
+        "7": {
+          "h": 218,
+          "src": "assets/levelplates/digit-lvl-7.webp",
+          "w": 138
+        },
+        "8": {
+          "h": 214,
+          "src": "assets/levelplates/digit-lvl-8.webp",
+          "w": 148
+        },
+        "9": {
+          "h": 218,
+          "src": "assets/levelplates/digit-lvl-9.webp",
+          "w": 142
+        }
+      },
+      "master": {
+        "0": {
+          "h": 160,
+          "src": "assets/levelplates/digit-master-0.webp",
+          "w": 142
+        },
+        "1": {
+          "h": 173,
+          "src": "assets/levelplates/digit-master-1.webp",
+          "w": 78
+        },
+        "2": {
+          "h": 165,
+          "src": "assets/levelplates/digit-master-2.webp",
+          "w": 137
+        },
+        "3": {
+          "h": 220,
+          "src": "assets/levelplates/digit-master-3.webp",
+          "w": 129
+        },
+        "4": {
+          "h": 221,
+          "src": "assets/levelplates/digit-master-4.webp",
+          "w": 134
+        },
+        "5": {
+          "h": 221,
+          "src": "assets/levelplates/digit-master-5.webp",
+          "w": 140
+        },
+        "6": {
+          "h": 217,
+          "src": "assets/levelplates/digit-master-6.webp",
+          "w": 143
+        },
+        "7": {
+          "h": 218,
+          "src": "assets/levelplates/digit-master-7.webp",
+          "w": 138
+        },
+        "8": {
+          "h": 214,
+          "src": "assets/levelplates/digit-master-8.webp",
+          "w": 148
+        },
+        "9": {
+          "h": 218,
+          "src": "assets/levelplates/digit-master-9.webp",
+          "w": 142
+        }
+      }
+    },
+    "master": {
+      "h": 348,
+      "src": "assets/levelplates/master.webp",
+      "w": 332
+    },
+    "plate": {
+      "h": 296,
+      "src": "assets/levelplates/plate.webp",
+      "w": 296
+    },
+    "stars": {
+      "1": {
+        "h": 175,
+        "src": "assets/levelplates/stars-1.webp",
+        "w": 184
+      },
+      "2": {
+        "h": 176,
+        "src": "assets/levelplates/stars-2.webp",
+        "w": 184
+      },
+      "3": {
+        "h": 187,
+        "src": "assets/levelplates/stars-3.webp",
+        "w": 184
+      },
+      "4": {
+        "h": 188,
+        "src": "assets/levelplates/stars-4.webp",
+        "w": 183
+      },
+      "5": {
+        "h": 188,
+        "src": "assets/levelplates/stars-5.webp",
+        "w": 216
+      }
+    }
+  },
+  "masterTraitCharas": [
+    "pl0000",
+    "pl0100",
+    "pl0200",
+    "pl0300",
+    "pl0400",
+    "pl0500",
+    "pl0600",
+    "pl0700",
+    "pl0800",
+    "pl0900",
+    "pl1000",
+    "pl1100",
+    "pl1200",
+    "pl1300",
+    "pl1400",
+    "pl1500",
+    "pl1600",
+    "pl1700",
+    "pl1800",
+    "pl1900",
+    "pl2100",
+    "pl2200",
+    "pl2300",
+    "pl2400",
+    "pl2500",
+    "pl2600",
+    "pl2700",
+    "pl2800",
+    "pl2900"
+  ],
+  "masterTraitCounters": {
+    "EX": "assets/mastertraits/counter/ex.webp",
+    "rank1": "assets/mastertraits/counter/rank1.webp",
+    "rank2": "assets/mastertraits/counter/rank2.webp",
+    "rank3": "assets/mastertraits/counter/rank3.webp"
+  },
+  "masterTraitFrames": {
+    "EX": "assets/mastertraits/frame/ex.webp",
+    "rank1": "assets/mastertraits/frame/rank1.webp",
+    "rank2": "assets/mastertraits/frame/rank2.webp",
+    "rank3": "assets/mastertraits/frame/rank3.webp"
+  },
+  "masterTraitNodes": {},
+  "overMasteryMultipliers": {
+    "59fbb7d8": 10,
+    "6cb38ef3": 10,
+    "a3545ca1": 10
+  },
+  "overmasteryByName": {
+    "Attack Power Up": {
+      "flat": true,
+      "icon": "assets/overmastery/cmn_iclb_s_01.webp"
+    },
+    "Chain Burst Damage Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_07.webp"
+    },
+    "Critical Hit Rate Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_03.webp"
+    },
+    "Health Up": {
+      "flat": true,
+      "icon": "assets/overmastery/cmn_iclb_s_02.webp"
+    },
+    "Normal Attack Damage Cap Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_11.webp"
+    },
+    "Skill Damage Cap Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_13.webp"
+    },
+    "Skill Damage Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_08.webp"
+    },
+    "Skill Healing Cap Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_15.webp"
+    },
+    "Skybound Art Damage Cap Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_14.webp"
+    },
+    "Skybound Art Damage Up": {
+      "flat": false,
+      "icon": "assets/overmastery/cmn_iclb_s_06.webp"
+    },
+    "Stun Power Up": {
+      "flat": true,
+      "icon": "assets/overmastery/cmn_iclb_s_04.webp"
+    }
+  },
+  "skillGroups": {
+    "Pl0000": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          310,
+          320,
+          330,
+          400,
+          410
+        ]
+      },
+      "armor-break": {
+        "name": "Armor Break",
+        "skills": [
+          1501,
+          1502,
+          1503,
+          1504
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          221,
+          240
+        ]
+      },
+      "decimate": {
+        "name": "Decimate",
+        "skills": [
+          1201,
+          1202,
+          1203,
+          1204
+        ]
+      },
+      "dispel": {
+        "name": "Dispel",
+        "skills": [
+          2410,
+          2411,
+          2412,
+          2413
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          110,
+          120,
+          121,
+          130,
+          131
+        ]
+      },
+      "overdrive-surge": {
+        "name": "Overdrive Surge",
+        "skills": [
+          1001,
+          1002,
+          1003,
+          1004
+        ]
+      },
+      "power-raise": {
+        "name": "Power Raise",
+        "skills": [
+          200,
+          201,
+          202,
+          203,
+          204,
+          205
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          210,
+          220,
+          230
+        ]
+      },
+      "rain-of-arrows": {
+        "name": "Rain of Arrows",
+        "skills": [
+          1301,
+          1302,
+          1303,
+          1304
+        ]
+      },
+      "reginleiv": {
+        "name": "Reginleiv",
+        "skills": [
+          2001,
+          2002,
+          2003,
+          2004
+        ]
+      }
+    },
+    "Pl0100": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          310,
+          320,
+          330,
+          400,
+          410
+        ]
+      },
+      "armor-break": {
+        "name": "Armor Break",
+        "skills": [
+          1501,
+          1502,
+          1503,
+          1504
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          221,
+          240
+        ]
+      },
+      "decimate": {
+        "name": "Decimate",
+        "skills": [
+          1201,
+          1202,
+          1203,
+          1204
+        ]
+      },
+      "dispel": {
+        "name": "Dispel",
+        "skills": [
+          2410,
+          2411,
+          2412,
+          2413
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          110,
+          120,
+          121,
+          130,
+          131
+        ]
+      },
+      "overdrive-surge": {
+        "name": "Overdrive Surge",
+        "skills": [
+          1001,
+          1002,
+          1003,
+          1004
+        ]
+      },
+      "power-raise": {
+        "name": "Power Raise",
+        "skills": [
+          200,
+          201,
+          202,
+          203,
+          204,
+          205
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          210,
+          220,
+          230
+        ]
+      },
+      "rain-of-arrows": {
+        "name": "Rain of Arrows",
+        "skills": [
+          1301,
+          1302,
+          1303,
+          1304
+        ]
+      },
+      "reginleiv": {
+        "name": "Reginleiv",
+        "skills": [
+          2001,
+          2002,
+          2003,
+          2004
+        ]
+      }
+    },
+    "Pl0200": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          303,
+          400,
+          410
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          110,
+          120,
+          130,
+          140
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103,
+          104
+        ]
+      },
+      "oathsworn-blade": {
+        "name": "Oathsworn Blade",
+        "skills": [
+          200,
+          201,
+          202
+        ]
+      },
+      "pactstrike": {
+        "name": "Pactstrike",
+        "skills": [
+          240,
+          241,
+          242,
+          243,
+          244,
+          245,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          259
+        ]
+      }
+    },
+    "Pl0300": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "bullseye-blast": {
+        "name": "Bull's Eye Blast",
+        "skills": [
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ]
+      }
+    },
+    "Pl0400": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "flowery-seven": {
+        "name": "Flowery Seven",
+        "skills": [
+          4000,
+          4001,
+          4100,
+          4101,
+          4102,
+          4103,
+          4104,
+          4105,
+          4106,
+          4200,
+          4201,
+          4202,
+          4203,
+          4204,
+          4205,
+          4206
+        ]
+      },
+      "gravity-well": {
+        "name": "Gravity Well",
+        "skills": [
+          7200,
+          7201,
+          7202,
+          7203
+        ]
+      },
+      "lightning": {
+        "name": "Lightning",
+        "skills": [
+          8200,
+          8201,
+          8202,
+          8203
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          110,
+          120
+        ]
+      },
+      "stargaze": {
+        "name": "Stargaze",
+        "skills": [
+          210,
+          211,
+          212,
+          213,
+          214
+        ]
+      }
+    },
+    "Pl0500": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "detonator": {
+        "name": "Detonator",
+        "skills": [
+          2,
+          22,
+          32
+        ]
+      },
+      "grenade": {
+        "name": "Grenade",
+        "skills": [
+          210,
+          215,
+          220,
+          221,
+          222
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          105,
+          110,
+          111,
+          112
+        ]
+      }
+    },
+    "Pl0600": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "lost-love": {
+        "name": "Lost Love",
+        "skills": [
+          6,
+          16,
+          26,
+          36
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103
+        ]
+      },
+      "rose-attack": {
+        "name": "Rose Attack",
+        "skills": [
+          200,
+          201,
+          202,
+          203,
+          204,
+          1
+        ]
+      },
+      "spiral-rose": {
+        "name": "Spiral Rose",
+        "skills": [
+          4,
+          14,
+          24,
+          34
+        ]
+      }
+    },
+    "Pl0700": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          102,
+          111,
+          110,
+          112,
+          101,
+          120,
+          122,
+          121
+        ]
+      }
+    },
+    "Pl0800": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          150,
+          151,
+          152
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102
+        ]
+      },
+      "stiller-glantz": {
+        "name": "Stiller Glanz",
+        "skills": [
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109
+        ]
+      }
+    },
+    "Pl0900": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          310,
+          320,
+          400,
+          410
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          111,
+          121,
+          104
+        ]
+      },
+      "heavy-swing": {
+        "name": "Beatdown Combo",
+        "skills": [
+          200,
+          201,
+          202,
+          203,
+          204
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          110,
+          120,
+          103
+        ]
+      }
+    },
+    "Pl1000": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          310,
+          320,
+          400,
+          410
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          110,
+          120
+        ]
+      },
+      "schlaht": {
+        "name": "Schlacht",
+        "skills": [
+          200,
+          201
+        ]
+      }
+    },
+    "Pl1100": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          311,
+          312,
+          313,
+          400,
+          410
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          104,
+          124,
+          150,
+          164,
+          114
+        ]
+      },
+      "lunge": {
+        "name": "Lunge",
+        "skills": [
+          200,
+          201,
+          202,
+          203
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103,
+          111,
+          112,
+          122,
+          162,
+          113,
+          123,
+          163
+        ]
+      }
+    },
+    "Pl1200": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "noble-stance": {
+        "name": "Noble Stance",
+        "skills": [
+          103,
+          104,
+          105,
+          106,
+          107
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          200,
+          201,
+          202
+        ]
+      },
+      "sword-of-lumiel": {
+        "name": "Sword of Lumiel",
+        "skills": [
+          1600,
+          1610
+        ]
+      },
+      "yellow-power-strike": {
+        "name": "Yellow Power Strike",
+        "skills": [
+          110,
+          120,
+          130
+        ]
+      }
+    },
+    "Pl1300": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          303,
+          400,
+          410
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          150,
+          151,
+          152,
+          153,
+          154
+        ]
+      },
+      "flashing-void": {
+        "name": "Flashing Void",
+        "skills": [
+          17,
+          18
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          110,
+          120,
+          130,
+          140
+        ]
+      },
+      "sharpened-focus": {
+        "name": "Sharpened Focus",
+        "skills": [
+          111,
+          121,
+          131,
+          141
+        ]
+      }
+    },
+    "Pl1400": {
+      "apex": {
+        "name": "Apex of Nothingness",
+        "skills": [
+          3,
+          10,
+          11
+        ]
+      },
+      "dawnfly-aerial-attack": {
+        "name": null,
+        "skills": [
+          1300,
+          1310,
+          1320,
+          1400,
+          1410,
+          1411
+        ]
+      },
+      "dawnfly-attack": {
+        "name": "Dawnfly/Pink Attack",
+        "skills": [
+          1100,
+          1103,
+          1106,
+          1108
+        ]
+      },
+      "dawnfly-charged-attack": {
+        "name": "Dawnfly/Pink Charged Attack",
+        "skills": [
+          1109,
+          1150,
+          1151
+        ]
+      },
+      "dawnfly-finisher": {
+        "name": "Dawnfly/Pink Finisher",
+        "skills": [
+          1000,
+          4000
+        ]
+      },
+      "freeflutter-aerial-attack": {
+        "name": "Freeflutter/Blue Aerial Attack",
+        "skills": [
+          300,
+          310,
+          320,
+          400,
+          410,
+          411
+        ]
+      },
+      "freeflutter-attack": {
+        "name": "Freeflutter/Blue Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          110,
+          111,
+          112,
+          113,
+          114
+        ]
+      },
+      "freeflutter-finisher": {
+        "name": "Freeflutter/Blue Finisher",
+        "skills": [
+          2000,
+          2001,
+          3000
+        ]
+      },
+      "transient": {
+        "name": "Transient",
+        "skills": [
+          5,
+          1005
+        ]
+      }
+    },
+    "Pl1500": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          303,
+          310,
+          311,
+          400,
+          410
+        ]
+      },
+      "aerial-finisher": {
+        "name": "Aerial Finisher",
+        "skills": [
+          302,
+          303,
+          311
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          104,
+          114,
+          124
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103,
+          111,
+          112,
+          113,
+          122,
+          123
+        ]
+      }
+    },
+    "Pl1600": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          303,
+          400,
+          410
+        ]
+      },
+      "loop-combo": {
+        "name": "Loop Combo",
+        "skills": [
+          110,
+          111,
+          210
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102
+        ]
+      },
+      "realms-majesty": {
+        "name": "Realm's Majesty",
+        "skills": [
+          1700,
+          1702,
+          1703
+        ]
+      }
+    },
+    "Pl1700": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          280,
+          281,
+          251,
+          252
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          110,
+          120,
+          114,
+          122
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          112,
+          113,
+          121,
+          130
+        ]
+      }
+    },
+    "Pl1800": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "enhanced-collapse": {
+        "name": "Enhanced Collapse",
+        "skills": [
+          210,
+          220,
+          230
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          111,
+          121,
+          131,
+          105
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          110,
+          120,
+          130,
+          104
+        ]
+      }
+    },
+    "Pl1900": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "atonement": {
+        "name": "Atonement",
+        "skills": [
+          3,
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "lunge": {
+        "name": "Lunge",
+        "skills": [
+          200,
+          201,
+          202,
+          203
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          1010
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          503,
+          505,
+          506,
+          507,
+          508,
+          509
+        ]
+      },
+      "reginleiv": {
+        "name": "Reginleiv Recidiv",
+        "skills": [
+          1,
+          10
+        ]
+      }
+    },
+    "Pl2000": {
+      "aerial-attack": {
+        "name": "Aerial Attack (Dragonform)",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack (Dragonform)",
+        "skills": [
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109
+        ]
+      }
+    },
+    "Pl2100": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          310,
+          320,
+          400,
+          410
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          116,
+          117,
+          150,
+          6000
+        ]
+      },
+      "finisher-wings": {
+        "name": "Finisher (Chromatic Wings)",
+        "skills": [
+          165,
+          166,
+          6001
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          111,
+          112,
+          122,
+          114,
+          115,
+          140
+        ]
+      },
+      "normal-attack-wings": {
+        "name": "Normal Attack (Chromatic Wings)",
+        "skills": [
+          141,
+          160,
+          161,
+          162,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175
+        ]
+      },
+      "talviyo": {
+        "name": "Talviyö",
+        "skills": [
+          2600,
+          2601,
+          2603,
+          2604
+        ]
+      }
+    },
+    "Pl2200": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          303,
+          400,
+          410
+        ]
+      },
+      "avatar-attack": {
+        "name": "Normal Attack (Avatar)",
+        "skills": [
+          900,
+          901,
+          902,
+          903,
+          940,
+          941
+        ]
+      },
+      "avatar-finisher": {
+        "name": "Finisher (Avatar)",
+        "skills": [
+          904,
+          911,
+          921,
+          931
+        ]
+      },
+      "avatar-power-strike": {
+        "name": "Power Strike (Avatar)",
+        "skills": [
+          910,
+          920,
+          930
+        ]
+      },
+      "barrido": {
+        "name": "Barrido",
+        "skills": [
+          1000,
+          1001
+        ]
+      },
+      "despedezar": {
+        "name": "Despedezar",
+        "skills": [
+          6000,
+          6001
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          104,
+          111,
+          121,
+          131
+        ]
+      },
+      "infinito-creare": {
+        "name": "Infinito Creare",
+        "skills": [
+          2000,
+          2001
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103,
+          140,
+          141
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          110,
+          120,
+          130
+        ]
+      },
+      "rotura": {
+        "name": "Rotura",
+        "skills": [
+          3000,
+          3001
+        ]
+      }
+    },
+    "Pl2300": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          310,
+          320,
+          400,
+          410
+        ]
+      },
+      "charged-combo-finisher": {
+        "name": "Combo Finisher (Charged)",
+        "skills": [
+          152,
+          171
+        ]
+      },
+      "charged-normal-attack": {
+        "name": "Normal Attack (Charged)",
+        "skills": [
+          101,
+          111,
+          121
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          151,
+          160,
+          170
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          110,
+          120
+        ]
+      },
+      "power-finisher": {
+        "name": "Power Finisher",
+        "skills": [
+          155,
+          156,
+          165,
+          175,
+          176
+        ]
+      },
+      "two-crown-strife": {
+        "name": "Two-Crown's Strife",
+        "skills": [
+          1700,
+          1701
+        ]
+      }
+    },
+    "Pl2400": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          310,
+          400,
+          410
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          104,
+          111,
+          121
+        ]
+      },
+      "infinite-combo": {
+        "name": "Deathmatch Normal Attack",
+        "skills": [
+          140,
+          141,
+          142,
+          150
+        ]
+      },
+      "martial-spear": {
+        "name": "Martial Spear",
+        "skills": [
+          1400,
+          1410
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103,
+          115,
+          125
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          110,
+          116,
+          120,
+          130
+        ]
+      },
+      "turbine-deathmatch-release": {
+        "name": "Turbine (Deathmatch Finisher)",
+        "skills": [
+          212,
+          233
+        ]
+      },
+      "turbine-hold": {
+        "name": "Turbine (Hold)",
+        "skills": [
+          200,
+          202,
+          203,
+          204,
+          205,
+          210,
+          220,
+          230,
+          231
+        ]
+      },
+      "turbine-normal-release": {
+        "name": "Turbine (Finisher)",
+        "skills": [
+          201,
+          211,
+          232
+        ]
+      }
+    },
+    "Pl2500": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          400,
+          410
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          210,
+          220,
+          230,
+          999
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103
+        ]
+      }
+    },
+    "Pl2600": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          310,
+          400,
+          410
+        ]
+      },
+      "embrasque-aerial": {
+        "name": "Aerial Attack (Devour Causality)",
+        "skills": [
+          850,
+          851,
+          852,
+          855,
+          860,
+          870
+        ]
+      },
+      "embrasque-attack": {
+        "name": "Normal Attack (Devour Causality)",
+        "skills": [
+          900,
+          901,
+          902,
+          903
+        ]
+      },
+      "embrasque-finisher": {
+        "name": "Finisher (Devour Causality)",
+        "skills": [
+          911,
+          921,
+          931,
+          940,
+          950,
+          960,
+          970,
+          980
+        ]
+      },
+      "embrasque-power-strike": {
+        "name": "Power Strike (Devour Causality)",
+        "skills": [
+          910,
+          920,
+          930
+        ]
+      },
+      "finisher": {
+        "name": "Finisher",
+        "skills": [
+          111,
+          121,
+          131,
+          140
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102,
+          103
+        ]
+      },
+      "power-strike": {
+        "name": "Power Strike",
+        "skills": [
+          110,
+          120,
+          130
+        ]
+      }
+    },
+    "Pl2700": {
+      "acidrage-howl": {
+        "name": "Acidrage Howl",
+        "skills": [
+          1300,
+          1310
+        ]
+      },
+      "aerial-shot": {
+        "name": "Aerial Shot",
+        "skills": [
+          300,
+          301,
+          302,
+          303,
+          304,
+          400
+        ]
+      },
+      "flamek-thunder": {
+        "name": "Flamek Thunder",
+        "skills": [
+          1600,
+          1601,
+          1602
+        ]
+      },
+      "forever-yours": {
+        "name": "Forever Yours",
+        "skills": [
+          1100,
+          1110,
+          1120
+        ]
+      },
+      "shot-1": {
+        "name": "Grade I",
+        "skills": [
+          110,
+          120
+        ]
+      },
+      "shot-2": {
+        "name": "Grade II",
+        "skills": [
+          111,
+          112,
+          113,
+          121,
+          122,
+          123
+        ]
+      },
+      "shot-3": {
+        "name": "Grade III",
+        "skills": [
+          114,
+          115,
+          124,
+          125
+        ]
+      },
+      "shot-4": {
+        "name": "Grade IV",
+        "skills": [
+          130,
+          140
+        ]
+      },
+      "slow-kill": {
+        "name": "Slow Kill",
+        "skills": [
+          1000,
+          1001,
+          1010,
+          1011
+        ]
+      }
+    },
+    "Pl2800": {
+      "dead-lands": {
+        "name": "Dead Lands",
+        "skills": [
+          5000,
+          5010
+        ]
+      },
+      "kick-face": {
+        "name": "Kick Face",
+        "skills": [
+          6000,
+          6001,
+          6002
+        ]
+      },
+      "reversed-aerial": {
+        "name": "Aerial Attack (Reversed)",
+        "skills": [
+          310,
+          311,
+          312,
+          315,
+          401,
+          411
+        ]
+      },
+      "reversed-attack": {
+        "name": "Normal Attack (Reversed)",
+        "skills": [
+          900,
+          901,
+          902,
+          910,
+          970
+        ]
+      },
+      "reversed-finisher": {
+        "name": "Finisher (Reversed)",
+        "skills": [
+          920,
+          931,
+          941,
+          951
+        ]
+      },
+      "reversed-power-strike": {
+        "name": "Power Strike (Reversed)",
+        "skills": [
+          930,
+          940,
+          950
+        ]
+      },
+      "upright-aerial": {
+        "name": "Aerial Attack (Upright)",
+        "skills": [
+          300,
+          301,
+          302,
+          305,
+          400,
+          410
+        ]
+      },
+      "upright-attack": {
+        "name": "Normal Attack (Upright)",
+        "skills": [
+          100,
+          101,
+          102,
+          110,
+          111,
+          116,
+          170
+        ]
+      },
+      "upright-finisher": {
+        "name": "Finisher (Upright)",
+        "skills": [
+          120,
+          121,
+          131,
+          141,
+          151
+        ]
+      },
+      "upright-power-strike": {
+        "name": "Power Strike (Upright)",
+        "skills": [
+          130,
+          140,
+          150
+        ]
+      }
+    },
+    "Pl2900": {
+      "aerial-attack": {
+        "name": "Aerial Attack",
+        "skills": [
+          300,
+          301,
+          302,
+          310,
+          400,
+          410
+        ]
+      },
+      "claws-of-reversal": {
+        "name": "Claws of Reversal",
+        "skills": [
+          2000,
+          2010,
+          2020
+        ]
+      },
+      "combo-finisher": {
+        "name": "Combo Finisher",
+        "skills": [
+          950,
+          951,
+          952,
+          953,
+          954
+        ]
+      },
+      "miasma-hands": {
+        "name": "Miasma Hands",
+        "skills": [
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      "normal-attack": {
+        "name": "Normal Attack",
+        "skills": [
+          100,
+          101,
+          102
+        ]
+      },
+      "sphere-of-reversal": {
+        "name": "Sphere of Reversal",
+        "skills": [
+          8000,
+          8010,
+          8020,
+          8030
+        ]
+      },
+      "stomp": {
+        "name": "Stomp",
+        "skills": [
+          103,
+          110,
+          111,
+          112,
+          113,
+          120
+        ]
+      },
+      "voidskip": {
+        "name": "Voidskip",
+        "skills": [
+          210,
+          220,
+          250,
+          260
+        ]
+      }
+    }
+  },
+  "statusCatalog": {
+    "0": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "ATK is boosted",
+      "find": "atk atkup is boosted buff attack damage offence offense up",
+      "icon": "assets/status/cmn_icstts_str_000_00.webp",
+      "key": "atkup",
+      "name": "ATK↑",
+      "paramName": "ATK↑ ({0}%)"
+    },
+    "1": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "DEF is boosted",
+      "find": "def defup is boosted buff defence defense mitigation up",
+      "icon": "assets/status/cmn_icstts_str_001_00.webp",
+      "key": "defup",
+      "name": "DEF↑",
+      "paramName": "DEF↑ ({0}%)"
+    },
+    "2": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "ATK is lowered",
+      "find": "atk atkdown is lowered debuff",
+      "icon": "assets/status/cmn_icstts_wkn_000_00.webp",
+      "key": "atkdown",
+      "name": "ATK↓",
+      "paramName": "ATK↓ ({0}%)"
+    },
+    "3": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "DEF is lowered",
+      "find": "def defdown is lowered debuff",
+      "icon": "assets/status/cmn_icstts_wkn_001_00.webp",
+      "key": "defdown",
+      "name": "DEF↓",
+      "paramName": "DEF↓ ({0}%)"
+    },
+    "4": {
+      "beneficial": true,
+      "desc": "DMG taken is lowered",
+      "find": "dmg cut damagecut taken is lowered buff",
+      "icon": "assets/status/cmn_icstts_str_007_00.webp",
+      "key": "damagecut",
+      "name": "DMG Cut",
+      "paramName": "DMG Cut ({0}%)",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_007_00.webp",
+        "1": "assets/status/cmn_icstts_str_007_01.webp",
+        "2": "assets/status/cmn_icstts_str_007_02.webp",
+        "3": "assets/status/cmn_icstts_str_007_03.webp",
+        "4": "assets/status/cmn_icstts_str_007_04.webp",
+        "5": "assets/status/cmn_icstts_str_007_05.webp",
+        "6": "assets/status/cmn_icstts_str_007_06.webp",
+        "7": "assets/status/cmn_icstts_str_007_07.webp",
+        "8": "assets/status/cmn_icstts_str_007_08.webp",
+        "9": "assets/status/cmn_icstts_str_007_09.webp"
+      }
+    },
+    "5": {
+      "beneficial": true,
+      "colour": "#51d662",
+      "desc": "HP is recovered over time",
+      "find": "regen regeneration hp is recovered over time buff",
+      "icon": "assets/status/cmn_icstts_rcv_001_00.webp",
+      "key": "regeneration",
+      "name": "Regen"
+    },
+    "6": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "DMG taken is nullified",
+      "find": "invincibility muteki dmg taken is nullified buff",
+      "icon": "assets/status/cmn_icstts_str_003_00.webp",
+      "key": "muteki",
+      "name": "Invincibility"
+    },
+    "7": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Deals additional DMG on hit",
+      "find": "supplementary dmg tsuigeki deals additional on hit buff",
+      "icon": "assets/status/cmn_icstts_str_004_00.webp",
+      "key": "tsuigeki",
+      "name": "Supplementary DMG"
+    },
+    "8": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Taking damage doesn't interrupt character actions",
+      "find": "stout heart hyperarmor taking damage doesn t interrupt character actions buff",
+      "icon": "assets/status/cmn_icstts_str_014_00.webp",
+      "key": "hyperarmor",
+      "name": "Stout Heart"
+    },
+    "9": {
+      "beneficial": true,
+      "colour": "#51d683",
+      "desc": "DMG is nullified for a set number of hits",
+      "find": "mirror image illusion dmg is nullified for a set number of hits buff",
+      "icon": "assets/status/cmn_icstts_str_006_00.webp",
+      "key": "illusion",
+      "name": "Mirror Image",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_006_00.webp",
+        "1": "assets/status/cmn_icstts_str_006_01.webp",
+        "2": "assets/status/cmn_icstts_str_006_02.webp",
+        "3": "assets/status/cmn_icstts_str_006_03.webp",
+        "4": "assets/status/cmn_icstts_str_006_04.webp"
+      }
+    },
+    "10": {
+      "beneficial": true,
+      "colour": "#5162d6",
+      "desc": "Takes DMG in place of an ally",
+      "find": "substitute protect takes dmg in place of an ally buff tank taunt cover shield",
+      "icon": "assets/status/cmn_icstts_str_015_00.webp",
+      "key": "protect",
+      "name": "Substitute"
+    },
+    "11": {
+      "beneficial": true,
+      "colour": "#5162d6",
+      "desc": "Defended by an ally",
+      "find": "covered protected defended by an ally buff",
+      "icon": "assets/status/cmn_icstts_str_016_00.webp",
+      "key": "protected",
+      "name": "Covered"
+    },
+    "12": {
+      "beneficial": true,
+      "find": "buff",
+      "key": "",
+      "name": "Manigance"
+    },
+    "13": {
+      "beneficial": true,
+      "find": "buff",
+      "key": "",
+      "name": "Valiant Stance"
+    },
+    "14": {
+      "beneficial": true,
+      "find": "buff",
+      "key": "",
+      "name": "Trice Blade"
+    },
+    "15": {
+      "beneficial": false,
+      "find": "debuff",
+      "key": "",
+      "name": null
+    },
+    "16": {
+      "beneficial": true,
+      "find": "buff",
+      "key": "",
+      "name": "Cleanse"
+    },
+    "17": {
+      "beneficial": true,
+      "colour": "#51c6d6",
+      "desc": "All status ailments are nullified",
+      "find": "debuff immunity antidebuff all status ailments are nullified buff",
+      "icon": "assets/status/cmn_icstts_str_005_00.webp",
+      "key": "antidebuff",
+      "name": "Debuff Immunity"
+    },
+    "18": {
+      "beneficial": true,
+      "colour": "#6251d6",
+      "desc": "Recover HP upon dealing DMG",
+      "find": "drain recover hp upon dealing dmg buff heal lifesteal leech",
+      "icon": "assets/status/cmn_icstts_rcv_003_00.webp",
+      "key": "drain",
+      "name": "Drain"
+    },
+    "19": {
+      "beneficial": true,
+      "find": "buff",
+      "key": "",
+      "name": "Draconic Release"
+    },
+    "20": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "Survive lethal DMG with 1 HP left",
+      "find": "guts survive lethal dmg with 1 hp left buff",
+      "icon": "assets/status/cmn_icstts_str_018_00.webp",
+      "key": "guts",
+      "name": "Guts",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_018_00.webp",
+        "1": "assets/status/cmn_icstts_str_018_01.webp",
+        "2": "assets/status/cmn_icstts_str_018_02.webp",
+        "3": "assets/status/cmn_icstts_str_018_03.webp",
+        "4": "assets/status/cmn_icstts_str_018_04.webp"
+      }
+    },
+    "21": {
+      "beneficial": true,
+      "colour": "#d68351",
+      "desc": "ATK is boosted based on how high HP is",
+      "find": "strength atk is boosted based on how high hp buff",
+      "icon": "assets/status/cmn_icstts_str_002_00.webp",
+      "key": "strength",
+      "name": "Strength",
+      "paramName": "Strength (Max {0}%)"
+    },
+    "22": {
+      "beneficial": true,
+      "colour": "#d68351",
+      "desc": "ATK is boosted based on how low HP is",
+      "find": "jammed gyakkyou atk is boosted based on how low hp buff",
+      "icon": "assets/status/cmn_icstts_str_013_00.webp",
+      "key": "gyakkyou",
+      "name": "Jammed",
+      "paramName": "Jammed (Max {0}%)"
+    },
+    "23": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Critical hit rate is boosted",
+      "find": "critical hit rate criticalup is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_021_00.webp",
+      "key": "criticalup",
+      "name": "Critical Hit Rate↑",
+      "paramName": "Critical Hit Rate↑ ({0}%)",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_021_00.webp",
+        "1": "assets/status/cmn_icstts_str_021_01.webp"
+      }
+    },
+    "24": {
+      "beneficial": true,
+      "colour": "#d68351",
+      "desc": "More likely to be attacked",
+      "find": "hostility hateup more likely to be attacked buff",
+      "icon": "assets/status/cmn_icstts_wkn_014_00.webp",
+      "key": "hateup",
+      "name": "Hostility↑"
+    },
+    "25": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "desc": "Automatically recover from critical condition",
+      "find": "autorevive automatically recover from critical condition buff",
+      "icon": "assets/status/cmn_icstts_rcv_002_00.webp",
+      "key": "autorevive",
+      "name": "Autorevive"
+    },
+    "26": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "desc": "Stargaze is enhanced",
+      "find": "mystic vortex magicvortex stargaze is enhanced buff",
+      "icon": "assets/status/cmn_icstts_str_010_00.webp",
+      "key": "magicvortex",
+      "name": "Mystic Vortex",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_010_00.webp",
+        "1": "assets/status/cmn_icstts_str_010_01.webp",
+        "2": "assets/status/cmn_icstts_str_010_02.webp"
+      }
+    },
+    "27": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "desc": "Stargaze's charge speed is boosted",
+      "find": "focused concentration stargaze s charge speed is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_017_00.webp",
+      "key": "concentration",
+      "name": "Focused"
+    },
+    "28": {
+      "beneficial": true,
+      "colour": "#d65183",
+      "desc": "When Rosetta attacks, roses also attack",
+      "find": "iron maiden ironmeiden when rosetta attacks roses also attack buff",
+      "icon": "assets/status/cmn_icstts_str_019_00.webp",
+      "key": "ironmeiden",
+      "name": "Iron Maiden"
+    },
+    "29": {
+      "beneficial": true,
+      "colour": "#a551d6",
+      "desc": "Combat ability is boosted by dragon power",
+      "find": "dragonform idodragon combat ability is boosted by dragon power buff",
+      "icon": "assets/status/cmn_icstts_str_011_00.webp",
+      "key": "idodragon",
+      "name": "Dragonform"
+    },
+    "30": {
+      "beneficial": true,
+      "colour": "#a551d6",
+      "desc": "Combat ability is greatly boosted by dragon power",
+      "find": "godmight idosuper combat ability is greatly boosted by dragon power buff",
+      "icon": "assets/status/cmn_icstts_str_012_00.webp",
+      "key": "idosuper",
+      "name": "Godmight"
+    },
+    "31": {
+      "beneficial": true,
+      "colour": "#d65162",
+      "desc": "ATK is boosted and can't enter critical condition",
+      "find": "undying undead atk is boosted and can t enter critical condition buff",
+      "icon": "assets/status/cmn_icstts_str_024_00.webp",
+      "key": "undead",
+      "name": "Undying"
+    },
+    "32": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Sharp boost to resistance against all attacks",
+      "find": "bloodthirst sharp boost to resistance against all attacks buff",
+      "icon": "assets/status/cmn_icstts_str_020_00.webp",
+      "key": "",
+      "name": "Bloodthirst"
+    },
+    "33": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "desc": "ATK, DEF, and critical hit rate are boosted",
+      "find": "phantasmagoria atk def and critical hit rate are boosted buff",
+      "icon": "assets/status/cmn_icstts_str_021_01.webp",
+      "key": "phantasmagoria",
+      "name": "Phantasmagoria",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_021_00.webp",
+        "1": "assets/status/cmn_icstts_str_021_01.webp"
+      }
+    },
+    "36": {
+      "beneficial": true,
+      "colour": "#a551d6",
+      "desc": "DEF is boosted and all status ailments are nullified",
+      "find": "abyssal glory em1806 def is boosted and all status ailments are nullified buff",
+      "icon": "assets/status/cmn_icstts_str_025_00.webp",
+      "key": "em1806",
+      "name": "Abyssal Glory"
+    },
+    "37": {
+      "beneficial": false,
+      "colour": "#d66251",
+      "desc": "Max HP is reduced",
+      "find": "max hp maxhpdown is reduced debuff",
+      "icon": "assets/status/cmn_icstts_wkn_022_04.webp",
+      "key": "maxhpdown",
+      "name": "Max HP↓",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_wkn_022_00.webp",
+        "1": "assets/status/cmn_icstts_wkn_022_01.webp",
+        "2": "assets/status/cmn_icstts_wkn_022_02.webp",
+        "3": "assets/status/cmn_icstts_wkn_022_03.webp",
+        "4": "assets/status/cmn_icstts_wkn_022_04.webp"
+      }
+    },
+    "38": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "Rackam's  attacks are enhanced",
+      "find": "double tap doubletap rackam s attacks are enhanced buff",
+      "icon": "assets/status/cmn_icstts_str_023_00.webp",
+      "key": "doubletap",
+      "name": "Double Tap"
+    },
+    "41": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "desc": "Nullifies a fixed amount of DMG taken",
+      "find": "shield barrier nullifies a fixed amount of dmg taken buff",
+      "icon": "assets/status/cmn_icstts_str_008_00.webp",
+      "key": "barrier",
+      "name": "Shield"
+    },
+    "42": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "Damage dealt is boosted",
+      "find": "dmg dmgup damage dealt is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_028_00.webp",
+      "key": "dmgup",
+      "name": "DMG↑"
+    },
+    "43": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "desc": "Ultrasight lvl gain is boosted",
+      "find": "deadshot sharpshoot ultrasight lvl gain is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_027_00.webp",
+      "key": "sharpshoot",
+      "name": "Deadshot"
+    },
+    "44": {
+      "beneficial": true,
+      "colour": "#5162d6",
+      "desc": "Damage skills are enhanced",
+      "find": "bring the thunder senrai damage skills are enhanced buff",
+      "icon": "assets/status/cmn_icstts_str_026_00.webp",
+      "key": "senrai",
+      "name": "Bring the Thunder"
+    },
+    "45": {
+      "beneficial": true,
+      "colour": "#d68351",
+      "desc": "Combat ability is boosted by elemental release",
+      "find": "chromatic wings colorwing combat ability is boosted by elemental release buff",
+      "icon": "assets/status/cmn_icstts_str_029_00.webp",
+      "key": "colorwing",
+      "name": "Chromatic Wings"
+    },
+    "46": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "Gallanza's attack specs are enhanced",
+      "find": "deathmatch finale armorparge gallanza s attack specs are enhanced buff",
+      "icon": "assets/status/cmn_icstts_str_030_00.webp",
+      "key": "armorparge",
+      "name": "Deathmatch Finale"
+    },
+    "47": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "n ed nulli nayde1 buff",
+      "icon": "assets/status/cmn_icstts_str_033_00.webp",
+      "key": "nayde1",
+      "name": "Näed Nulli"
+    },
+    "48": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "find": "n ed seitset nayde3 buff",
+      "icon": "assets/status/cmn_icstts_str_034_00.webp",
+      "key": "nayde3",
+      "name": "Näed Seitset"
+    },
+    "49": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "n ed nelja nayde2 buff",
+      "icon": "assets/status/cmn_icstts_rcv_004_00.webp",
+      "key": "nayde2",
+      "name": "Näed Nelja"
+    },
+    "50": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "desc": "Delta Clock's specs are enhanced",
+      "find": "rising nova risingnova delta clock s specs are enhanced buff",
+      "icon": "assets/status/cmn_icstts_str_032_00.webp",
+      "key": "risingnova",
+      "name": "Rising Nova"
+    },
+    "51": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "Damage dealt is lowered",
+      "find": "dmg dmgdown damage dealt is lowered debuff",
+      "icon": "assets/status/cmn_icstts_wkn_025_00.webp",
+      "key": "dmgdown",
+      "name": "DMG↓"
+    },
+    "52": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Veil gauge gain and  attack are enhanced",
+      "find": "battle hymn bravecarol veil gauge gain and attack are enhanced buff",
+      "icon": "assets/status/cmn_icstts_str_031_00.webp",
+      "key": "bravecarol",
+      "name": "Battle Hymn"
+    },
+    "53": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Eustace's  attacks are enhanced",
+      "find": "play with fire playwithfire eustace s attacks are enhanced buff",
+      "icon": "assets/status/cmn_icstts_str_041_00.webp",
+      "key": "playwithfire",
+      "name": "Play with Fire"
+    },
+    "54": {
+      "beneficial": true,
+      "colour": "#51c6d6",
+      "desc": "Attack specs are boosted by Sage trait",
+      "find": "sage rebuildstun attack specs are boosted by trait buff",
+      "icon": "assets/status/cmn_icstts_str_035_04.webp",
+      "key": "rebuildstun",
+      "name": "Sage",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_035_00.webp",
+        "1": "assets/status/cmn_icstts_str_035_01.webp",
+        "2": "assets/status/cmn_icstts_str_035_02.webp",
+        "3": "assets/status/cmn_icstts_str_035_03.webp",
+        "4": "assets/status/cmn_icstts_str_035_04.webp"
+      }
+    },
+    "55": {
+      "beneficial": true,
+      "colour": "#d65162",
+      "desc": "Attack specs are boosted by Cardinal trait",
+      "find": "cardinal rebuildweak attack specs are boosted by trait buff",
+      "icon": "assets/status/cmn_icstts_str_036_04.webp",
+      "key": "rebuildweak",
+      "name": "Cardinal",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_036_00.webp",
+        "1": "assets/status/cmn_icstts_str_036_01.webp",
+        "2": "assets/status/cmn_icstts_str_036_02.webp",
+        "3": "assets/status/cmn_icstts_str_036_03.webp",
+        "4": "assets/status/cmn_icstts_str_036_04.webp"
+      }
+    },
+    "56": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "DMG Cap is boosted",
+      "find": "dmg cap dmglimitup is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_037_00.webp",
+      "key": "dmglimitup",
+      "name": "DMG Cap↑"
+    },
+    "57": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "ATK is boosted (Stackable)",
+      "find": "stackable atk atkupadd is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_038_00.webp",
+      "key": "atkupadd",
+      "name": "Stackable ATK↑"
+    },
+    "58": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "DEF is boosted (Stackable)",
+      "find": "stackable def defupadd is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_039_00.webp",
+      "key": "defupadd",
+      "name": "Stackable DEF↑"
+    },
+    "59": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "DEF is lowered (Stackable)",
+      "find": "stackable def defdownadd is lowered debuff",
+      "icon": "assets/status/cmn_icstts_wkn_024_00.webp",
+      "key": "defdownadd",
+      "name": "Stackable DEF↓"
+    },
+    "60": {
+      "beneficial": true,
+      "colour": "#8351d6",
+      "find": "heliotrope aura mspl1900 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_001_09.webp",
+      "key": "mspl1900_01",
+      "name": "Heliotrope Aura",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_001_00.webp",
+        "1": "assets/status/cmn_icstts_spi_001_01.webp",
+        "2": "assets/status/cmn_icstts_spi_001_02.webp",
+        "3": "assets/status/cmn_icstts_spi_001_03.webp",
+        "4": "assets/status/cmn_icstts_spi_001_04.webp",
+        "5": "assets/status/cmn_icstts_spi_001_05.webp",
+        "6": "assets/status/cmn_icstts_spi_001_06.webp",
+        "7": "assets/status/cmn_icstts_spi_001_07.webp",
+        "8": "assets/status/cmn_icstts_spi_001_08.webp",
+        "9": "assets/status/cmn_icstts_spi_001_09.webp"
+      }
+    },
+    "61": {
+      "beneficial": true,
+      "colour": "#6251d6",
+      "find": "enhanced freeflutter mspl1400 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_002_00.webp",
+      "key": "mspl1400_01",
+      "name": "Enhanced Freeflutter"
+    },
+    "62": {
+      "beneficial": true,
+      "colour": "#c651d6",
+      "find": "enhanced dawnfly mspl1400 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_003_00.webp",
+      "key": "mspl1400_02",
+      "name": "Enhanced Dawnfly"
+    },
+    "63": {
+      "beneficial": true,
+      "colour": "#5162d6",
+      "find": "kaleidoscope mspl1400 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_004_00.webp",
+      "key": "mspl1400_03",
+      "name": "Kaleidoscope"
+    },
+    "64": {
+      "beneficial": true,
+      "colour": "#8351d6",
+      "find": "dragonsbane pulse mspl1100 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_005_06.webp",
+      "key": "mspl1100_01",
+      "name": "Dragonsbane Pulse",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_005_00.webp",
+        "1": "assets/status/cmn_icstts_spi_005_01.webp",
+        "2": "assets/status/cmn_icstts_spi_005_02.webp",
+        "3": "assets/status/cmn_icstts_spi_005_03.webp",
+        "4": "assets/status/cmn_icstts_spi_005_04.webp",
+        "5": "assets/status/cmn_icstts_spi_005_05.webp",
+        "6": "assets/status/cmn_icstts_spi_005_06.webp"
+      }
+    },
+    "65": {
+      "beneficial": true,
+      "colour": "#c651d6",
+      "find": "dark zeal mspl1100 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_006_04.webp",
+      "key": "mspl1100_02",
+      "name": "Dark Zeal",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_006_00.webp",
+        "1": "assets/status/cmn_icstts_spi_006_01.webp",
+        "2": "assets/status/cmn_icstts_spi_006_02.webp",
+        "3": "assets/status/cmn_icstts_spi_006_03.webp",
+        "4": "assets/status/cmn_icstts_spi_006_04.webp"
+      }
+    },
+    "66": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "find": "combat healer mspl0000 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_007_pl0000_02.webp",
+      "key": "mspl0000_01",
+      "name": "Combat Healer",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_007_pl0000_00.webp",
+        "1": "assets/status/cmn_icstts_spi_007_pl0000_01.webp",
+        "2": "assets/status/cmn_icstts_spi_007_pl0000_02.webp"
+      }
+    },
+    "67": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "ATK is lowered (Stackable)",
+      "find": "stackable atk atkdownadd is lowered debuff",
+      "icon": "assets/status/cmn_icstts_wkn_026_00.webp",
+      "key": "atkdownadd",
+      "name": "Stackable ATK↓"
+    },
+    "68": {
+      "beneficial": true,
+      "colour": "#5162d6",
+      "find": "ares surge mspl0200 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_008_02.webp",
+      "key": "mspl0200_01",
+      "name": "Ares Surge",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_008_00.webp",
+        "1": "assets/status/cmn_icstts_spi_008_01.webp",
+        "2": "assets/status/cmn_icstts_spi_008_02.webp"
+      }
+    },
+    "69": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "desc": "Attack specs are enhanced",
+      "find": "blade blue mspl0200 02 attack specs are enhanced buff",
+      "icon": "assets/status/cmn_icstts_spi_009_02.webp",
+      "key": "mspl0200_02",
+      "name": "Blade Blue",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_009_00.webp",
+        "1": "assets/status/cmn_icstts_spi_009_01.webp",
+        "2": "assets/status/cmn_icstts_spi_009_02.webp"
+      }
+    },
+    "70": {
+      "beneficial": true,
+      "colour": "#d68351",
+      "find": "super bull s eye blast mspl0300 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_010_00.webp",
+      "key": "mspl0300_01",
+      "name": "Super Bull's Eye Blast"
+    },
+    "71": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "find": "superstar mspl0400 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_011_02.webp",
+      "key": "mspl0400_01",
+      "name": "Superstar",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_011_00.webp",
+        "1": "assets/status/cmn_icstts_spi_011_01.webp",
+        "2": "assets/status/cmn_icstts_spi_011_02.webp"
+      }
+    },
+    "72": {
+      "beneficial": true,
+      "colour": "#d68351",
+      "find": "sniper elite mspl0500 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_012_02.webp",
+      "key": "mspl0500_01",
+      "name": "Sniper Elite",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_012_00.webp",
+        "1": "assets/status/cmn_icstts_spi_012_01.webp",
+        "2": "assets/status/cmn_icstts_spi_012_02.webp"
+      }
+    },
+    "73": {
+      "beneficial": false,
+      "colour": "#d68351",
+      "find": "shell shock mspl0500 02 debuff",
+      "icon": "assets/status/cmn_icstts_wkn_027_00.webp",
+      "key": "mspl0500_02",
+      "name": "Shell Shock"
+    },
+    "74": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "find": "noble order mspl1200 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_013_04.webp",
+      "key": "mspl1200_03",
+      "name": "Noble Order",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_013_00.webp",
+        "1": "assets/status/cmn_icstts_spi_013_01.webp",
+        "2": "assets/status/cmn_icstts_spi_013_02.webp",
+        "3": "assets/status/cmn_icstts_spi_013_03.webp",
+        "4": "assets/status/cmn_icstts_spi_013_04.webp"
+      }
+    },
+    "75": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "diamond cutter mspl1200 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_014_09.webp",
+      "key": "mspl1200_02",
+      "name": "Diamond Cutter",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_014_00.webp",
+        "1": "assets/status/cmn_icstts_spi_014_01.webp",
+        "2": "assets/status/cmn_icstts_spi_014_02.webp",
+        "3": "assets/status/cmn_icstts_spi_014_03.webp",
+        "4": "assets/status/cmn_icstts_spi_014_04.webp",
+        "5": "assets/status/cmn_icstts_spi_014_05.webp",
+        "6": "assets/status/cmn_icstts_spi_014_06.webp",
+        "7": "assets/status/cmn_icstts_spi_014_07.webp",
+        "8": "assets/status/cmn_icstts_spi_014_08.webp",
+        "9": "assets/status/cmn_icstts_spi_014_09.webp"
+      }
+    },
+    "76": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "divine justice mspl1200 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_015_00.webp",
+      "key": "mspl1200_01",
+      "name": "Divine Justice"
+    },
+    "77": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "ultrafist mspl1500 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_016_00.webp",
+      "key": "mspl1500_01",
+      "name": "Ultrafist"
+    },
+    "78": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "loving trust mspl0700 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_017_08.webp",
+      "key": "mspl0700_02",
+      "name": "Loving Trust",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_017_00.webp",
+        "1": "assets/status/cmn_icstts_spi_017_01.webp",
+        "2": "assets/status/cmn_icstts_spi_017_02.webp",
+        "3": "assets/status/cmn_icstts_spi_017_03.webp",
+        "4": "assets/status/cmn_icstts_spi_017_04.webp",
+        "5": "assets/status/cmn_icstts_spi_017_05.webp",
+        "6": "assets/status/cmn_icstts_spi_017_06.webp",
+        "7": "assets/status/cmn_icstts_spi_017_07.webp",
+        "8": "assets/status/cmn_icstts_spi_017_08.webp"
+      }
+    },
+    "79": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "desc": "Attack specs are enhanced",
+      "find": "spiritbond mspl0700 01 attack specs are enhanced buff",
+      "icon": "assets/status/cmn_icstts_spi_018_02.webp",
+      "key": "mspl0700_01",
+      "name": "Spiritbond",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_018_00.webp",
+        "1": "assets/status/cmn_icstts_spi_018_01.webp",
+        "2": "assets/status/cmn_icstts_spi_018_02.webp"
+      }
+    },
+    "80": {
+      "beneficial": true,
+      "find": "buff",
+      "key": "",
+      "name": null
+    },
+    "81": {
+      "beneficial": false,
+      "colour": "#51a5d6",
+      "find": "magic chain mspl0400 02 debuff",
+      "icon": "assets/status/cmn_icstts_wkn_028_00.webp",
+      "key": "mspl0400_02",
+      "name": "Magic Chain"
+    },
+    "82": {
+      "beneficial": true,
+      "colour": "#c651d6",
+      "find": "ebony glint mspl1700 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_019_02.webp",
+      "key": "mspl1700_01",
+      "name": "Ebony Glint",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_019_00.webp",
+        "1": "assets/status/cmn_icstts_spi_019_01.webp",
+        "2": "assets/status/cmn_icstts_spi_019_02.webp"
+      }
+    },
+    "83": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "stoked charge mspl1000 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_020_00.webp",
+      "key": "mspl1000_01",
+      "name": "Stoked Charge"
+    },
+    "84": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "desc": "Skill DMG is boosted",
+      "find": "skill dmg abdmgup is boosted buff",
+      "icon": "assets/status/cmn_icstts_str_040_00.webp",
+      "key": "abdmgup",
+      "name": "Skill DMG↑"
+    },
+    "85": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "molten edge mspl1000 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_021_08.webp",
+      "key": "mspl1000_02",
+      "name": "Molten Edge",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_021_00.webp",
+        "1": "assets/status/cmn_icstts_spi_021_01.webp",
+        "2": "assets/status/cmn_icstts_spi_021_02.webp",
+        "3": "assets/status/cmn_icstts_spi_021_03.webp",
+        "4": "assets/status/cmn_icstts_spi_021_04.webp",
+        "5": "assets/status/cmn_icstts_spi_021_05.webp",
+        "6": "assets/status/cmn_icstts_spi_021_06.webp",
+        "7": "assets/status/cmn_icstts_spi_021_07.webp",
+        "8": "assets/status/cmn_icstts_spi_021_08.webp"
+      }
+    },
+    "86": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "super collapse mspl1800 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_022_03.webp",
+      "key": "mspl1800_01",
+      "name": "Super Collapse",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_022_00.webp",
+        "1": "assets/status/cmn_icstts_spi_022_01.webp",
+        "2": "assets/status/cmn_icstts_spi_022_02.webp",
+        "3": "assets/status/cmn_icstts_spi_022_03.webp"
+      }
+    },
+    "87": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "find": "arts superi r mspl2500 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_023_04.webp",
+      "key": "mspl2500_01",
+      "name": "Arts Superiór",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_023_00.webp",
+        "1": "assets/status/cmn_icstts_spi_023_01.webp",
+        "2": "assets/status/cmn_icstts_spi_023_02.webp",
+        "3": "assets/status/cmn_icstts_spi_023_03.webp",
+        "4": "assets/status/cmn_icstts_spi_023_04.webp"
+      }
+    },
+    "88": {
+      "beneficial": true,
+      "colour": "#c651d6",
+      "find": "grynoth unleashed mspl1700 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_024_03.webp",
+      "key": "mspl1700_02",
+      "name": "Grynoth Unleashed",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_024_00.webp",
+        "1": "assets/status/cmn_icstts_spi_024_01.webp",
+        "2": "assets/status/cmn_icstts_spi_024_02.webp",
+        "3": "assets/status/cmn_icstts_spi_024_03.webp"
+      }
+    },
+    "89": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "flash cut mspl1300 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_025_00.webp",
+      "key": "mspl1300_02",
+      "name": "Flash Cut"
+    },
+    "90": {
+      "beneficial": true,
+      "colour": "#51c6d6",
+      "find": "payback mspl1300 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_026_09.webp",
+      "key": "mspl1300_01",
+      "name": "Payback",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_026_00.webp",
+        "1": "assets/status/cmn_icstts_spi_026_01.webp",
+        "2": "assets/status/cmn_icstts_spi_026_02.webp",
+        "3": "assets/status/cmn_icstts_spi_026_03.webp",
+        "4": "assets/status/cmn_icstts_spi_026_04.webp",
+        "5": "assets/status/cmn_icstts_spi_026_05.webp",
+        "6": "assets/status/cmn_icstts_spi_026_06.webp",
+        "7": "assets/status/cmn_icstts_spi_026_07.webp",
+        "8": "assets/status/cmn_icstts_spi_026_08.webp",
+        "9": "assets/status/cmn_icstts_spi_026_09.webp"
+      }
+    },
+    "91": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "heroic vigor mspl0900 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_027_09.webp",
+      "key": "mspl0900_01",
+      "name": "Heroic Vigor",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_027_00.webp",
+        "1": "assets/status/cmn_icstts_spi_027_01.webp",
+        "2": "assets/status/cmn_icstts_spi_027_02.webp",
+        "3": "assets/status/cmn_icstts_spi_027_03.webp",
+        "4": "assets/status/cmn_icstts_spi_027_04.webp",
+        "5": "assets/status/cmn_icstts_spi_027_05.webp",
+        "6": "assets/status/cmn_icstts_spi_027_06.webp",
+        "7": "assets/status/cmn_icstts_spi_027_07.webp",
+        "8": "assets/status/cmn_icstts_spi_027_08.webp",
+        "9": "assets/status/cmn_icstts_spi_027_09.webp"
+      }
+    },
+    "92": {
+      "beneficial": true,
+      "colour": "#d65162",
+      "find": "truth mspl1800 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_028_09.webp",
+      "key": "mspl1800_02",
+      "name": "Truth",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_028_00.webp",
+        "1": "assets/status/cmn_icstts_spi_028_01.webp",
+        "2": "assets/status/cmn_icstts_spi_028_02.webp",
+        "3": "assets/status/cmn_icstts_spi_028_03.webp",
+        "4": "assets/status/cmn_icstts_spi_028_04.webp",
+        "5": "assets/status/cmn_icstts_spi_028_05.webp",
+        "6": "assets/status/cmn_icstts_spi_028_06.webp",
+        "7": "assets/status/cmn_icstts_spi_028_07.webp",
+        "8": "assets/status/cmn_icstts_spi_028_08.webp",
+        "9": "assets/status/cmn_icstts_spi_028_09.webp"
+      }
+    },
+    "93": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "synergy boost mspl0900 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_029_14.webp",
+      "key": "mspl0900_02",
+      "name": "Synergy Boost",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_029_00.webp",
+        "1": "assets/status/cmn_icstts_spi_029_01.webp",
+        "2": "assets/status/cmn_icstts_spi_029_02.webp",
+        "3": "assets/status/cmn_icstts_spi_029_03.webp",
+        "4": "assets/status/cmn_icstts_spi_029_04.webp",
+        "5": "assets/status/cmn_icstts_spi_029_05.webp",
+        "6": "assets/status/cmn_icstts_spi_029_06.webp",
+        "7": "assets/status/cmn_icstts_spi_029_07.webp",
+        "8": "assets/status/cmn_icstts_spi_029_08.webp",
+        "9": "assets/status/cmn_icstts_spi_029_09.webp",
+        "10": "assets/status/cmn_icstts_spi_029_10.webp",
+        "11": "assets/status/cmn_icstts_spi_029_11.webp",
+        "12": "assets/status/cmn_icstts_spi_029_12.webp",
+        "13": "assets/status/cmn_icstts_spi_029_13.webp",
+        "14": "assets/status/cmn_icstts_spi_029_14.webp"
+      }
+    },
+    "94": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "loop master mspl1600 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_030_04.webp",
+      "key": "mspl1600_01",
+      "name": "Loop Master",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_030_00.webp",
+        "1": "assets/status/cmn_icstts_spi_030_01.webp",
+        "2": "assets/status/cmn_icstts_spi_030_02.webp",
+        "3": "assets/status/cmn_icstts_spi_030_03.webp",
+        "4": "assets/status/cmn_icstts_spi_030_04.webp"
+      }
+    },
+    "95": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "arvess unleashed mspl1600 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_031_00.webp",
+      "key": "mspl1600_02",
+      "name": "Arvess Unleashed"
+    },
+    "96": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "heavy hammer mspl1600 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_032_04.webp",
+      "key": "mspl1600_03",
+      "name": "Heavy Hammer",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_032_00.webp",
+        "1": "assets/status/cmn_icstts_spi_032_01.webp",
+        "2": "assets/status/cmn_icstts_spi_032_02.webp",
+        "3": "assets/status/cmn_icstts_spi_032_03.webp",
+        "4": "assets/status/cmn_icstts_spi_032_04.webp"
+      }
+    },
+    "97": {
+      "beneficial": true,
+      "colour": "#62d651",
+      "find": "spiral rose bloomed mspl0600 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_033_00.webp",
+      "key": "mspl0600_01",
+      "name": "Spiral Rose Bloomed"
+    },
+    "98": {
+      "beneficial": true,
+      "colour": "#d651c6",
+      "find": "lost love bloomed mspl0600 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_034_00.webp",
+      "key": "mspl0600_02",
+      "name": "Lost Love Bloomed"
+    },
+    "99": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "n ed nulli excel mspl2600 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_035_00.webp",
+      "key": "mspl2600_02",
+      "name": "Näed Nulli Excel"
+    },
+    "100": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "find": "n ed seitset excel mspl2600 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_036_00.webp",
+      "key": "mspl2600_03",
+      "name": "Näed Seitset Excel"
+    },
+    "101": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "n ed nelja excel mspl2600 04 buff",
+      "icon": "assets/status/cmn_icstts_spi_037_00.webp",
+      "key": "mspl2600_04",
+      "name": "Näed Nelja Excel"
+    },
+    "102": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "embrasque unleashed mspl2600 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_038_09.webp",
+      "key": "mspl2600_01",
+      "name": "Embrasque Unleashed",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_038_00.webp",
+        "1": "assets/status/cmn_icstts_spi_038_01.webp",
+        "2": "assets/status/cmn_icstts_spi_038_02.webp",
+        "3": "assets/status/cmn_icstts_spi_038_03.webp",
+        "4": "assets/status/cmn_icstts_spi_038_04.webp",
+        "5": "assets/status/cmn_icstts_spi_038_05.webp",
+        "6": "assets/status/cmn_icstts_spi_038_06.webp",
+        "7": "assets/status/cmn_icstts_spi_038_07.webp",
+        "8": "assets/status/cmn_icstts_spi_038_08.webp",
+        "9": "assets/status/cmn_icstts_spi_038_09.webp"
+      }
+    },
+    "103": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "enhanced damage skills mspl0800 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_039_00.webp",
+      "key": "mspl0800_02",
+      "name": "Enhanced Damage Skills"
+    },
+    "104": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "enhanced combo finishers mspl0800 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_040_09.webp",
+      "key": "mspl0800_01",
+      "name": "Enhanced Combo Finishers",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_040_00.webp",
+        "1": "assets/status/cmn_icstts_spi_040_01.webp",
+        "2": "assets/status/cmn_icstts_spi_040_02.webp",
+        "3": "assets/status/cmn_icstts_spi_040_03.webp",
+        "4": "assets/status/cmn_icstts_spi_040_04.webp",
+        "5": "assets/status/cmn_icstts_spi_040_05.webp",
+        "6": "assets/status/cmn_icstts_spi_040_06.webp",
+        "7": "assets/status/cmn_icstts_spi_040_07.webp",
+        "8": "assets/status/cmn_icstts_spi_040_08.webp",
+        "9": "assets/status/cmn_icstts_spi_040_09.webp"
+      }
+    },
+    "105": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "avalanche mspl0800 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_041_08.webp",
+      "key": "mspl0800_03",
+      "name": "Avalanche",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_041_00.webp",
+        "1": "assets/status/cmn_icstts_spi_041_01.webp",
+        "2": "assets/status/cmn_icstts_spi_041_02.webp",
+        "3": "assets/status/cmn_icstts_spi_041_03.webp",
+        "4": "assets/status/cmn_icstts_spi_041_04.webp",
+        "5": "assets/status/cmn_icstts_spi_041_05.webp",
+        "6": "assets/status/cmn_icstts_spi_041_06.webp",
+        "7": "assets/status/cmn_icstts_spi_041_07.webp",
+        "8": "assets/status/cmn_icstts_spi_041_08.webp"
+      }
+    },
+    "106": {
+      "beneficial": true,
+      "colour": "#d6c651",
+      "find": "limitless light mspl2100 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_042_00.webp",
+      "key": "mspl2100_01",
+      "name": "Limitless Light"
+    },
+    "107": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "lucent refuge mspl2100 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_043_02.webp",
+      "key": "mspl2100_02",
+      "name": "Lucent Refuge",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_043_00.webp",
+        "1": "assets/status/cmn_icstts_spi_043_01.webp",
+        "2": "assets/status/cmn_icstts_spi_043_02.webp"
+      }
+    },
+    "108": {
+      "beneficial": false,
+      "colour": "#d6a551",
+      "find": "bell of war mspl2100 03 debuff",
+      "icon": "assets/status/cmn_icstts_wkn_029_09.webp",
+      "key": "mspl2100_03",
+      "name": "Bell of War",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_wkn_029_00.webp",
+        "1": "assets/status/cmn_icstts_wkn_029_01.webp",
+        "2": "assets/status/cmn_icstts_wkn_029_02.webp",
+        "3": "assets/status/cmn_icstts_wkn_029_03.webp",
+        "4": "assets/status/cmn_icstts_wkn_029_04.webp",
+        "5": "assets/status/cmn_icstts_wkn_029_05.webp",
+        "6": "assets/status/cmn_icstts_wkn_029_06.webp",
+        "7": "assets/status/cmn_icstts_wkn_029_07.webp",
+        "8": "assets/status/cmn_icstts_wkn_029_08.webp",
+        "9": "assets/status/cmn_icstts_wkn_029_09.webp"
+      }
+    },
+    "109": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "piercing gleam mspl2300 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_044_09.webp",
+      "key": "mspl2300_01",
+      "name": "Piercing Gleam",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_044_00.webp",
+        "1": "assets/status/cmn_icstts_spi_044_01.webp",
+        "2": "assets/status/cmn_icstts_spi_044_02.webp",
+        "3": "assets/status/cmn_icstts_spi_044_03.webp",
+        "4": "assets/status/cmn_icstts_spi_044_04.webp",
+        "5": "assets/status/cmn_icstts_spi_044_05.webp",
+        "6": "assets/status/cmn_icstts_spi_044_06.webp",
+        "7": "assets/status/cmn_icstts_spi_044_07.webp",
+        "8": "assets/status/cmn_icstts_spi_044_08.webp",
+        "9": "assets/status/cmn_icstts_spi_044_09.webp"
+      }
+    },
+    "110": {
+      "beneficial": true,
+      "colour": "#8351d6",
+      "find": "dawnray mspl2300 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_045_04.webp",
+      "key": "mspl2300_02",
+      "name": "Dawnray",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_045_00.webp",
+        "1": "assets/status/cmn_icstts_spi_045_01.webp",
+        "2": "assets/status/cmn_icstts_spi_045_02.webp",
+        "3": "assets/status/cmn_icstts_spi_045_03.webp",
+        "4": "assets/status/cmn_icstts_spi_045_04.webp"
+      }
+    },
+    "111": {
+      "beneficial": false,
+      "colour": "#8351d6",
+      "find": "dull point mspl2300 03 debuff",
+      "icon": "assets/status/cmn_icstts_wkn_030_04.webp",
+      "key": "mspl2300_03",
+      "name": "Dull Point",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_wkn_030_00.webp",
+        "1": "assets/status/cmn_icstts_wkn_030_01.webp",
+        "2": "assets/status/cmn_icstts_wkn_030_02.webp",
+        "3": "assets/status/cmn_icstts_wkn_030_03.webp",
+        "4": "assets/status/cmn_icstts_wkn_030_04.webp"
+      }
+    },
+    "112": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "ultimatum mspl2400 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_047_02.webp",
+      "key": "mspl2400_01",
+      "name": "Ultimatum",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_047_00.webp",
+        "1": "assets/status/cmn_icstts_spi_047_01.webp",
+        "2": "assets/status/cmn_icstts_spi_047_02.webp"
+      }
+    },
+    "113": {
+      "beneficial": false,
+      "colour": "#d66251",
+      "find": "fall flat mspl2400 02 debuff",
+      "icon": "assets/status/cmn_icstts_wkn_031_00.webp",
+      "key": "mspl2400_02",
+      "name": "Fall Flat"
+    },
+    "114": {
+      "beneficial": true,
+      "colour": "#d68351",
+      "find": "wild showman mspl2400 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_048_09.webp",
+      "key": "mspl2400_03",
+      "name": "Wild Showman",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_048_00.webp",
+        "1": "assets/status/cmn_icstts_spi_048_01.webp",
+        "2": "assets/status/cmn_icstts_spi_048_02.webp",
+        "3": "assets/status/cmn_icstts_spi_048_03.webp",
+        "4": "assets/status/cmn_icstts_spi_048_04.webp",
+        "5": "assets/status/cmn_icstts_spi_048_05.webp",
+        "6": "assets/status/cmn_icstts_spi_048_06.webp",
+        "7": "assets/status/cmn_icstts_spi_048_07.webp",
+        "8": "assets/status/cmn_icstts_spi_048_08.webp",
+        "9": "assets/status/cmn_icstts_spi_048_09.webp"
+      }
+    },
+    "115": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "daredevil mspl2400 04 buff",
+      "icon": "assets/status/cmn_icstts_spi_046_02.webp",
+      "key": "mspl2400_04",
+      "name": "Daredevil",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_046_00.webp",
+        "1": "assets/status/cmn_icstts_spi_046_01.webp",
+        "2": "assets/status/cmn_icstts_spi_046_02.webp"
+      }
+    },
+    "116": {
+      "beneficial": true,
+      "colour": "#51c6d6",
+      "find": "sovereign mspl2200 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_049_03.webp",
+      "key": "mspl2200_01",
+      "name": "Sovereign",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_049_00.webp",
+        "1": "assets/status/cmn_icstts_spi_049_01.webp",
+        "2": "assets/status/cmn_icstts_spi_049_02.webp",
+        "3": "assets/status/cmn_icstts_spi_049_03.webp"
+      }
+    },
+    "117": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "star sea mspl2200 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_050_03.webp",
+      "key": "mspl2200_02",
+      "name": "Star Sea",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_050_00.webp",
+        "1": "assets/status/cmn_icstts_spi_050_01.webp",
+        "2": "assets/status/cmn_icstts_spi_050_02.webp",
+        "3": "assets/status/cmn_icstts_spi_050_03.webp"
+      }
+    },
+    "118": {
+      "beneficial": true,
+      "colour": "#5162d6",
+      "find": "flamek unleashed mspl2700 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_051_02.webp",
+      "key": "mspl2700_01",
+      "name": "Flamek Unleashed",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_051_00.webp",
+        "1": "assets/status/cmn_icstts_spi_051_01.webp",
+        "2": "assets/status/cmn_icstts_spi_051_02.webp"
+      }
+    },
+    "119": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "enhanced upright mspl2800 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_052_00.webp",
+      "key": "mspl2800_01",
+      "name": "Enhanced Upright"
+    },
+    "120": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "enhanced reversed mspl2800 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_053_00.webp",
+      "key": "mspl2800_02",
+      "name": "Enhanced Reversed"
+    },
+    "121": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "enhanced upright mspl2800 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_054_00.webp",
+      "key": "mspl2800_03",
+      "name": "Enhanced Upright+"
+    },
+    "122": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "enhanced reversed mspl2800 04 buff",
+      "icon": "assets/status/cmn_icstts_spi_055_00.webp",
+      "key": "mspl2800_04",
+      "name": "Enhanced Reversed+"
+    },
+    "123": {
+      "beneficial": true,
+      "colour": "#c651d6",
+      "find": "enhanced combo finishers mspl2900 01 buff",
+      "icon": "assets/status/cmn_icstts_spi_056_09.webp",
+      "key": "mspl2900_01",
+      "name": "Enhanced Combo Finishers",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_056_00.webp",
+        "1": "assets/status/cmn_icstts_spi_056_01.webp",
+        "2": "assets/status/cmn_icstts_spi_056_02.webp",
+        "3": "assets/status/cmn_icstts_spi_056_03.webp",
+        "4": "assets/status/cmn_icstts_spi_056_04.webp",
+        "5": "assets/status/cmn_icstts_spi_056_05.webp",
+        "6": "assets/status/cmn_icstts_spi_056_06.webp",
+        "7": "assets/status/cmn_icstts_spi_056_07.webp",
+        "8": "assets/status/cmn_icstts_spi_056_08.webp",
+        "9": "assets/status/cmn_icstts_spi_056_09.webp"
+      }
+    },
+    "124": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "malice mspl2900 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_057_09.webp",
+      "key": "mspl2900_02",
+      "name": "Malice",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_057_00.webp",
+        "1": "assets/status/cmn_icstts_spi_057_01.webp",
+        "2": "assets/status/cmn_icstts_spi_057_02.webp",
+        "3": "assets/status/cmn_icstts_spi_057_03.webp",
+        "4": "assets/status/cmn_icstts_spi_057_04.webp",
+        "5": "assets/status/cmn_icstts_spi_057_05.webp",
+        "6": "assets/status/cmn_icstts_spi_057_06.webp",
+        "7": "assets/status/cmn_icstts_spi_057_07.webp",
+        "8": "assets/status/cmn_icstts_spi_057_08.webp",
+        "9": "assets/status/cmn_icstts_spi_057_09.webp"
+      }
+    },
+    "125": {
+      "beneficial": true,
+      "colour": "#d65162",
+      "desc": "Buoyed by dark wee pincers' gratitude",
+      "find": "pincer synergy blacksnipper buoyed by dark wee pincers gratitude buff",
+      "icon": "assets/status/cmn_icstts_spi_058_07.webp",
+      "key": "blacksnipper",
+      "name": "Pincer Synergy",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_058_00.webp",
+        "1": "assets/status/cmn_icstts_spi_058_01.webp",
+        "2": "assets/status/cmn_icstts_spi_058_02.webp",
+        "3": "assets/status/cmn_icstts_spi_058_03.webp",
+        "4": "assets/status/cmn_icstts_spi_058_04.webp",
+        "5": "assets/status/cmn_icstts_spi_058_05.webp",
+        "6": "assets/status/cmn_icstts_spi_058_06.webp",
+        "7": "assets/status/cmn_icstts_spi_058_07.webp"
+      }
+    },
+    "126": {
+      "beneficial": false,
+      "colour": "#a551d6",
+      "find": "inversa mspl1900 02 debuff",
+      "icon": "assets/status/cmn_icstts_wkn_032_00.webp",
+      "key": "mspl1900_02",
+      "name": "Inversa"
+    },
+    "127": {
+      "beneficial": true,
+      "colour": "#c651d6",
+      "find": "enhanced clincher mspl2300 04 buff",
+      "icon": "assets/status/cmn_icstts_spi_059_07.webp",
+      "key": "mspl2300_04",
+      "name": "Enhanced Clincher",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_059_00.webp",
+        "1": "assets/status/cmn_icstts_spi_059_01.webp",
+        "2": "assets/status/cmn_icstts_spi_059_02.webp",
+        "3": "assets/status/cmn_icstts_spi_059_03.webp",
+        "4": "assets/status/cmn_icstts_spi_059_04.webp",
+        "5": "assets/status/cmn_icstts_spi_059_05.webp",
+        "6": "assets/status/cmn_icstts_spi_059_06.webp",
+        "7": "assets/status/cmn_icstts_spi_059_07.webp"
+      }
+    },
+    "128": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "rise of justice em8300 buff",
+      "icon": "assets/status/cmn_icstts_str_042_02.webp",
+      "key": "em8300_justice",
+      "name": "Rise of Justice",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_042_00.webp",
+        "1": "assets/status/cmn_icstts_str_042_01.webp",
+        "2": "assets/status/cmn_icstts_str_042_02.webp"
+      }
+    },
+    "129": {
+      "beneficial": true,
+      "colour": "#d65183",
+      "find": "pain of death em8300 buff",
+      "icon": "assets/status/cmn_icstts_str_043_02.webp",
+      "key": "em8300_death",
+      "name": "Pain of Death",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_043_00.webp",
+        "1": "assets/status/cmn_icstts_str_043_01.webp",
+        "2": "assets/status/cmn_icstts_str_043_02.webp"
+      }
+    },
+    "130": {
+      "beneficial": true,
+      "colour": "#d65183",
+      "find": "kiss of the devil em8300 buff",
+      "icon": "assets/status/cmn_icstts_str_044_02.webp",
+      "key": "em8300_devil",
+      "name": "Kiss of the Devil",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_044_00.webp",
+        "1": "assets/status/cmn_icstts_str_044_01.webp",
+        "2": "assets/status/cmn_icstts_str_044_02.webp"
+      }
+    },
+    "131": {
+      "beneficial": true,
+      "colour": "#51a5d6",
+      "find": "collapse of the tower em8300 towor buff",
+      "icon": "assets/status/cmn_icstts_str_045_02.webp",
+      "key": "em8300_towor",
+      "name": "Collapse of the Tower",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_045_00.webp",
+        "1": "assets/status/cmn_icstts_str_045_01.webp",
+        "2": "assets/status/cmn_icstts_str_045_02.webp"
+      }
+    },
+    "132": {
+      "beneficial": true,
+      "colour": "#51c6d6",
+      "find": "melody of judgement em8300 judgment buff",
+      "icon": "assets/status/cmn_icstts_str_046_02.webp",
+      "key": "em8300_judgment",
+      "name": "Melody of Judgement",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_046_00.webp",
+        "1": "assets/status/cmn_icstts_str_046_01.webp",
+        "2": "assets/status/cmn_icstts_str_046_02.webp"
+      }
+    },
+    "133": {
+      "beneficial": true,
+      "colour": "#51c6d6",
+      "find": "samudaya mspl2200 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_060_04.webp",
+      "key": "mspl2200_03",
+      "name": "Samudaya",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_060_00.webp",
+        "1": "assets/status/cmn_icstts_spi_060_01.webp",
+        "2": "assets/status/cmn_icstts_spi_060_02.webp",
+        "3": "assets/status/cmn_icstts_spi_060_03.webp",
+        "4": "assets/status/cmn_icstts_spi_060_04.webp"
+      }
+    },
+    "134": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "Stun gauge is easier to fill",
+      "find": "stun resistance stundown gauge is easier to fill debuff",
+      "icon": "assets/status/cmn_icstts_wkn_033_00.webp",
+      "key": "stundown",
+      "name": "Stun Resistance↓"
+    },
+    "135": {
+      "beneficial": true,
+      "colour": "#d66251",
+      "find": "charisma mspl0000 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_061_09.webp",
+      "key": "mspl0000_02",
+      "name": "Charisma",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_061_00.webp",
+        "1": "assets/status/cmn_icstts_spi_061_01.webp",
+        "2": "assets/status/cmn_icstts_spi_061_02.webp",
+        "3": "assets/status/cmn_icstts_spi_061_03.webp",
+        "4": "assets/status/cmn_icstts_spi_061_04.webp",
+        "5": "assets/status/cmn_icstts_spi_061_05.webp",
+        "6": "assets/status/cmn_icstts_spi_061_06.webp",
+        "7": "assets/status/cmn_icstts_spi_061_07.webp",
+        "8": "assets/status/cmn_icstts_spi_061_08.webp",
+        "9": "assets/status/cmn_icstts_spi_061_09.webp"
+      }
+    },
+    "136": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "booming beatdown mspl0900 02 buff",
+      "icon": "assets/status/cmn_icstts_spi_062_09.webp",
+      "key": "mspl0900_02",
+      "name": "Booming Beatdown",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_062_00.webp",
+        "1": "assets/status/cmn_icstts_spi_062_01.webp",
+        "2": "assets/status/cmn_icstts_spi_062_02.webp",
+        "3": "assets/status/cmn_icstts_spi_062_03.webp",
+        "4": "assets/status/cmn_icstts_spi_062_04.webp",
+        "5": "assets/status/cmn_icstts_spi_062_05.webp",
+        "6": "assets/status/cmn_icstts_spi_062_06.webp",
+        "7": "assets/status/cmn_icstts_spi_062_07.webp",
+        "8": "assets/status/cmn_icstts_spi_062_08.webp",
+        "9": "assets/status/cmn_icstts_spi_062_09.webp"
+      }
+    },
+    "137": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "flame wolf mspl1000 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_063_04.webp",
+      "key": "mspl1000_03",
+      "name": "Flame Wolf",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_063_00.webp",
+        "1": "assets/status/cmn_icstts_spi_063_01.webp",
+        "2": "assets/status/cmn_icstts_spi_063_02.webp",
+        "3": "assets/status/cmn_icstts_spi_063_03.webp",
+        "4": "assets/status/cmn_icstts_spi_063_04.webp"
+      }
+    },
+    "138": {
+      "beneficial": true,
+      "colour": "#8351d6",
+      "find": "blood drinking blade mspl1700 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_064_04.webp",
+      "key": "mspl1700_03",
+      "name": "Blood-Drinking Blade",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_064_00.webp",
+        "1": "assets/status/cmn_icstts_spi_064_01.webp",
+        "2": "assets/status/cmn_icstts_spi_064_02.webp",
+        "3": "assets/status/cmn_icstts_spi_064_03.webp",
+        "4": "assets/status/cmn_icstts_spi_064_04.webp"
+      }
+    },
+    "139": {
+      "beneficial": true,
+      "colour": "#5183d6",
+      "find": "dual raid mspl0200 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_065_04.webp",
+      "key": "mspl0200_03",
+      "name": "Dual Raid",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_065_00.webp",
+        "1": "assets/status/cmn_icstts_spi_065_01.webp",
+        "2": "assets/status/cmn_icstts_spi_065_02.webp",
+        "3": "assets/status/cmn_icstts_spi_065_03.webp",
+        "4": "assets/status/cmn_icstts_spi_065_04.webp"
+      }
+    },
+    "140": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Burn is nullified",
+      "find": "burn immunity antiburn is nullified buff",
+      "icon": "assets/status/cmn_icstts_str_047_00.webp",
+      "key": "antiburn",
+      "name": "Burn Immunity"
+    },
+    "141": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Frostbite/Glaciate are nullified",
+      "find": "frostbite glaciate immunity antifreeze are nullified buff",
+      "icon": "assets/status/cmn_icstts_str_048_00.webp",
+      "key": "antifreeze",
+      "name": "Frostbite/Glaciate Immunity"
+    },
+    "142": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "desc": "Movement penalty is nullified",
+      "find": "rooted antidraw movement penalty is nullified buff",
+      "icon": "assets/status/cmn_icstts_str_049_00.webp",
+      "key": "antidraw",
+      "name": "Rooted"
+    },
+    "143": {
+      "beneficial": true,
+      "colour": "#5162d6",
+      "find": "buff",
+      "icon": "assets/status/cmn_icstts_str_050_00.webp",
+      "key": "",
+      "name": null
+    },
+    "144": {
+      "beneficial": true,
+      "colour": "#a551d6",
+      "find": "daybreak mspl1100 03 buff",
+      "icon": "assets/status/cmn_icstts_spi_066_09.webp",
+      "key": "mspl1100_03",
+      "name": "Daybreak",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_spi_066_00.webp",
+        "1": "assets/status/cmn_icstts_spi_066_01.webp",
+        "2": "assets/status/cmn_icstts_spi_066_02.webp",
+        "3": "assets/status/cmn_icstts_spi_066_03.webp",
+        "4": "assets/status/cmn_icstts_spi_066_04.webp",
+        "5": "assets/status/cmn_icstts_spi_066_05.webp",
+        "6": "assets/status/cmn_icstts_spi_066_06.webp",
+        "7": "assets/status/cmn_icstts_spi_066_07.webp",
+        "8": "assets/status/cmn_icstts_spi_066_08.webp",
+        "9": "assets/status/cmn_icstts_spi_066_09.webp"
+      }
+    },
+    "145": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "Sumo pincer is off-balance",
+      "find": "unstable em2510 sumo pincer is off balance debuff",
+      "icon": "assets/status/cmn_icstts_wkn_034_02.webp",
+      "key": "em2510",
+      "name": "Unstable",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_wkn_034_00.webp",
+        "1": "assets/status/cmn_icstts_wkn_034_01.webp",
+        "2": "assets/status/cmn_icstts_wkn_034_02.webp"
+      }
+    },
+    "146": {
+      "beneficial": true,
+      "colour": "#6251d6",
+      "find": "proto white world em8300 atkup buff",
+      "icon": "assets/status/cmn_icstts_str_051_09.webp",
+      "key": "em8300_atkup",
+      "name": "Proto-White World",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_051_00.webp",
+        "1": "assets/status/cmn_icstts_str_051_01.webp",
+        "2": "assets/status/cmn_icstts_str_051_02.webp",
+        "3": "assets/status/cmn_icstts_str_051_03.webp",
+        "4": "assets/status/cmn_icstts_str_051_04.webp",
+        "5": "assets/status/cmn_icstts_str_051_05.webp",
+        "6": "assets/status/cmn_icstts_str_051_06.webp",
+        "7": "assets/status/cmn_icstts_str_051_07.webp",
+        "8": "assets/status/cmn_icstts_str_051_08.webp",
+        "9": "assets/status/cmn_icstts_str_051_09.webp"
+      }
+    },
+    "147": {
+      "beneficial": false,
+      "colour": "#6251d6",
+      "find": "fractured world em8300 defdown debuff",
+      "icon": "assets/status/cmn_icstts_wkn_035_09.webp",
+      "key": "em8300_defdown",
+      "name": "Fractured World",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_wkn_035_00.webp",
+        "1": "assets/status/cmn_icstts_wkn_035_01.webp",
+        "2": "assets/status/cmn_icstts_wkn_035_02.webp",
+        "3": "assets/status/cmn_icstts_wkn_035_03.webp",
+        "4": "assets/status/cmn_icstts_wkn_035_04.webp",
+        "5": "assets/status/cmn_icstts_wkn_035_05.webp",
+        "6": "assets/status/cmn_icstts_wkn_035_06.webp",
+        "7": "assets/status/cmn_icstts_wkn_035_07.webp",
+        "8": "assets/status/cmn_icstts_wkn_035_08.webp",
+        "9": "assets/status/cmn_icstts_wkn_035_09.webp"
+      }
+    },
+    "148": {
+      "beneficial": true,
+      "colour": "#d6a551",
+      "find": "chaos shift em8200 atkup buff",
+      "icon": "assets/status/cmn_icstts_str_052_05.webp",
+      "key": "em8200_atkup",
+      "name": "Chaos Shift",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_str_052_00.webp",
+        "1": "assets/status/cmn_icstts_str_052_01.webp",
+        "2": "assets/status/cmn_icstts_str_052_02.webp",
+        "3": "assets/status/cmn_icstts_str_052_03.webp",
+        "4": "assets/status/cmn_icstts_str_052_04.webp",
+        "5": "assets/status/cmn_icstts_str_052_05.webp"
+      }
+    },
+    "149": {
+      "beneficial": false,
+      "colour": "#6251d6",
+      "find": "fractured world em8300 defdown debuff",
+      "icon": "assets/status/cmn_icstts_wkn_035_00.webp",
+      "key": "em8300_defdown",
+      "name": "Fractured World",
+      "tiers": {
+        "0": "assets/status/cmn_icstts_wkn_035_00.webp",
+        "1": "assets/status/cmn_icstts_wkn_035_01.webp",
+        "2": "assets/status/cmn_icstts_wkn_035_02.webp",
+        "3": "assets/status/cmn_icstts_wkn_035_03.webp",
+        "4": "assets/status/cmn_icstts_wkn_035_04.webp",
+        "5": "assets/status/cmn_icstts_wkn_035_05.webp",
+        "6": "assets/status/cmn_icstts_wkn_035_06.webp",
+        "7": "assets/status/cmn_icstts_wkn_035_07.webp",
+        "8": "assets/status/cmn_icstts_wkn_035_08.webp",
+        "9": "assets/status/cmn_icstts_wkn_035_09.webp"
+      }
+    },
+    "1000": {
+      "beneficial": false,
+      "colour": "#62d651",
+      "desc": "HP is lost over time",
+      "find": "poison hp is lost over time debuff dot damage tick",
+      "icon": "assets/status/cmn_icstts_wkn_006_00.webp",
+      "key": "poison",
+      "name": "Poison"
+    },
+    "1001": {
+      "beneficial": false,
+      "colour": "#d66251",
+      "desc": "HP is lost over time",
+      "find": "burn hp is lost over time debuff dot damage tick fire",
+      "icon": "assets/status/cmn_icstts_wkn_004_00.webp",
+      "key": "burn",
+      "name": "Burn"
+    },
+    "1002": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "Action speed is lowered",
+      "find": "slow action speed is lowered debuff cc",
+      "icon": "assets/status/cmn_icstts_wkn_016_00.webp",
+      "key": "slow",
+      "name": "Slow",
+      "paramName": "Slow ({0}%)"
+    },
+    "1003": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "Actions can't be performed",
+      "find": "dizzy stun actions can t be performed debuff cc crowd control disable interrupt",
+      "icon": "assets/status/cmn_icstts_wkn_009_00.webp",
+      "key": "stun",
+      "name": "Dizzy"
+    },
+    "1004": {
+      "beneficial": false,
+      "colour": "#51a5d6",
+      "desc": "Actions can't be performed",
+      "find": "glaciate freeze actions can t be performed debuff cc crowd control disable ice",
+      "icon": "assets/status/cmn_icstts_wkn_005_00.webp",
+      "key": "freeze",
+      "name": "Glaciate"
+    },
+    "1005": {
+      "beneficial": false,
+      "colour": "#51a5d6",
+      "desc": "Action speed and DEF are lowered",
+      "find": "frostbite action speed and def are lowered debuff dot ice slow",
+      "icon": "assets/status/cmn_icstts_wkn_019_00.webp",
+      "key": "frostbite",
+      "name": "Frostbite",
+      "paramName": "Frostbite ({0}%)"
+    },
+    "1006": {
+      "beneficial": false,
+      "colour": "#d68351",
+      "desc": "Actions are limited and movement speed is lowered",
+      "find": "sandtomb sandman actions are limited and movement speed is lowered debuff cc sand",
+      "icon": "assets/status/cmn_icstts_wkn_007_00.webp",
+      "key": "sandman",
+      "name": "Sandtomb"
+    },
+    "1007": {
+      "beneficial": false,
+      "colour": "#d6a551",
+      "desc": "Actions can't be performed",
+      "find": "paralysis actions can t be performed debuff cc crowd control disable stun",
+      "icon": "assets/status/cmn_icstts_wkn_002_00.webp",
+      "key": "paralysis",
+      "name": "Paralysis"
+    },
+    "1008": {
+      "beneficial": false,
+      "colour": "#51a5d6",
+      "desc": "Actions can't be performed",
+      "find": "held under waterprison actions can t be performed debuff",
+      "icon": "assets/status/cmn_icstts_wkn_008_00.webp",
+      "key": "waterprison",
+      "name": "Held Under"
+    },
+    "1009": {
+      "beneficial": false,
+      "find": "debuff",
+      "key": "",
+      "name": null
+    },
+    "1010": {
+      "beneficial": false,
+      "find": "debuff",
+      "key": "",
+      "name": null
+    },
+    "1011": {
+      "beneficial": false,
+      "colour": "#8351d6",
+      "desc": "Next infliction of Darkflame sets off a big explosion",
+      "find": "darkflame darkburn next infliction of sets off a big explosion debuff",
+      "icon": "assets/status/cmn_icstts_wkn_017_00.webp",
+      "key": "darkburn",
+      "name": "Darkflame"
+    },
+    "1012": {
+      "beneficial": false,
+      "find": "bound debuff",
+      "icon": "assets/status/cmn_icstts_wkn_010_00.webp",
+      "key": "",
+      "name": "Bound"
+    },
+    "1013": {
+      "beneficial": false,
+      "find": "debuff",
+      "key": "",
+      "name": null
+    },
+    "1014": {
+      "beneficial": false,
+      "find": "debuff",
+      "key": "",
+      "name": null
+    },
+    "1015": {
+      "beneficial": false,
+      "desc": "Actions can't be performed",
+      "find": "bound actions can t be performed debuff",
+      "icon": "assets/status/cmn_icstts_wkn_010_00.webp",
+      "key": "",
+      "name": "Bound"
+    },
+    "1016": {
+      "beneficial": false,
+      "colour": "#51a5d6",
+      "desc": "Can't use skills",
+      "find": "skill sealed disableability can t use skills debuff",
+      "icon": "assets/status/cmn_icstts_wkn_012_00.webp",
+      "key": "disableability",
+      "name": "Skill Sealed"
+    },
+    "1017": {
+      "beneficial": false,
+      "colour": "#a551d6",
+      "desc": "Can't use SBA",
+      "find": "sba sealed disableougi can t use debuff",
+      "icon": "assets/status/cmn_icstts_wkn_011_00.webp",
+      "key": "disableougi",
+      "name": "SBA Sealed"
+    },
+    "1018": {
+      "beneficial": false,
+      "colour": "#c651d6",
+      "desc": "HP is lost over time",
+      "find": "blight darkpoison hp is lost over time debuff",
+      "icon": "assets/status/cmn_icstts_wkn_020_00.webp",
+      "key": "darkpoison",
+      "name": "Blight"
+    },
+    "1019": {
+      "beneficial": false,
+      "colour": "#5183d6",
+      "desc": "Action speed and DEF are lowered",
+      "find": "petrified fear action speed and def are lowered debuff",
+      "icon": "assets/status/cmn_icstts_wkn_003_00.webp",
+      "key": "fear",
+      "name": "Petrified"
+    },
+    "1020": {
+      "beneficial": false,
+      "colour": "#d66251",
+      "desc": "Takes more DMG from Zeta's attacks",
+      "find": "arvess fermare arvessfermare takes more dmg from zeta s attacks debuff",
+      "icon": "assets/status/cmn_icstts_wkn_021_00.webp",
+      "key": "arvessfermare",
+      "name": "Arvess Fermare"
+    },
+    "1021": {
+      "beneficial": false,
+      "colour": "#51a5d6",
+      "desc": "DMG received will count as the superior element",
+      "find": "elemental friction elementweak dmg received will count as the superior element debuff",
+      "icon": "assets/status/cmn_icstts_wkn_023_00.webp",
+      "key": "elementweak",
+      "name": "Elemental Friction"
+    }
+  },
+  "stickers": {
+    "0": {
+      "icon": "assets/stickers/stamp_000.webp",
+      "text": "Here goes!"
+    },
+    "1": {
+      "icon": "assets/stickers/stamp_001.webp",
+      "text": "Totally crushed..."
+    },
+    "2": {
+      "icon": "assets/stickers/stamp_002.webp",
+      "text": "Heyo"
+    },
+    "3": {
+      "icon": "assets/stickers/stamp_003.webp",
+      "text": "(Vy-ball)"
+    },
+    "4": {
+      "icon": "assets/stickers/stamp_004.webp",
+      "text": "Zzz..."
+    },
+    "5": {
+      "icon": "assets/stickers/stamp_005.webp",
+      "text": "Vyrnzilla!"
+    },
+    "6": {
+      "icon": "assets/stickers/stamp_006.webp",
+      "text": "Hey!"
+    },
+    "7": {
+      "icon": "assets/stickers/stamp_007.webp",
+      "text": "Go, go!"
+    },
+    "8": {
+      "icon": "assets/stickers/stamp_008.webp",
+      "text": "OK!"
+    },
+    "9": {
+      "icon": "assets/stickers/stamp_009.webp",
+      "text": "Sorry..."
+    },
+    "10": {
+      "icon": "assets/stickers/stamp_010.webp",
+      "text": "Oh my..."
+    },
+    "11": {
+      "icon": "assets/stickers/stamp_011.webp",
+      "text": "Drool"
+    },
+    "12": {
+      "icon": "assets/stickers/stamp_012.webp",
+      "text": "Gong, gong!"
+    },
+    "13": {
+      "icon": "assets/stickers/stamp_013.webp",
+      "text": "Congrats!"
+    },
+    "14": {
+      "icon": "assets/stickers/stamp_014.webp",
+      "text": "Vyrncakes!"
+    },
+    "15": {
+      "icon": "assets/stickers/stamp_015.webp",
+      "text": "Go!"
+    },
+    "16": {
+      "icon": "assets/stickers/stamp_016.webp",
+      "text": "Thanks!"
+    },
+    "17": {
+      "icon": "assets/stickers/stamp_017.webp",
+      "text": "Hurray!"
+    },
+    "18": {
+      "icon": "assets/stickers/stamp_018.webp",
+      "text": "I give up..."
+    },
+    "19": {
+      "icon": "assets/stickers/stamp_019.webp",
+      "text": "I'll never surrender!"
+    },
+    "20": {
+      "icon": "assets/stickers/stamp_020.webp",
+      "text": "Good work"
+    },
+    "21": {
+      "icon": "assets/stickers/stamp_021.webp",
+      "text": "Gotta run!"
+    },
+    "22": {
+      "icon": "assets/stickers/stamp_022.webp",
+      "text": "Reporting in!"
+    },
+    "23": {
+      "icon": "assets/stickers/stamp_023.webp",
+      "text": "Please!"
+    },
+    "24": {
+      "icon": "assets/stickers/stamp_024.webp",
+      "text": "I'm counting on you"
+    },
+    "25": {
+      "icon": "assets/stickers/stamp_025.webp",
+      "text": "Go wild!"
+    },
+    "26": {
+      "icon": "assets/stickers/stamp_026.webp",
+      "text": "Awesome!"
+    },
+    "27": {
+      "icon": "assets/stickers/stamp_027.webp",
+      "text": "Wait a minute!"
+    },
+    "28": {
+      "icon": "assets/stickers/stamp_028.webp",
+      "text": "Got ya covered!"
+    },
+    "29": {
+      "icon": "assets/stickers/stamp_029.webp",
+      "text": "Don't mention it!"
+    },
+    "30": {
+      "icon": "assets/stickers/stamp_030.webp",
+      "text": "Let's do it!"
+    },
+    "31": {
+      "icon": "assets/stickers/stamp_031.webp",
+      "text": "!?"
+    },
+    "32": {
+      "icon": "assets/stickers/stamp_032.webp",
+      "text": "Yikes!"
+    },
+    "33": {
+      "icon": "assets/stickers/stamp_033.webp",
+      "text": "Whoa"
+    },
+    "34": {
+      "icon": "assets/stickers/stamp_034.webp",
+      "text": "Here I go!"
+    },
+    "35": {
+      "icon": "assets/stickers/stamp_035.webp",
+      "text": "Tee-hee"
+    },
+    "36": {
+      "icon": "assets/stickers/stamp_036.webp",
+      "text": "Nooooo!"
+    },
+    "37": {
+      "icon": "assets/stickers/stamp_037.webp",
+      "text": "Not bad!"
+    },
+    "38": {
+      "icon": "assets/stickers/stamp_038.webp",
+      "text": "Can I help?"
+    },
+    "39": {
+      "icon": "assets/stickers/stamp_039.webp",
+      "text": "Come play with me!"
+    },
+    "40": {
+      "icon": "assets/stickers/stamp_040.webp",
+      "text": "Let's go!"
+    },
+    "41": {
+      "icon": "assets/stickers/stamp_041.webp",
+      "text": "I'll call the shots!"
+    },
+    "42": {
+      "icon": "assets/stickers/stamp_042.webp",
+      "text": "Calm down!"
+    },
+    "43": {
+      "icon": "assets/stickers/stamp_043.webp",
+      "text": "Feendra-yay!"
+    },
+    "44": {
+      "icon": "assets/stickers/stamp_044.webp",
+      "text": "How could that be!"
+    },
+    "45": {
+      "icon": "assets/stickers/stamp_045.webp",
+      "text": "Be my vassal!"
+    },
+    "46": {
+      "icon": "assets/stickers/stamp_046.webp",
+      "text": "Follow me!"
+    },
+    "47": {
+      "icon": "assets/stickers/stamp_047.webp",
+      "text": "One radish, please"
+    },
+    "48": {
+      "icon": "assets/stickers/stamp_048.webp",
+      "text": "Gahaha"
+    },
+    "49": {
+      "icon": "assets/stickers/stamp_049.webp",
+      "text": "That was nothing!"
+    },
+    "50": {
+      "icon": "assets/stickers/stamp_050.webp",
+      "text": "Wh-what!?"
+    },
+    "51": {
+      "icon": "assets/stickers/stamp_051.webp",
+      "text": "See ya!"
+    },
+    "52": {
+      "icon": "assets/stickers/stamp_052.webp",
+      "text": "I've said too much..."
+    },
+    "53": {
+      "icon": "assets/stickers/stamp_053.webp",
+      "text": "Who's next?"
+    },
+    "54": {
+      "icon": "assets/stickers/stamp_054.webp",
+      "text": "A-hyuk-hyuk! "
+    },
+    "55": {
+      "icon": "assets/stickers/stamp_055.webp",
+      "text": "Spry one, ain'tcha?"
+    },
+    "56": {
+      "icon": "assets/stickers/stamp_056.webp",
+      "text": "I'll end this in 90 sec."
+    },
+    "57": {
+      "icon": "assets/stickers/stamp_057.webp",
+      "text": "(Fist Bump)"
+    },
+    "58": {
+      "icon": "assets/stickers/stamp_058.webp",
+      "text": "Nom, nom, nom..."
+    },
+    "59": {
+      "icon": "assets/stickers/stamp_059.webp",
+      "text": "How do you do?"
+    },
+    "60": {
+      "icon": "assets/stickers/stamp_060.webp",
+      "text": "Salvation!"
+    },
+    "61": {
+      "icon": "assets/stickers/stamp_061.webp",
+      "text": "How dare you?!"
+    },
+    "62": {
+      "icon": "assets/stickers/stamp_062.webp",
+      "text": "Wise decision."
+    },
+    "63": {
+      "icon": "assets/stickers/stamp_063.webp",
+      "text": "One for the books!"
+    },
+    "64": {
+      "icon": "assets/stickers/stamp_064.webp",
+      "text": "Nothing's impossible"
+    },
+    "65": {
+      "icon": "assets/stickers/stamp_065.webp",
+      "text": "Welcome!"
+    },
+    "66": {
+      "icon": "assets/stickers/stamp_066.webp",
+      "text": "There you have it..."
+    },
+    "67": {
+      "icon": "assets/stickers/stamp_067.webp",
+      "text": "So cool!"
+    },
+    "68": {
+      "icon": "assets/stickers/stamp_068.webp",
+      "text": "Wow!"
+    },
+    "69": {
+      "icon": "assets/stickers/stamp_069.webp",
+      "text": "Skyfarers, assemble!"
+    },
+    "70": {
+      "icon": "assets/stickers/stamp_070.webp",
+      "text": "Nice!"
+    },
+    "71": {
+      "icon": "assets/stickers/stamp_071.webp",
+      "text": "Maximum Punnagement"
+    },
+    "72": {
+      "icon": "assets/stickers/stamp_072.webp",
+      "text": "Target locked!"
+    },
+    "73": {
+      "icon": "assets/stickers/stamp_073.webp",
+      "text": "Going out for a bit"
+    },
+    "74": {
+      "icon": "assets/stickers/stamp_074.webp",
+      "text": "Thinking..."
+    },
+    "75": {
+      "icon": "assets/stickers/stamp_075.webp",
+      "text": "(SHRIMP)"
+    },
+    "76": {
+      "icon": "assets/stickers/stamp_076.webp",
+      "text": "(G. SHRIMP)"
+    },
+    "77": {
+      "icon": "assets/stickers/stamp_077.webp",
+      "text": "I Like!"
+    },
+    "78": {
+      "icon": "assets/stickers/stamp_078.webp",
+      "text": "(Albacore)"
+    },
+    "79": {
+      "icon": "assets/stickers/stamp_079.webp",
+      "text": "(Macho Vyrn)"
+    },
+    "80": {
+      "icon": "assets/stickers/stamp_080.webp",
+      "text": "Gottem"
+    },
+    "81": {
+      "icon": "assets/stickers/stamp_081.webp",
+      "text": "Heheh! Got That Right!"
+    },
+    "82": {
+      "icon": "assets/stickers/stamp_082.webp",
+      "text": "Mission accomplished"
+    },
+    "83": {
+      "icon": "assets/stickers/stamp_083.webp",
+      "text": "Nod..."
+    },
+    "84": {
+      "icon": "assets/stickers/stamp_084.webp",
+      "text": "I'm the strongest!"
+    },
+    "85": {
+      "icon": "assets/stickers/stamp_085.webp",
+      "text": "Gracefully now!"
+    },
+    "86": {
+      "icon": "assets/stickers/stamp_086.webp",
+      "text": "How embarrassing..."
+    },
+    "87": {
+      "icon": "assets/stickers/stamp_087.webp",
+      "text": "Let's go again!"
+    },
+    "88": {
+      "icon": "assets/stickers/stamp_088.webp",
+      "text": "Really?"
+    },
+    "89": {
+      "icon": "assets/stickers/stamp_089.webp",
+      "text": "Ooh, show me!"
+    },
+    "90": {
+      "icon": "assets/stickers/stamp_090.webp",
+      "text": "I shall reign supreme!"
+    },
+    "91": {
+      "icon": "assets/stickers/stamp_091.webp",
+      "text": "One more time, pretty please!"
+    },
+    "92": {
+      "icon": "assets/stickers/stamp_092.webp",
+      "text": "No worries!"
+    },
+    "93": {
+      "icon": "assets/stickers/stamp_093.webp",
+      "text": "Thwack"
+    }
+  },
+  "summonEquipBonus": {
+    "00d171e0": {
+      "display_mult": 1,
+      "ladder": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "percent": true
+    },
+    "2270bc40": {
+      "display_mult": 1,
+      "ladder": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50
+      ],
+      "percent": true
+    },
+    "2ea9ca80": {
+      "display_mult": 1,
+      "ladder": [
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        55,
+        60,
+        75
+      ],
+      "percent": true
+    },
+    "2ffb509f": {
+      "display_mult": 1,
+      "ladder": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50
+      ],
+      "percent": true
+    },
+    "33c0d50c": {
+      "display_mult": 1,
+      "ladder": [
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        25,
+        30
+      ],
+      "percent": true
+    },
+    "54b09a37": {
+      "display_mult": 1,
+      "ladder": [
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        60,
+        80,
+        100
+      ],
+      "percent": true
+    },
+    "5a1d2c89": {
+      "display_mult": 1,
+      "ladder": [
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        60,
+        80,
+        100
+      ],
+      "percent": true
+    },
+    "5a39d81b": {
+      "display_mult": 1,
+      "ladder": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50
+      ],
+      "percent": true
+    },
+    "664e8e32": {
+      "display_mult": 1,
+      "ladder": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "percent": true
+    },
+    "75138d21": {
+      "display_mult": 1,
+      "ladder": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "percent": true
+    },
+    "9245dfa4": {
+      "display_mult": 1,
+      "ladder": [
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        60,
+        80,
+        100
+      ],
+      "percent": true
+    },
+    "a074a967": {
+      "display_mult": 1,
+      "ladder": [
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        25,
+        30
+      ],
+      "percent": true
+    },
+    "a3539fbb": {
+      "display_mult": 1,
+      "ladder": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50
+      ],
+      "percent": true
+    },
+    "a3e537b1": {
+      "display_mult": 1,
+      "ladder": [
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000,
+        2200,
+        2500,
+        3000
+      ],
+      "percent": false
+    },
+    "a66241c9": {
+      "display_mult": 1,
+      "ladder": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50
+      ],
+      "percent": true
+    },
+    "a8900c80": {
+      "display_mult": 1,
+      "ladder": [
+        200,
+        400,
+        600,
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000
+      ],
+      "percent": false
+    },
+    "af39a3fb": {
+      "display_mult": 1,
+      "ladder": [
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        25,
+        30
+      ],
+      "percent": true
+    },
+    "bc4e92cb": {
+      "display_mult": 1,
+      "ladder": [
+        200,
+        400,
+        600,
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000
+      ],
+      "percent": false
+    },
+    "ce70c58a": {
+      "display_mult": 1,
+      "ladder": [
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        60,
+        80,
+        100
+      ],
+      "percent": true
+    },
+    "f0f77bc1": {
+      "display_mult": 10,
+      "ladder": [
+        0.5,
+        0.6,
+        0.7,
+        0.9,
+        1.1,
+        1.3,
+        1.5,
+        1.6,
+        1.8,
+        2
+      ],
+      "percent": false
+    },
+    "f2256e44": {
+      "display_mult": 1,
+      "ladder": [
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000,
+        2500,
+        3000,
+        5000
+      ],
+      "percent": false
+    },
+    "f7b0316f": {
+      "display_mult": 10,
+      "ladder": [
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6,
+        0.7,
+        0.9,
+        1.1,
+        1.3,
+        1.5
+      ],
+      "percent": false
+    }
+  },
+  "textIcons": {
+    "3": {
+      "band": "button",
+      "find": "attack secondary button click mouse rmb right input control",
+      "icon": "assets/textIcons/cmn_ictxt_mou_click_r.webp",
+      "label": "Attack (secondary)"
+    },
+    "4": {
+      "band": "button",
+      "find": "attack primary button click mouse lmb left input control",
+      "icon": "assets/textIcons/cmn_ictxt_mou_click_l.webp",
+      "label": "Attack (primary)"
+    },
+    "300": {
+      "band": "status",
+      "find": "atk status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_000_00.webp",
+      "label": "ATK↑"
+    },
+    "301": {
+      "band": "status",
+      "find": "def status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_001_00.webp",
+      "label": "DEF↑"
+    },
+    "302": {
+      "band": "status",
+      "find": "strength status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_002_00.webp",
+      "label": "Strength"
+    },
+    "303": {
+      "band": "status",
+      "find": "invincibility status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_003_00.webp",
+      "label": "Invincibility"
+    },
+    "304": {
+      "band": "status",
+      "find": "supplementary dmg status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_004_00.webp",
+      "label": "Supplementary DMG"
+    },
+    "305": {
+      "band": "status",
+      "find": "debuff immunity status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_005_00.webp",
+      "label": "Debuff Immunity"
+    },
+    "306": {
+      "band": "status",
+      "find": "mirror image status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_006_00.webp",
+      "label": "Mirror Image"
+    },
+    "308": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_str_007",
+      "find": "dmg cut status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_007_01.webp",
+      "label": "DMG Cut",
+      "tier": 1
+    },
+    "311": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_str_007",
+      "find": "dmg cut status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_007_04.webp",
+      "label": "DMG Cut",
+      "tier": 4
+    },
+    "312": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_str_007",
+      "find": "dmg cut status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_007_05.webp",
+      "label": "DMG Cut",
+      "tier": 5
+    },
+    "313": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_str_007",
+      "find": "dmg cut status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_007_06.webp",
+      "label": "DMG Cut",
+      "tier": 6
+    },
+    "319": {
+      "band": "status",
+      "find": "dragonform status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_011_00.webp",
+      "label": "Dragonform"
+    },
+    "320": {
+      "band": "status",
+      "find": "godmight status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_012_00.webp",
+      "label": "Godmight"
+    },
+    "321": {
+      "band": "status",
+      "find": "jammed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_013_00.webp",
+      "label": "Jammed"
+    },
+    "322": {
+      "band": "status",
+      "find": "stout heart status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_014_00.webp",
+      "label": "Stout Heart"
+    },
+    "323": {
+      "band": "status",
+      "find": "substitute status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_015_00.webp",
+      "label": "Substitute"
+    },
+    "327": {
+      "band": "status",
+      "find": "iron maiden status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_019_00.webp",
+      "label": "Iron Maiden"
+    },
+    "329": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_str_021",
+      "find": "critical hit rate status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_021_00.webp",
+      "label": "Critical Hit Rate↑",
+      "tier": 0
+    },
+    "330": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_str_021",
+      "find": "phantasmagoria status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_021_01.webp",
+      "label": "Phantasmagoria",
+      "tier": 1
+    },
+    "331": {
+      "band": "status",
+      "find": "atk status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_000_00.webp",
+      "label": "ATK↓"
+    },
+    "332": {
+      "band": "status",
+      "find": "def status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_001_00.webp",
+      "label": "DEF↓"
+    },
+    "333": {
+      "band": "status",
+      "find": "paralysis status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_002_00.webp",
+      "label": "Paralysis"
+    },
+    "334": {
+      "band": "status",
+      "find": "petrified status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_003_00.webp",
+      "label": "Petrified"
+    },
+    "335": {
+      "band": "status",
+      "find": "burn status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_004_00.webp",
+      "label": "Burn"
+    },
+    "337": {
+      "band": "status",
+      "find": "poison status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_006_00.webp",
+      "label": "Poison"
+    },
+    "343": {
+      "band": "status",
+      "find": "skill sealed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_012_00.webp",
+      "label": "Skill Sealed"
+    },
+    "345": {
+      "band": "status",
+      "find": "hostility status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_014_00.webp",
+      "label": "Hostility↑"
+    },
+    "346": {
+      "band": "status",
+      "find": "slow status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_016_00.webp",
+      "label": "Slow"
+    },
+    "347": {
+      "band": "status",
+      "find": "darkflame status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_017_00.webp",
+      "label": "Darkflame"
+    },
+    "349": {
+      "band": "status",
+      "find": "blight status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_020_00.webp",
+      "label": "Blight"
+    },
+    "350": {
+      "band": "status",
+      "find": "regen status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_rcv_001_00.webp",
+      "label": "Regen"
+    },
+    "352": {
+      "band": "status",
+      "find": "drain status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_rcv_003_00.webp",
+      "label": "Drain"
+    },
+    "354": {
+      "band": "status",
+      "find": "arvess fermare status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_021_00.webp",
+      "label": "Arvess Fermare"
+    },
+    "355": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_str_007",
+      "find": "dmg cut status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_007_09.webp",
+      "label": "DMG Cut",
+      "tier": 9
+    },
+    "363": {
+      "band": "status",
+      "find": "deadshot status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_027_00.webp",
+      "label": "Deadshot"
+    },
+    "364": {
+      "band": "status",
+      "find": "dmg status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_028_00.webp",
+      "label": "DMG↑"
+    },
+    "365": {
+      "band": "status",
+      "find": "chromatic wings status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_029_00.webp",
+      "label": "Chromatic Wings"
+    },
+    "366": {
+      "band": "status",
+      "find": "elemental friction status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_023_00.webp",
+      "label": "Elemental Friction"
+    },
+    "400": {
+      "band": "world",
+      "family": "cmn_ictxt_quest",
+      "find": "quest marker world",
+      "icon": "assets/textIcons/cmn_ictxt_quest_01.webp",
+      "label": "Quest marker",
+      "tier": 1
+    },
+    "401": {
+      "band": "world",
+      "family": "cmn_ictxt_quest",
+      "find": "quest marker world",
+      "icon": "assets/textIcons/cmn_ictxt_quest_02.webp",
+      "label": "Quest marker",
+      "tier": 2
+    },
+    "1300": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_041",
+      "find": "avalanche status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_041_00.webp",
+      "label": "Avalanche",
+      "tier": 0
+    },
+    "1309": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_041",
+      "find": "avalanche status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_041_09.webp",
+      "label": "Avalanche",
+      "tier": 9
+    },
+    "1310": {
+      "band": "unresolved",
+      "find": "undying unresolved",
+      "label": "Undying"
+    },
+    "1320": {
+      "band": "status",
+      "find": "deathmatch finale status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_030_00.webp",
+      "label": "Deathmatch Finale"
+    },
+    "1380": {
+      "band": "status",
+      "find": "n ed nulli status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_033_00.webp",
+      "label": "Näed Nulli"
+    },
+    "1400": {
+      "band": "status",
+      "find": "n ed nelja status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_rcv_004_00.webp",
+      "label": "Näed Nelja"
+    },
+    "1420": {
+      "band": "status",
+      "find": "n ed seitset status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_034_00.webp",
+      "label": "Näed Seitset"
+    },
+    "1480": {
+      "band": "sigil",
+      "find": "basic stats type sigil grey",
+      "icon": "assets/textIcons/cmn_ictxt_gene_01_04.webp",
+      "label": "Basic Stats-type sigil"
+    },
+    "1500": {
+      "band": "sigil",
+      "find": "attack type sigil red offence offense",
+      "icon": "assets/textIcons/cmn_ictxt_gene_02_04.webp",
+      "label": "Attack-type sigil"
+    },
+    "1520": {
+      "band": "sigil",
+      "find": "defense type sigil defence blue",
+      "icon": "assets/textIcons/cmn_ictxt_gene_03_04.webp",
+      "label": "Defense-type sigil"
+    },
+    "1540": {
+      "band": "sigil",
+      "find": "support type sigil green heal",
+      "icon": "assets/textIcons/cmn_ictxt_gene_04_04.webp",
+      "label": "Support-type sigil"
+    },
+    "1580": {
+      "band": "status",
+      "find": "dmg cap status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_037_00.webp",
+      "label": "DMG Cap↑"
+    },
+    "1600": {
+      "band": "status",
+      "find": "skill dmg status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_040_00.webp",
+      "label": "Skill DMG↑"
+    },
+    "1610": {
+      "band": "status",
+      "find": "stackable atk status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_038_00.webp",
+      "label": "Stackable ATK↑"
+    },
+    "1620": {
+      "band": "status",
+      "find": "stackable atk status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_026_00.webp",
+      "label": "Stackable ATK↓"
+    },
+    "1640": {
+      "band": "status",
+      "find": "stackable def status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_024_00.webp",
+      "label": "Stackable DEF↓"
+    },
+    "1700": {
+      "band": "rank",
+      "find": "style rank pip skillboard sboard mastery star",
+      "icon": "assets/textIcons/cmn_ictxt_sboard01.webp",
+      "label": "Style rank"
+    },
+    "2000": {
+      "band": "status",
+      "find": "dark zeal status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_006_00.webp",
+      "label": "Dark Zeal"
+    },
+    "2020": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_005",
+      "find": "dragonsbane pulse status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_005_00.webp",
+      "label": "Dragonsbane Pulse",
+      "tier": 0
+    },
+    "2023": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_005",
+      "find": "dragonsbane pulse status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_005_03.webp",
+      "label": "Dragonsbane Pulse",
+      "tier": 3
+    },
+    "2025": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_005",
+      "find": "dragonsbane pulse status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_005_05.webp",
+      "label": "Dragonsbane Pulse",
+      "tier": 5
+    },
+    "2027": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_005",
+      "find": "dragonsbane pulse status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_005_07.webp",
+      "label": "Dragonsbane Pulse",
+      "tier": 7
+    },
+    "2040": {
+      "band": "status",
+      "find": "combat healer status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_007_00.webp",
+      "label": "Combat Healer"
+    },
+    "2060": {
+      "band": "status",
+      "find": "enhanced freeflutter status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_002_00.webp",
+      "label": "Enhanced Freeflutter"
+    },
+    "2080": {
+      "band": "status",
+      "find": "enhanced dawnfly status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_003_00.webp",
+      "label": "Enhanced Dawnfly"
+    },
+    "2100": {
+      "band": "status",
+      "find": "kaleidoscope status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_004_00.webp",
+      "label": "Kaleidoscope"
+    },
+    "2120": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_001",
+      "find": "heliotrope aura status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_001_00.webp",
+      "label": "Heliotrope Aura",
+      "tier": 0
+    },
+    "2122": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_001",
+      "find": "heliotrope aura status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_001_02.webp",
+      "label": "Heliotrope Aura",
+      "tier": 2
+    },
+    "2131": {
+      "band": "status",
+      "find": "inversa status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_032_00.webp",
+      "label": "Inversa"
+    },
+    "2143": {
+      "band": "status",
+      "find": "ares surge status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_008_03.webp",
+      "label": "Ares Surge"
+    },
+    "2160": {
+      "band": "status",
+      "find": "blade blue status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_009_00.webp",
+      "label": "Blade Blue"
+    },
+    "2180": {
+      "band": "status",
+      "find": "super bull s eye blast status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_010_00.webp",
+      "label": "Super Bull's Eye Blast"
+    },
+    "2200": {
+      "band": "status",
+      "find": "superstar status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_011_00.webp",
+      "label": "Superstar"
+    },
+    "2220": {
+      "band": "status",
+      "find": "magic chain status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_028_00.webp",
+      "label": "Magic Chain"
+    },
+    "2240": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_012",
+      "find": "sniper elite status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_012_00.webp",
+      "label": "Sniper Elite",
+      "tier": 0
+    },
+    "2243": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_012",
+      "find": "sniper elite status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_012_03.webp",
+      "label": "Sniper Elite",
+      "tier": 3
+    },
+    "2260": {
+      "band": "status",
+      "find": "shell shock status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_027_00.webp",
+      "label": "Shell Shock"
+    },
+    "2280": {
+      "band": "status",
+      "find": "noble order status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_013_00.webp",
+      "label": "Noble Order"
+    },
+    "2300": {
+      "band": "status",
+      "find": "diamond cutter status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_014_00.webp",
+      "label": "Diamond Cutter"
+    },
+    "2320": {
+      "band": "status",
+      "find": "divine justice status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_015_00.webp",
+      "label": "Divine Justice"
+    },
+    "2340": {
+      "band": "status",
+      "find": "ultrafist status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_016_00.webp",
+      "label": "Ultrafist"
+    },
+    "2360": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_017",
+      "find": "loving trust status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_017_00.webp",
+      "label": "Loving Trust",
+      "tier": 0
+    },
+    "2369": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_017",
+      "find": "loving trust status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_017_09.webp",
+      "label": "Loving Trust",
+      "tier": 9
+    },
+    "2380": {
+      "band": "status",
+      "find": "spiritbond status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_018_00.webp",
+      "label": "Spiritbond"
+    },
+    "2400": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_019",
+      "find": "ebony glint status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_019_00.webp",
+      "label": "Ebony Glint",
+      "tier": 0
+    },
+    "2403": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_019",
+      "find": "ebony glint status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_019_03.webp",
+      "label": "Ebony Glint",
+      "tier": 3
+    },
+    "2420": {
+      "band": "status",
+      "find": "grynoth unleashed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_024_00.webp",
+      "label": "Grynoth Unleashed"
+    },
+    "2440": {
+      "band": "status",
+      "find": "stoked charge status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_020_00.webp",
+      "label": "Stoked Charge"
+    },
+    "2460": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_021",
+      "find": "molten edge status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_021_00.webp",
+      "label": "Molten Edge",
+      "tier": 0
+    },
+    "2469": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_021",
+      "find": "molten edge status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_021_09.webp",
+      "label": "Molten Edge",
+      "tier": 9
+    },
+    "2480": {
+      "band": "status",
+      "find": "super collapse status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_022_00.webp",
+      "label": "Super Collapse"
+    },
+    "2500": {
+      "band": "status",
+      "find": "truth status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_028_00.webp",
+      "label": "Truth"
+    },
+    "2520": {
+      "band": "status",
+      "find": "arts superi r status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_023_00.webp",
+      "label": "Arts Superiór"
+    },
+    "2540": {
+      "band": "status",
+      "find": "flash cut status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_025_00.webp",
+      "label": "Flash Cut"
+    },
+    "2560": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_026",
+      "find": "payback status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_026_00.webp",
+      "label": "Payback",
+      "tier": 0
+    },
+    "2570": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_026",
+      "find": "payback status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_026_10.webp",
+      "label": "Payback",
+      "tier": 10
+    },
+    "2580": {
+      "band": "status",
+      "find": "heroic vigor status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_027_00.webp",
+      "label": "Heroic Vigor"
+    },
+    "2600": {
+      "band": "status",
+      "find": "synergy boost status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_029_00.webp",
+      "label": "Synergy Boost"
+    },
+    "2620": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_030",
+      "find": "loop master status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_030_00.webp",
+      "label": "Loop Master",
+      "tier": 0
+    },
+    "2625": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_030",
+      "find": "loop master status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_030_05.webp",
+      "label": "Loop Master",
+      "tier": 5
+    },
+    "2640": {
+      "band": "status",
+      "find": "arvess unleashed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_031_00.webp",
+      "label": "Arvess Unleashed"
+    },
+    "2660": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_032",
+      "find": "heavy hammer status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_032_00.webp",
+      "label": "Heavy Hammer",
+      "tier": 0
+    },
+    "2665": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_032",
+      "find": "heavy hammer status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_032_05.webp",
+      "label": "Heavy Hammer",
+      "tier": 5
+    },
+    "2680": {
+      "band": "status",
+      "find": "spiral rose bloomed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_033_00.webp",
+      "label": "Spiral Rose Bloomed"
+    },
+    "2700": {
+      "band": "status",
+      "find": "lost love bloomed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_034_00.webp",
+      "label": "Lost Love Bloomed"
+    },
+    "2720": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_038",
+      "find": "embrasque unleashed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_038_00.webp",
+      "label": "Embrasque Unleashed",
+      "tier": 0
+    },
+    "2730": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_038",
+      "find": "embrasque unleashed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_038_10.webp",
+      "label": "Embrasque Unleashed",
+      "tier": 10
+    },
+    "2740": {
+      "band": "status",
+      "find": "n ed nulli excel status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_035_00.webp",
+      "label": "Näed Nulli Excel"
+    },
+    "2760": {
+      "band": "status",
+      "find": "n ed seitset excel status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_036_00.webp",
+      "label": "Näed Seitset Excel"
+    },
+    "2780": {
+      "band": "status",
+      "find": "n ed nelja excel status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_037_00.webp",
+      "label": "Näed Nelja Excel"
+    },
+    "2800": {
+      "band": "status",
+      "find": "enhanced damage skills status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_039_00.webp",
+      "label": "Enhanced Damage Skills"
+    },
+    "2820": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_040",
+      "find": "enhanced combo finishers status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_040_00.webp",
+      "label": "Enhanced Combo Finishers",
+      "tier": 0
+    },
+    "2830": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_040",
+      "find": "enhanced combo finishers status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_040_10.webp",
+      "label": "Enhanced Combo Finishers",
+      "tier": 10
+    },
+    "2840": {
+      "band": "status",
+      "find": "limitless light status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_042_00.webp",
+      "label": "Limitless Light"
+    },
+    "2860": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_043",
+      "find": "lucent refuge status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_043_00.webp",
+      "label": "Lucent Refuge",
+      "tier": 0
+    },
+    "2863": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_043",
+      "find": "lucent refuge status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_043_03.webp",
+      "label": "Lucent Refuge",
+      "tier": 3
+    },
+    "2880": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_wkn_029",
+      "find": "bell of war status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_029_00.webp",
+      "label": "Bell of War",
+      "tier": 0
+    },
+    "2890": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_wkn_029",
+      "find": "bell of war status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_029_10.webp",
+      "label": "Bell of War",
+      "tier": 10
+    },
+    "2900": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_044",
+      "find": "piercing gleam status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_044_00.webp",
+      "label": "Piercing Gleam",
+      "tier": 0
+    },
+    "2905": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_044",
+      "find": "piercing gleam status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_044_05.webp",
+      "label": "Piercing Gleam",
+      "tier": 5
+    },
+    "2910": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_044",
+      "find": "piercing gleam status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_044_10.webp",
+      "label": "Piercing Gleam",
+      "tier": 10
+    },
+    "2911": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_059",
+      "find": "enhanced clincher status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_059_00.webp",
+      "label": "Enhanced Clincher",
+      "tier": 0
+    },
+    "2919": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_059",
+      "find": "enhanced clincher status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_059_08.webp",
+      "label": "Enhanced Clincher",
+      "tier": 8
+    },
+    "2920": {
+      "band": "status",
+      "find": "dawnray status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_045_00.webp",
+      "label": "Dawnray"
+    },
+    "2960": {
+      "band": "status",
+      "find": "daredevil status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_046_00.webp",
+      "label": "Daredevil"
+    },
+    "2980": {
+      "band": "status",
+      "find": "ultimatum status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_047_00.webp",
+      "label": "Ultimatum"
+    },
+    "3000": {
+      "band": "status",
+      "find": "fall flat status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_031_00.webp",
+      "label": "Fall Flat"
+    },
+    "3020": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_048",
+      "find": "wild showman status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_048_00.webp",
+      "label": "Wild Showman",
+      "tier": 0
+    },
+    "3030": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_048",
+      "find": "wild showman status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_048_10.webp",
+      "label": "Wild Showman",
+      "tier": 10
+    },
+    "3031": {
+      "band": "status",
+      "find": "samudaya status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_060_00.webp",
+      "label": "Samudaya"
+    },
+    "3040": {
+      "band": "status",
+      "find": "star sea status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_050_00.webp",
+      "label": "Star Sea"
+    },
+    "3060": {
+      "band": "status",
+      "find": "sovereign status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_049_00.webp",
+      "label": "Sovereign"
+    },
+    "3080": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_051",
+      "find": "flamek unleashed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_051_00.webp",
+      "label": "Flamek Unleashed",
+      "tier": 0
+    },
+    "3083": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_051",
+      "find": "flamek unleashed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_051_03.webp",
+      "label": "Flamek Unleashed",
+      "tier": 3
+    },
+    "3100": {
+      "band": "status",
+      "find": "enhanced upright status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_052_00.webp",
+      "label": "Enhanced Upright"
+    },
+    "3120": {
+      "band": "status",
+      "find": "enhanced reversed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_053_00.webp",
+      "label": "Enhanced Reversed"
+    },
+    "3140": {
+      "band": "status",
+      "find": "enhanced upright status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_054_00.webp",
+      "label": "Enhanced Upright+"
+    },
+    "3160": {
+      "band": "status",
+      "find": "enhanced reversed status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_055_00.webp",
+      "label": "Enhanced Reversed+"
+    },
+    "3180": {
+      "band": "status",
+      "find": "enhanced combo finishers status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_056_00.webp",
+      "label": "Enhanced Combo Finishers"
+    },
+    "3200": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_057",
+      "find": "malice status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_057_00.webp",
+      "label": "Malice",
+      "tier": 0
+    },
+    "3203": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_057",
+      "find": "malice status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_057_03.webp",
+      "label": "Malice",
+      "tier": 3
+    },
+    "3210": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_057",
+      "find": "malice status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_057_10.webp",
+      "label": "Malice",
+      "tier": 10
+    },
+    "3220": {
+      "band": "status",
+      "find": "charisma status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_061_00.webp",
+      "label": "Charisma"
+    },
+    "3240": {
+      "band": "status",
+      "find": "booming beatdown status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_062_00.webp",
+      "label": "Booming Beatdown"
+    },
+    "3260": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_063",
+      "find": "flame wolf status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_063_00.webp",
+      "label": "Flame Wolf",
+      "tier": 0
+    },
+    "3265": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_063",
+      "find": "flame wolf status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_063_05.webp",
+      "label": "Flame Wolf",
+      "tier": 5
+    },
+    "3280": {
+      "band": "status",
+      "find": "blood drinking blade status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_064_00.webp",
+      "label": "Blood-Drinking Blade"
+    },
+    "3300": {
+      "band": "status",
+      "find": "dual raid status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_065_00.webp",
+      "label": "Dual Raid"
+    },
+    "3320": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_066",
+      "find": "daybreak status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_066_00.webp",
+      "label": "Daybreak",
+      "tier": 0
+    },
+    "3330": {
+      "band": "status",
+      "family": "cmn_ictxt_stts_spi_066",
+      "find": "daybreak status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_spi_066_10.webp",
+      "label": "Daybreak",
+      "tier": 10
+    },
+    "4000": {
+      "band": "status",
+      "find": "proto white world status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_051_00.webp",
+      "label": "Proto-White World"
+    },
+    "4020": {
+      "band": "status",
+      "find": "fractured world status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_wkn_035_00.webp",
+      "label": "Fractured World"
+    },
+    "4040": {
+      "band": "status",
+      "find": "chaos shift status",
+      "icon": "assets/textIcons/cmn_ictxt_stts_str_052_00.webp",
+      "label": "Chaos Shift"
+    }
+  },
+  "traitCategories": [
+    {
+      "category": 0,
+      "key": "basic",
+      "label": "Basic"
+    },
+    {
+      "category": 1,
+      "key": "attack",
+      "label": "Attack"
+    },
+    {
+      "category": 2,
+      "key": "defense",
+      "label": "Defense"
+    },
+    {
+      "category": 3,
+      "key": "support",
+      "label": "Support"
+    },
+    {
+      "category": 4,
+      "key": "special",
+      "label": "Special"
+    }
+  ],
+  "traitOrder": {
+    "30773197": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Enchantress's Rhythm",
+      "order": 874001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "47384248": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Enchantress's Blessing",
+      "order": 874000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "70395731": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Berserker",
+      "order": 229000,
+      "special": null,
+      "variant": 0
+    },
+    "73220725": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Celestial Ventus",
+      "order": 90326000,
+      "special": null,
+      "variant": 0
+    },
+    "79266456": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Bladequeen's Warpath",
+      "order": 886002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "0053599e": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Steady Focus",
+      "order": 705000,
+      "special": null,
+      "variant": 0
+    },
+    "0151cf9e": {
+      "category": 4,
+      "category_name": "special",
+      "name": "DMG Cap Cardinal",
+      "order": 90315000,
+      "special": null,
+      "variant": 0
+    },
+    "020db733": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Unbound Technique",
+      "order": 90317000,
+      "special": null,
+      "variant": 0
+    },
+    "05f2ecdc": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Cascade",
+      "order": 405000,
+      "special": null,
+      "variant": 0
+    },
+    "05fa4599": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Dragonslayer's Ingenuity",
+      "order": 840001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "06719232": {
+      "category": 4,
+      "category_name": "special",
+      "name": "The Black's Mark",
+      "order": 877000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "082033cb": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Crabby Resonance",
+      "order": 730000,
+      "special": null,
+      "variant": 0
+    },
+    "09aa7db5": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Nimble Defense",
+      "order": 509000,
+      "special": null,
+      "variant": 0
+    },
+    "0aa20846": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Improved Guard",
+      "order": 506000,
+      "special": null,
+      "variant": 0
+    },
+    "0cd6c625": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Swordmaster's Prowess",
+      "order": 846000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "0de887a0": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Celestial Nyx",
+      "order": 90320000,
+      "special": null,
+      "variant": 0
+    },
+    "0e42be1b": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Veteran's Warpath",
+      "order": 813002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "0ead65e0": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Natural Defenses",
+      "order": 527000,
+      "special": null,
+      "variant": 0
+    },
+    "0f026cf0": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Eternal Rage's Warpath",
+      "order": 822002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "0fba47e8": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Fortifying Vigor",
+      "order": 11001000,
+      "special": null,
+      "variant": 0
+    },
+    "11aae5f5": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Mage's Savvy",
+      "order": 810001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "1470f860": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Steel Nerves",
+      "order": 505000,
+      "special": null,
+      "variant": 0
+    },
+    "151e4674": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Helmsman's Navigation",
+      "order": 807000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "1568e0e4": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Head Start",
+      "order": 223000,
+      "special": null,
+      "variant": 0
+    },
+    "15806dfc": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Supreme Primarch's Nimbus",
+      "order": 869001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "16eff868": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Hero's Will",
+      "order": 834001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "1a2ef59e": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Ain",
+      "order": 869003,
+      "special": "boundary",
+      "variant": 3
+    },
+    "1b0d9897": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Crabvestment Returns",
+      "order": 731000,
+      "special": null,
+      "variant": 0
+    },
+    "1c360c63": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Charged Attack DMG",
+      "order": 215000,
+      "special": null,
+      "variant": 0
+    },
+    "1dc9d7e7": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Held Under Resistance",
+      "order": 515000,
+      "special": null,
+      "variant": 0
+    },
+    "1de14c65": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Gladiator's Frenzy",
+      "order": 883000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "1e1cecce": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Catastrophe Nova",
+      "order": 10255010,
+      "special": null,
+      "variant": 10
+    },
+    "2242921f": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Paralysis Resistance",
+      "order": 520000,
+      "special": null,
+      "variant": 0
+    },
+    "235d86ef": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Supernova",
+      "order": 90313000,
+      "special": null,
+      "variant": 0
+    },
+    "23d0f67f": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Rose's Blooming",
+      "order": 816000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "24883af3": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Potion Hoarder",
+      "order": 701000,
+      "special": null,
+      "variant": 0
+    },
+    "26956f25": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Gladiator's Top",
+      "order": 883001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "281214ab": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Two-Crown Boundary",
+      "order": 865003,
+      "special": "boundary",
+      "variant": 3
+    },
+    "29b07beb": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Butterfly's Grace",
+      "order": 828000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "29b292a8": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Precise Resilience",
+      "order": 508000,
+      "special": null,
+      "variant": 0
+    },
+    "2e65a774": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Hero's Creed",
+      "order": 834000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "2fc8fbff": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Stamina",
+      "order": 202000,
+      "special": null,
+      "variant": 0
+    },
+    "318d12e9": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Quick Cooldown",
+      "order": 404000,
+      "special": null,
+      "variant": 0
+    },
+    "333e5862": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Roll of the Die",
+      "order": 231000,
+      "special": null,
+      "variant": 0
+    },
+    "36e3848d": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Celestial Incendo",
+      "order": 90323000,
+      "special": null,
+      "variant": 0
+    },
+    "3759a5b9": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Dizzy Resistance",
+      "order": 513000,
+      "special": null,
+      "variant": 0
+    },
+    "3b71af12": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "DMG Cap Ecru",
+      "order": 10250000,
+      "special": null,
+      "variant": 0
+    },
+    "3bfed918": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Guardian's Conviction",
+      "order": 804000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "3c2b57b0": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Guard Payback",
+      "order": 225000,
+      "special": null,
+      "variant": 0
+    },
+    "3d8153a1": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Spartan Echo",
+      "order": 213000,
+      "special": null,
+      "variant": 0
+    },
+    "3eb345d7": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Thunderwolf's Warpath",
+      "order": 859002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "3f2c482e": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Supplements",
+      "order": 11047000,
+      "special": null,
+      "variant": 0
+    },
+    "3f488339": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Enmity",
+      "order": 201000,
+      "special": null,
+      "variant": 0
+    },
+    "3f682593": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Unbound Exertion",
+      "order": 90318000,
+      "special": null,
+      "variant": 0
+    },
+    "3fec5f80": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Linked Together",
+      "order": 209000,
+      "special": null,
+      "variant": 0
+    },
+    "40223c28": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Catastrophe",
+      "order": 10255000,
+      "special": null,
+      "variant": 0
+    },
+    "451d814c": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Eternal Rage's Ethos",
+      "order": 822001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "461a8e07": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Ultramarine's Adversity",
+      "order": 856001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "46ee3116": {
+      "category": 4,
+      "category_name": "special",
+      "name": "In a Pinch",
+      "order": 90302000,
+      "special": null,
+      "variant": 0
+    },
+    "48a95b8d": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Greater Aegis",
+      "order": 502000,
+      "special": null,
+      "variant": 0
+    },
+    "4bf2e191": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "ATK↓ Resistance",
+      "order": 525000,
+      "special": null,
+      "variant": 0
+    },
+    "4c588c27": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "War Elemental",
+      "order": 232000,
+      "special": null,
+      "variant": 0
+    },
+    "4e5f6706": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Supreme Primarch's Warpath",
+      "order": 869002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "4f135217": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Crimson's Warpath",
+      "order": 849002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "4f1a3683": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Injury to Insult",
+      "order": 220000,
+      "special": null,
+      "variant": 0
+    },
+    "50079a1c": {
+      "category": 0,
+      "category_name": "basic",
+      "name": "ATK",
+      "order": 101000,
+      "special": null,
+      "variant": 0
+    },
+    "50b453dd": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Skill Sealed Resistance",
+      "order": 522000,
+      "special": null,
+      "variant": 0
+    },
+    "51c115d2": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Super Ultimate Perfect Dodge",
+      "order": 227000,
+      "special": null,
+      "variant": 0
+    },
+    "522e2388": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Holy Knight's Grandeur",
+      "order": 819001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "5463232f": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Eternal Rage's Mettle",
+      "order": 822000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "5559232f": {
+      "category": 4,
+      "category_name": "special",
+      "name": "The Black's Warpath",
+      "order": 877002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "57ab5b10": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Supplementary DMG",
+      "order": 211000,
+      "special": null,
+      "variant": 0
+    },
+    "57e8a93f": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Sigil Booster",
+      "order": 10720000,
+      "special": null,
+      "variant": 0
+    },
+    "5c862e13": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Gamma",
+      "order": 752000,
+      "special": null,
+      "variant": 0
+    },
+    "5e422ae5": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Path to Mastery",
+      "order": 710000,
+      "special": null,
+      "variant": 0
+    },
+    "6018372b": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Provoke",
+      "order": 706000,
+      "special": null,
+      "variant": 0
+    },
+    "6085da25": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Regen",
+      "order": 402000,
+      "special": null,
+      "variant": 0
+    },
+    "6316cbeb": {
+      "category": 4,
+      "category_name": "special",
+      "name": "White Dragon's Warpath",
+      "order": 831002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "66de60b1": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "DEF↓ Resistance",
+      "order": 526000,
+      "special": null,
+      "variant": 0
+    },
+    "6b694d6d": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Weak Point DMG",
+      "order": 204000,
+      "special": null,
+      "variant": 0
+    },
+    "6ebfa176": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Crimson's Clout",
+      "order": 849000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "6ff05223": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Lord's Ambition",
+      "order": 837001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "71f11a9b": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Tyranny",
+      "order": 205000,
+      "special": null,
+      "variant": 0
+    },
+    "7351d602": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Phantasm's Harmony",
+      "order": 825001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "7440e869": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Ebony's Presence",
+      "order": 852000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "74aa75d6": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Stronghold",
+      "order": 504000,
+      "special": null,
+      "variant": 0
+    },
+    "77c809f5": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Spirit Edge's Rally",
+      "order": 861000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "79027fc8": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Unbound Master",
+      "order": 90319000,
+      "special": null,
+      "variant": 0
+    },
+    "7ad0c010": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Versalis Ignition",
+      "order": 879001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "7b4fc47a": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Spirit Edge's Warpath",
+      "order": 861002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "7b5b081d": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Bladequeen's Serenade",
+      "order": 886000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "7c2e4d64": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Dodge Payback",
+      "order": 226000,
+      "special": null,
+      "variant": 0
+    },
+    "7c84a6b3": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Burn Resistance",
+      "order": 519000,
+      "special": null,
+      "variant": 0
+    },
+    "7ccff74f": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Drain",
+      "order": 403000,
+      "special": null,
+      "variant": 0
+    },
+    "7d75d904": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Thunderwolf's Recharge",
+      "order": 859000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "7edd69d0": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Precise Wrath",
+      "order": 407000,
+      "special": null,
+      "variant": 0
+    },
+    "807b6684": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Enchantress's Warpath",
+      "order": 874002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "81b293d9": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Dark Huntress's Warpath",
+      "order": 865002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "82ce278d": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Less Is More",
+      "order": 228000,
+      "special": null,
+      "variant": 0
+    },
+    "84078cb0": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Quick Charge",
+      "order": 217000,
+      "special": null,
+      "variant": 0
+    },
+    "8519ad4a": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Rose's Warpath",
+      "order": 816002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "8572b8af": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Dark Huntress's Surge",
+      "order": 865001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "86cbcdc4": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Dragonslayer's Dominance",
+      "order": 840000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "89c66acb": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Sumo Force",
+      "order": 90303000,
+      "special": null,
+      "variant": 0
+    },
+    "8b3bf60c": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Improved Dodge",
+      "order": 507000,
+      "special": null,
+      "variant": 0
+    },
+    "8cdf9382": {
+      "category": 4,
+      "category_name": "special",
+      "name": "White Dragon's Oath",
+      "order": 831000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "8d078597": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Throw DMG",
+      "order": 219000,
+      "special": null,
+      "variant": 0
+    },
+    "8d2adb6e": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Beta",
+      "order": 751000,
+      "special": null,
+      "variant": 0
+    },
+    "8d78a19b": {
+      "category": 0,
+      "category_name": "basic",
+      "name": "Critical Hit Rate",
+      "order": 103000,
+      "special": null,
+      "variant": 0
+    },
+    "8f502f0d": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Life on the Line",
+      "order": 206000,
+      "special": null,
+      "variant": 0
+    },
+    "921b6b0c": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Veteran's Vision",
+      "order": 813001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "9230e3f5": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Spirit Edge's Fury",
+      "order": 861001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "9232dc17": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Celestial Terra",
+      "order": 90322000,
+      "special": null,
+      "variant": 0
+    },
+    "9389cc06": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Improved Healing",
+      "order": 401000,
+      "special": null,
+      "variant": 0
+    },
+    "93a2093c": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Versalis Foundation",
+      "order": 879000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "95f3fa86": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Autorevive",
+      "order": 704000,
+      "special": null,
+      "variant": 0
+    },
+    "9702860f": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Blight Resistance",
+      "order": 521000,
+      "special": null,
+      "variant": 0
+    },
+    "973b49af": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Poison Resistance",
+      "order": 517000,
+      "special": null,
+      "variant": 0
+    },
+    "9a9dc170": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Holy Knight's Luster",
+      "order": 819000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "9ace140b": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Bladequeen's Circuit",
+      "order": 886001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "9ad8b5e6": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Seven Net",
+      "order": 904000,
+      "special": null,
+      "variant": 0
+    },
+    "9afdfa9e": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Guardian's Warpath",
+      "order": 804002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "a1a8e39d": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Stout Heart",
+      "order": 740000,
+      "special": null,
+      "variant": 0
+    },
+    "a2fa9685": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Slow Resistance",
+      "order": 518000,
+      "special": null,
+      "variant": 0
+    },
+    "a339d642": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Phantasm's Warpath",
+      "order": 825002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "a374fdf0": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Helmsman's Tenacity",
+      "order": 807001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "a38510e2": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Fearless Spirit",
+      "order": 801001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "a3b49220": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Swordmaster's Art",
+      "order": 846001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "a4d6b880": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Instilling Vigor",
+      "order": 11002000,
+      "special": null,
+      "variant": 0
+    },
+    "a63b89cd": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Butterfly's Valor",
+      "order": 828001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "a7726190": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Celestial Lumen",
+      "order": 90321000,
+      "special": null,
+      "variant": 0
+    },
+    "a7a45f28": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Combo Finisher DMG",
+      "order": 214000,
+      "special": null,
+      "variant": 0
+    },
+    "a898e283": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Celestial Aqua",
+      "order": 90324000,
+      "special": null,
+      "variant": 0
+    },
+    "a8a3163b": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Glass Cannon",
+      "order": 230000,
+      "special": null,
+      "variant": 0
+    },
+    "a9d17f55": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Overdrive Assassin",
+      "order": 221000,
+      "special": null,
+      "variant": 0
+    },
+    "aa83f548": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Veteran's Insight",
+      "order": 813000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "ac9674c1": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Break Assassin",
+      "order": 222000,
+      "special": null,
+      "variant": 0
+    },
+    "aefeb1bc": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "DMG Cap Cobalt",
+      "order": 10253000,
+      "special": null,
+      "variant": 0
+    },
+    "af513a9d": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Founder's Truth",
+      "order": 843001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "af794a87": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Untouchable",
+      "order": 510000,
+      "special": null,
+      "variant": 0
+    },
+    "b064a634": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Versalis Heart",
+      "order": 879002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "b360801d": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Concentrated Fire",
+      "order": 218000,
+      "special": null,
+      "variant": 0
+    },
+    "b48eef48": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Mage's Aspiration",
+      "order": 810000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "b5ff9fd3": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Uplift",
+      "order": 406000,
+      "special": null,
+      "variant": 0
+    },
+    "b6e31f76": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Firm Stance",
+      "order": 512000,
+      "special": null,
+      "variant": 0
+    },
+    "b85202bc": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Holy Knight's Warpath",
+      "order": 819002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "b953cc1e": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Ultramarine's Warpath",
+      "order": 856002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "ba504607": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Lord's Warpath",
+      "order": 837002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "bbd77c33": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Unbound Strike",
+      "order": 90316000,
+      "special": null,
+      "variant": 0
+    },
+    "be3404b9": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Thunderwolf's Acuity",
+      "order": 859001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "bf78fbfc": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Immortal Shell",
+      "order": 90301000,
+      "special": null,
+      "variant": 0
+    },
+    "c00163b3": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Mage's Warpath",
+      "order": 810002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "c0979a17": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Critical Hit DMG",
+      "order": 203000,
+      "special": null,
+      "variant": 0
+    },
+    "c2a4c7a9": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Rose's Profusion",
+      "order": 816001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "c35b111b": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Lucky Charge",
+      "order": 216000,
+      "special": null,
+      "variant": 0
+    },
+    "c7d379f1": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Dragonslayer's Warpath",
+      "order": 840002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "c86f3082": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Rupie Tycoon",
+      "order": 709000,
+      "special": null,
+      "variant": 0
+    },
+    "cd030268": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Fearless Drive",
+      "order": 801000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "cd124165": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Ebony's Poise",
+      "order": 852001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "cd18a77d": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Potent Greens",
+      "order": 409000,
+      "special": null,
+      "variant": 0
+    },
+    "cdeb73f6": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Gilding Vigor",
+      "order": 11003000,
+      "special": null,
+      "variant": 0
+    },
+    "ceb700ee": {
+      "category": 0,
+      "category_name": "basic",
+      "name": "Stun Power",
+      "order": 104000,
+      "special": null,
+      "variant": 0
+    },
+    "cfb48782": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "SBA Sealed Resistance",
+      "order": 523000,
+      "special": null,
+      "variant": 0
+    },
+    "d029fe08": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Fatebreaker",
+      "order": 90325000,
+      "special": null,
+      "variant": 0
+    },
+    "d1012d8c": {
+      "category": 4,
+      "category_name": "special",
+      "name": "White Dragon's Glory",
+      "order": 831001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "d176d262": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Ultramarine's Flash",
+      "order": 856000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "d2c8e10a": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Nimble Onslaught",
+      "order": 408000,
+      "special": null,
+      "variant": 0
+    },
+    "d3b8c21f": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Crabmiration",
+      "order": 732000,
+      "special": null,
+      "variant": 0
+    },
+    "d40d1e9b": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Supreme Primarch's Awe",
+      "order": 869000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "d461ecfb": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Crabvestment Returns",
+      "order": 731004,
+      "special": null,
+      "variant": 4
+    },
+    "d54f8ca7": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Sandtomb Resistance",
+      "order": 516000,
+      "special": null,
+      "variant": 0
+    },
+    "d76f4d24": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Helmsman's Warpath",
+      "order": 807002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "d7f9bb88": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Ebony's Warpath",
+      "order": 852002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "d8f66c1c": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Hero's Warpath",
+      "order": 834002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "d908223d": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Phantasm's Concord",
+      "order": 825000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "dade14dc": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Fearless Heart",
+      "order": 801002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "daefbb27": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Swordmaster's Warpath",
+      "order": 846002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "dba19768": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Gladiator's Warpath",
+      "order": 883002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "dbe1d775": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Alpha",
+      "order": 750000,
+      "special": null,
+      "variant": 0
+    },
+    "dc225c96": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Power Hungry",
+      "order": 224000,
+      "special": null,
+      "variant": 0
+    },
+    "dc584f60": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "DMG Cap",
+      "order": 207000,
+      "special": null,
+      "variant": 0
+    },
+    "dc607d75": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Low Profile",
+      "order": 707000,
+      "special": null,
+      "variant": 0
+    },
+    "dd4a701e": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Darkflame Resistance",
+      "order": 524000,
+      "special": null,
+      "variant": 0
+    },
+    "e0abfdfe": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Aegis",
+      "order": 501000,
+      "special": null,
+      "variant": 0
+    },
+    "e60a735c": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Lord's Procession",
+      "order": 837000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "e69a4694": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Guts",
+      "order": 703000,
+      "special": null,
+      "variant": 0
+    },
+    "e6b92e34": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Founder's Warpath",
+      "order": 843002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "e6cdba9c": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Garrison",
+      "order": 503000,
+      "special": null,
+      "variant": 0
+    },
+    "e85ff8e0": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Dark Huntress's Volley",
+      "order": 865000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "eae321eb": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Skilled Assault",
+      "order": 208000,
+      "special": null,
+      "variant": 0
+    },
+    "ec1c6779": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Flight over Fight",
+      "order": 511000,
+      "special": null,
+      "variant": 0
+    },
+    "ec3cf174": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Founder's Strategy",
+      "order": 843000,
+      "special": "awakening",
+      "variant": 0
+    },
+    "ed8d8ad8": {
+      "category": 4,
+      "category_name": "special",
+      "name": "The Black's Impulse",
+      "order": 877001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "ee85cd1f": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Berserker Echo",
+      "order": 212000,
+      "special": null,
+      "variant": 0
+    },
+    "ef05ec4d": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Seven-Star Boundary",
+      "order": 861003,
+      "special": "boundary",
+      "variant": 3
+    },
+    "f17850b9": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "Combo Booster",
+      "order": 210000,
+      "special": null,
+      "variant": 0
+    },
+    "f1d5dbd0": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Crimson's Flight",
+      "order": 849001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "f26baea5": {
+      "category": 3,
+      "category_name": "support",
+      "name": "Divergence",
+      "order": 90327000,
+      "special": null,
+      "variant": 0
+    },
+    "f372f096": {
+      "category": 0,
+      "category_name": "basic",
+      "name": "HP",
+      "order": 102000,
+      "special": null,
+      "variant": 0
+    },
+    "f687c5ef": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Fast Learner",
+      "order": 708000,
+      "special": null,
+      "variant": 0
+    },
+    "f71f8997": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Auto Potion",
+      "order": 702000,
+      "special": null,
+      "variant": 0
+    },
+    "f8496336": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Guardian's Honor",
+      "order": 804001,
+      "special": "awakening",
+      "variant": 1
+    },
+    "fb572681": {
+      "category": 2,
+      "category_name": "defense",
+      "name": "Glaciate Resistance",
+      "order": 514000,
+      "special": null,
+      "variant": 0
+    },
+    "fdd1ad24": {
+      "category": 4,
+      "category_name": "special",
+      "name": "Butterfly's Warpath",
+      "order": 828002,
+      "special": "warpath",
+      "variant": 2
+    },
+    "fff8cf64": {
+      "category": 1,
+      "category_name": "attack",
+      "name": "DMG Cap Sage",
+      "order": 10254000,
+      "special": null,
+      "variant": 0
+    }
+  }
+}
