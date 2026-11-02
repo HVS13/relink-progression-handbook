@@ -32,6 +32,7 @@ The build produces `dist/` for GitHub Pages and `Relink_Defender_Field_Guide_Rev
 | `revision-content.js` | Character playbooks, skills, rotations and recommendations |
 | `progression-content.js` | 28 foundation skill plans, progression checkpoints and 84 style-specific trait priorities |
 | `master-selections.json` | Explicit node IDs and reasons for all 84 presets; no automatic node scoring |
+| `research/official-patch-review.json` | Dated official version check, shared corrections and all 28 character patch notes |
 | `equipment-evidence.json` | Named Summon roll values, acquisition routes and versioned source links |
 | `prepare-revision.js` | Validates fixed selections against source snapshots and assembles the data |
 | `revised-runtime.js` | Rendering, equipment targets, totals, links and exports |
@@ -44,7 +45,7 @@ Pushes to `main` build and test the handbook before deploying `dist/` to GitHub 
 
 ## Evidence and limitations
 
-The game-data review targets **game version 2.0.6, checked 28 October 2026**. The interface updates do not imply a new mechanics review. Character pages link their official documentation, extracted tables and community references. Extracted relink-logs sources are pinned to the recorded commit in `research/logs-source-revision.json`.
+The game-data review targets **game version 2.0.6 (released 17 September 2026), confirmed against the live official update list on 2 November 2026**. All five listed update articles (2.0.2 - 2.0.6) were read. Each character has a sourced patch-compatibility note; fixed-level Sigils target level 15, Fediel retains the five-stack correction, and Master Trait limits remain enforced. This patch-note review does not establish an all-character damage ranking. Character pages link their official documentation, extracted tables and community references. Extracted relink-logs sources are pinned to the recorded commit in `research/logs-source-revision.json`.
 
 The **2 November 2026 progression revision** adds character-specific early equipment/skills, six-stage decisions and explicit node selections. It preserves actual HP healing in support presets, separates low-current-HP gear from high-current-HP gear, and removes several resource-loop mismatches. Source status and concrete changes are recorded in `research/progression-review/README.md`. Live extracted-table requests returned HTTP 403 during this review; those files remain the existing snapshots, not newly fetched data.
 

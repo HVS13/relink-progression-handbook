@@ -1,0 +1,51 @@
+{
+  "checked": "2026-11-02",
+  "version": "2.0.6",
+  "released": "2026-09-17",
+  "index": "https://relink-ragnarok.granbluefantasy.com/en/updates/",
+  "method": "Read the live official update index and all five listed update articles in the browser.",
+  "articles": [
+    {"version": "2.0.6", "url": "https://relink-ragnarok.granbluefantasy.com/en/updates/408/"},
+    {"version": "2.0.5", "url": "https://relink-ragnarok.granbluefantasy.com/en/updates/401/"},
+    {"version": "2.0.4", "url": "https://relink-ragnarok.granbluefantasy.com/en/updates/395/"},
+    {"version": "2.0.3", "url": "https://relink-ragnarok.granbluefantasy.com/en/updates/392/"},
+    {"version": "2.0.2", "url": "https://relink-ragnarok.granbluefantasy.com/en/updates/381/"}
+  ],
+  "fixedLevelSigils": ["War Elemental", "Untouchable", "Potent Greens", "Roll of the Die", "Flight over Fight"],
+  "global": [
+    "2.0.6 corrects five fixed-level Sigils incorrectly obtained at trait level 11 to level 15. Their level-11 versions are not equipment targets.",
+    "2.0.5 fixes equipping Master Traits beyond their limit. These plans retain legal rank budgets and specialization requirements.",
+    "2.0.2 changes buff/debuff damage calculations and many skill strengths. Pre-expansion ATK-buff values, damage ratios and rankings are not carried over as current measurements.",
+    "Potion Hoarder 15 grants one extra revival potion. Potion healing is capped, so more maximum HP does not proportionally increase every potion's healing."
+  ],
+  "characters": {
+    "captain": {"version": "2.0.2", "note": "Dodging during Power Raise preserves its charge. Phalanx reaches all allies; Substitute grants DMG Cut and can intercept unguardable attacks."},
+    "katalina": {"version": "2.0.2", "note": "Dodging during Ares Pactstrike no longer dismisses Ares. Guardian's Warpath uses the reduced ER buff strength; old values are not assumed."},
+    "rackam": {"version": "2.0.2", "note": "Normal attacks and Bull's Eye Blast V were strengthened. Walking fire retains auto aim; old damage ratios and Wild Gunsmoke buff values need ER data."},
+    "io": {"version": "2.0.2", "note": "Mage's Warpath now works in Link Time. Stargaze, Lightning and Flowery Seven were adjusted; pre-ER ratios and the old Link Time bug are not used."},
+    "eugen": {"version": "2.0.2", "note": "The AI sniper-vision bug and several aiming/dodge delays were fixed. Venom Grenade's DEF-down strength was reduced with the new damage calculation."},
+    "rosetta": {"version": "2.0.2", "note": "Entering critical condition no longer removes or resets planted roses. Rose Tycoon restores rose gauges. Separate Master Trait damage/reset conditions still need to be respected."},
+    "charlotta": {"version": "2.0.2", "note": "Noble Stance power finishers were strengthened. Konigsschild reaches all allies, and Valiant Stance uses reduced stackable ATK buffs."},
+    "ghandagoza": {"version": "2.0.2", "note": "True Avidya's ATK buff and Lion Stance's Jammed strength changed with ER's damage calculation. Old buff values are not current build evidence."},
+    "ferry": {"version": "2.0.2", "note": "Beppo summoned by Umlauf counts for pet-dependent effects. Pendel, Strafe and pet attacks now generate SBA per hit; old SBA-generation comparisons are not assumed."},
+    "narmaya": {"version": "2.0.2", "note": "Setsuna must finish its final slash before another attack starts. The Transient dodge/charge cooldown bug was fixed. Warpath's SBA-generation penalty is now 30%, not 50%."},
+    "lancelot": {"version": "2.0.2", "note": "Avalanche and combo transitions were revised. Flight over Fight triggers only through the dodge button and applies DMG-down; it is not free damage or a substitute for every mastery-specific dodge trigger."},
+    "vane": {"version": "2.0.2", "note": "Heavy Swing's gauge-on-block bug was fixed. AI Vane may choose to dodge a lethal block; a manual blocking rotation is not guaranteed AI behavior."},
+    "percival": {"version": "2.0.2", "note": "Schlacht ++ was strengthened and several skill-buff values changed. This guide does not rely on historical skill-cancel exploits or pre-ER damage comparisons."},
+    "siegfried": {"version": "2.0.2", "note": "Mirage grants DMG Cut. Warpath's DEF penalty is now 30%, not 50%; Draconic Release uses reduced stackable ATK buffs and received premature-expiry fixes."},
+    "cagliostro": {"version": "2.0.2", "note": "The repeated Founder's Truth cooldown trigger after a Combo C dodge cancel was fixed. Legitimate recovery cancels do not imply an infinite cooldown-reset loop."},
+    "yodarha": {"version": "2.0.2", "note": "Combo finishers were strengthened and shortened combos received hit-count fixes. The unintended Empty Mist cooldown reset was fixed."},
+    "zeta": {"version": "2.0.2", "note": "Arvess Fermare's extra damage benefits only the Zeta who applied it. Realm's Majesty counter invulnerability was extended; old party-wide Fermare assumptions are invalid."},
+    "vaseraga": {"version": "2.0.2", "note": "Charged unique attacks can follow all damage/debuff skills. Netherwrath can intercept unguardable attacks; unintended skill resets are not part of the plan."},
+    "beatrix": {"version": "2.0.2", "note": "Dodging after a combo finisher during Devour Causality no longer breaks the combo. Delta Clock supports one-press and double-press mode changes."},
+    "eustace": {"version": "2.0.2", "note": "No Eustace-specific balance change is listed in 2.0.3 through 2.0.6. Retain the ER skill/grade rules and the rank-gated refill loop; patch silence is not an independent timing test."},
+    "id": {"version": "2.0.2", "note": "Godmight power-strike combos survive dodges. Fourfold Vengeance's base power was reduced for ER's Master Traits; pre-ER ratios are not used as proof of its current output."},
+    "sandalphon": {"version": "2.0.3", "note": "AI Talviyo's missed-link bug was fixed in 2.0.3. ER also reduced Chromatic Wings attack/stun and Revontulet stun, so old Lightstep/Revontulet rankings are not current evidence."},
+    "seofon": {"version": "2.0.2", "note": "Avatar finishers no longer reset Avatar gauge, and dismissing the avatar below maximum Swordshine preserves its level. Old forced-reset rotations are not required."},
+    "tweyen": {"version": "2.0.2", "note": "Combo C, fully charged Multilock Hail and Volley's damage buff were strengthened. Two-Crown's Strife extends enemy debuffs, not enemy buffs."},
+    "fraux": {"version": "2.0.2", "note": "No Fraux-specific balance change is listed in 2.0.3 through 2.0.6. Retain the ER rank-gated gauge/Strength Gains rules; this does not independently validate every animation or damage ratio."},
+    "fediel": {"version": "2.0.5", "note": "Enhanced Combo Finishers caps at five levels. Unstacked magic orbs were weakened and their scaling adjusted; the old zero-stack finisher-spam advice is obsolete. Maximum-stack damage remains roughly comparable, not a verified numerical ratio."},
+    "gallanza": {"version": "2.0.5", "note": "SBA requires a full gauge. Entering Deathmatch Finale or reaching maximum Wild Showman no longer permits the old underfilled-gauge SBA activation bug."},
+    "maglielle": {"version": "2.0.2", "note": "No Maglielle-specific balance change is listed in 2.0.3 through 2.0.6. Retain the ER skill and rank gates; this official-note check does not independently validate specialist animation timings."}
+  }
+}

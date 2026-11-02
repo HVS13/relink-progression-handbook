@@ -69,3 +69,11 @@ Access limits: fresh connected reads of the original Maglielle and Tweyen Docs f
 ## Verification boundaries
 
 The automated checks inspect all character/style/stage/accounting views, node budgets/dependencies, legal names and pairing pools, foundation skills, export consistency and sharing. They cannot establish move-specific damage, boss hit reliability, resource proc frequency, clear speed or survivability. The printed checkpoints identify what a player would need to measure before calling a recommendation optimal.
+
+## Official patch compatibility pass - 2 November 2026
+
+The earlier official-feed access limit was resolved by reading the live official site in the browser. The update index lists five articles on one page; the latest is 2.0.6, released 17 September 2026. Read all five English articles: [2.0.6](https://relink-ragnarok.granbluefantasy.com/en/updates/408/), [2.0.5](https://relink-ragnarok.granbluefantasy.com/en/updates/401/), [2.0.4](https://relink-ragnarok.granbluefantasy.com/en/updates/395/), [2.0.3](https://relink-ragnarok.granbluefantasy.com/en/updates/392/), [2.0.2](https://relink-ragnarok.granbluefantasy.com/en/updates/381/). The structured review is in `research/official-patch-review.json`.
+
+All 28 pages now show a relevant official patch note and date; exports include the patch check. Clarified Captain's preserved Power Raise charge on dodge, Katalina's preserved Ares during Pactstrike dodges, and Fediel's weakened unstacked orbs. The guide already applies Fediel's five-stack limit, legal rank budgets, the one-extra-revival Potion Hoarder effect, and revised Narmaya/Siegfried Warpath penalties. These were retained, not presented as new equipment fixes. Gallanza's underfilled-gauge SBA bug is explicitly excluded. No equipment or node changes were justified by 2.0.6, whose listed changes concern fixed-level Sigils, quest damage and a bonus sword.
+
+Defender progression, all 84 style presets and maximum legal equipment targets are retained. Added regression coverage for per-character patch references, exported status, fixed-level Sigils and the existing Fediel correction. Extracted snapshots remain from 28 October; the Io reaction-label conflict remains unresolved. No game/combat testing was performed.

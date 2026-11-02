@@ -11,6 +11,11 @@ if(synthesisTraits.has('HP'))synthesisTraits.add('Health');
 const context={document:{getElementById:el,addEventListener(){}},console,skillCatalog,legalSigils,synthesisTraits,URLSearchParams,history:{replaceState(){}},location:{pathname:'/',hash:''}};
 vm.createContext(context);vm.runInContext(script,context);
 const data=require('./revision-data.json');
+assert.equal(data.PATCH_REVIEW.version,'2.0.6');
+assert.equal(data.PATCH_REVIEW.checked,'2026-11-02');
+assert.equal(Object.keys(data.PATCH_REVIEW.characters).length,28);
+for(const c of data.CHARS){const patch=data.PATCH_REVIEW.characters[c.slug];assert(patch?.note&&data.PATCH_REVIEW.articles.some(a=>a.version===patch.version),'Missing official patch reference: '+c.slug);}
+assert(/max lvl 5/.test(data.GAME.fediel.Insight.perks.rank2.text),'Stale Fediel stack limit');
 const stonePools=require('./research/logs-transmarvel-pool.json').wrightstones.combos;
 const traitId=name=>Object.entries(display.traitOrder).find(([,t])=>t.name===name)?.[0];
 assert(stonePools.some(p=>p.slots.every((slot,i)=>slot.traits.includes(traitId(['HP','Supplementary DMG','Autorevive'][i]))&&slot.levels.includes([20,15,10][i]))),'Unsupported 20/15/10 Wrightstone');
@@ -51,6 +56,7 @@ const results=vm.runInContext(`(()=>{
      if((totals()['Quick Cooldown']||0)>45)failures.push(active+' redundant Quick Cooldown at '+stage);
      for(const r of gear)if(traitName(r.main)==='Improved Dodge'&&r.level<11)failures.push(active+' nonfunctional low-level Improved Dodge');
      for(const r of gear){
+      if(PATCH_REVIEW.fixedLevelSigils.includes(traitName(r.main))&&r.level!==15)failures.push(active+' outdated fixed-level Sigil '+r.main);
       if(!legalSigils.has(rowItem(r)))failures.push(active+' nonexistent Sigil item '+rowItem(r));
       if(pairs&&r.secondary!=='—'&&r.kind==='rolledUnique'&&!UNIQUE_ROLLS[traitName(r.main)]?.secondaries.includes(r.secondary))failures.push(active+' unsupported unique roll '+r.main+'/'+r.secondary);
       if(pairs&&r.secondary!=='—'&&!['awakening','rolledUnique'].includes(r.kind)&&(!synthesisTraits.has(traitName(r.main))||!synthesisTraits.has(r.secondary)))failures.push(active+' unsupported ordinary synthesis '+r.main+'/'+r.secondary);
@@ -60,6 +66,8 @@ const results=vm.runInContext(`(()=>{
      for(const r of gear){if(!TRAITS[traitName(r.main)])failures.push(active+' unknown primary '+r.main);if(r.secondary!=='—'&&!TRAITS[traitName(r.secondary)])failures.push(active+' unknown secondary '+r.secondary);}
      if(equippedSkills().length!==4||new Set(equippedSkills()).size!==4)failures.push(active+' invalid skills '+st);
      const copied=buildText();if(!copied.includes('Style: '+st))failures.push(active+' wrong copied style');
+     if(!copied.includes('Official patch check: 2.0.6 / 2026-11-02')||!copied.includes(PATCH_REVIEW.characters[active].note))failures.push(active+' missing patch export');
+     if(!document.getElementById('sources').innerHTML.includes(PATCH_REVIEW.characters[active].note.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))))failures.push(active+' missing visible patch note');
      for(const skill of equippedSkills())if(!copied.includes(skill))failures.push(active+' copied skill missing');
      if(!late()&&takenNodes().length)failures.push(active+' early nodes counted');
      if(!late()&&copied.includes('rank1\\n'))failures.push(active+' early export includes allocation');
