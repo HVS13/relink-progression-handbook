@@ -1,0 +1,149 @@
+{
+  "title": "The AI Compendium",
+  "url": "https://docs.google.com/document/d/1y6tGs1WZ3Q6z8ANYH0A_T2oz6xvhS7gV7peULIK6jbU/edit",
+  "reviewed": "2026-11-02",
+  "credit": "Erze, with Rain, Phish3r, Blackmyst and QuantizedAnson",
+  "scope": "Community-reported companion behavior, not independently reproduced here. Style suggestions apply after Master Traits unlock; they are not complete AI presets. Keep Defender and the progression unlock limits when adapting them.",
+  "characters": {
+    "captain": {
+      "tab": "t.ejhff9erk3wh", "style": "Insight",
+      "note": "Consider Insight for damage-skill shortcuts into Power Raise. The compendium reports less effective use of Essence's Combat Healer loop; check actual healing and party support before copying the manual support build.",
+      "caution": "More cooldown reduction can also mean more skill casts replacing Power Raise during Link Time. Compare finished attacks, not just cooldowns."
+    },
+    "katalina": {
+      "tab": "t.9bq68nq9sn2s", "style": "Insight",
+      "note": "Consider Insight for Ares uptime. The compendium reports that skill priority limits Pactstrike use, while Essence's more involved combo loop is less reliable on AI.",
+      "caution": "Do not remove cooldown reduction solely to force more normal attacks: the reported Insight loop still benefits from skills. Watch whether Ares needs rebuilding after boss transitions."
+    },
+    "rackam": {
+      "tab": "t.w38bcady69ce", "style": "Insight",
+      "note": "Consider Insight or Crux for general companion use. The compendium reports that Essence can spend most of the fight channeling Coffinmaker, making it a specialized farming choice rather than a general default.",
+      "caution": "Its Crux comparisons depend on landing Collateral Damage. Do not copy the source's low-HP assumptions into a Defender build without checking survival and HP-dependent effects."
+    },
+    "io": {
+      "tab": "t.17asl5q6kouz", "style": "Essence",
+      "note": "Consider Essence with Fire and Freeze. The compendium reports that AI does not use Quick Cast well and can repeatedly prioritize Lightning; its companion setup instead uses Flowery Seven and Gravity Well alongside Fire and Freeze.",
+      "caution": "Watch completed charge casts and interruptions before changing equipment. The source also reports an FPS-dependent Gravity Well bug; its stun results do not establish ordinary performance. The manual Lightning reaction build remains separate."
+    },
+    "eugen": {
+      "tab": "t.dv8tg6o38frf", "style": "Insight",
+      "note": "Consider Insight for charged shots and damage skills rather than assuming AI reproduces the manual Essence grenade loop. The compendium even leaves a skill slot empty to allow more normal attacks.",
+      "caution": "Sumrak and Armor-Piercing Round depend on target movement and hitbox. An empty AI skill slot is a deliberate alternative to assess, not a missing fourth skill in the manual build."
+    },
+    "rosetta": {
+      "tab": "t.i4nulfdeyqq6", "style": "Insight",
+      "note": "Consider Insight for the Lost Love and Spiral Rose reset loop. The compendium uses Bouquet to help rose positioning rather than expecting AI to reproduce the manual placement plan.",
+      "caution": "Watch whether roses and skill hits actually reach mobile bosses. Animation commitment can also delay Link Attacks or SBA; theoretical cooldown resets do not guarantee useful damage."
+    },
+    "charlotta": {
+      "tab": "t.f23ti9z6eflv", "style": "Insight",
+      "note": "Consider Insight's Noble Stance route. The compendium reports that AI does not reproduce the manual XYY sequence and has trouble positioning Sword of Lumiel; Essence's parry stack plan is also a poor fit.",
+      "caution": "Stout Heart may help attack commitment, but the source reports fewer dodge-based SBA gains with invulnerability setups. Evaluate survival and team SBA timing together."
+    },
+    "ghandagoza": {
+      "tab": "t.p5zmzkzcc2vf", "style": "Crux",
+      "note": "Consider Crux for general use and Essence for a team built around Link Time. The compendium emphasizes landing charged fists and preventing interruptions rather than copying a manual counter sequence.",
+      "caution": "Mobile bosses can still make committed punches miss. Its Essence shield and low-HP setup needs a separate gear plan; do not enable its HP conversion while retaining incompatible high-HP effects."
+    },
+    "ferry": {
+      "tab": "t.3dc3f8jvasdq", "style": "Essence",
+      "note": "Consider Essence's departing-pet route. The compendium reports that AI skill priority interrupts jump-slam sequences, so a manual rotation's damage should not be assumed for a companion.",
+      "caution": "Removing every skill also prevents useful pet generation. The source reports that Stout Heart can make AI commit to charged normals instead of the desired jump attacks; watch the actual loop."
+    },
+    "narmaya": {
+      "tab": "t.d70ydbmgrm8k", "style": "Essence",
+      "note": "Consider Essence with Apex of Nothingness. The compendium reports that AI leaves this counter unused during Link Time, helping preserve Kaleidoscope while other damage skills are on cooldown.",
+      "caution": "Butterfly refunds still vary between runs. Warpath's SBA penalty remains real; compare team chain timing rather than automatically spending several slots to offset it."
+    },
+    "lancelot": {
+      "tab": "t.p8uzhkuayhtf", "style": "Essence",
+      "note": "Consider Essence for a simpler companion loop, or a dedicated Schwertgeist support setup. The compendium reports positioning problems with damage skills and missed attacks against moving targets.",
+      "caution": "Mirror Image can reduce dodge-based SBA procs. Adjust SBA support to the whole party instead of assuming more invulnerability always means faster chains."
+    },
+    "vane": {
+      "tab": "t.oh2c9ozcs8lc", "style": "Crux",
+      "note": "Consider Crux for Beatdown damage. The compendium presents both Beatdown-focused and skill-focused options rather than one universally strongest companion loadout.",
+      "caution": "Long skill animations and buff casts can displace finishers. Its specialized Crabvestment setup and weapon HP conditions are not requirements for our Defender progression path."
+    },
+    "percival": {
+      "tab": "t.kchct81wxn34", "style": "Essence",
+      "note": "The compendium favors Essence, but explicitly bases part of its performance on a reported version-2.0.6 interaction between Roter Wirbel and held Zerreissen that bypasses normal damage limits.",
+      "caution": "Treat this as a bug-dependent comparison, not proof that Essence is normally strongest. We have not reproduced it, and the author's idea that an ATK modifier changes AI skill priority is explicitly speculative."
+    },
+    "siegfried": {
+      "tab": "t.7z0f4fveeca6", "style": "Insight",
+      "note": "Consider Insight for sustained Perfect Executions; Crux is a separate team-dependent alternative. The compendium limits equipped skills to reduce interruptions of normal attack chains.",
+      "caution": "Innate Stout Heart makes attack commitment easier but can increase incoming damage and debuffs. More skill cooldown reduction is not automatically better if it displaces Perfect Executions."
+    },
+    "cagliostro": {
+      "tab": "t.eaw3g6gsvo7p", "style": "Crux",
+      "note": "Consider Crux for progression support. The compendium reports poor AI use of manual Super Collapse techniques and offers Insight damage-over-time builds only against suitable enemies.",
+      "caution": "AI may recast buffs or healing during Link Time even when their immediate benefit is small. Keep support skills for the team role rather than judging them by personal damage alone."
+    },
+    "yodarha": {
+      "tab": "t.7k45mxm7jpip", "style": "Insight",
+      "note": "Consider Insight for a simpler companion route. The compendium reports that AI does not use the unique Y parry needed for Crux and interrupts finisher chains when skills become ready.",
+      "caution": "Hymn of the Hundreds helps survival but can reduce dodge-based SBA procs. The source also cautions that Stout Heart can consume Mirror Image stacks faster through additional hit commitment."
+    },
+    "zeta": {
+      "tab": "t.hlh6dneo00lb", "style": "Insight",
+      "note": "Consider Insight's loop route rather than the manual Rhapsody counter plan. The compendium distinguishes Rank 2 for mobile targets from Rank 3 setups that need time to build five Loopmaster stacks.",
+      "caution": "Rank 3 is not an unconditional AI upgrade against moving bosses. The source reports vulnerable Arvess Hammer animations, so check both completed loops and survival."
+    },
+    "vaseraga": {
+      "tab": "t.jgicesbjsis8", "style": "Essence",
+      "note": "Consider Essence to shorten charged finishers and improve their chance of landing. The compendium reports greater variance with Insight and longer ramp time with Crux.",
+      "caution": "Stationary windows still matter: shorter charges do not solve a target moving away. Account for existing Grynoth Stout Heart before spending equipment slots to duplicate it."
+    },
+    "beatrix": {
+      "tab": "t.61fq4hqmdaj", "style": "Essence",
+      "note": "Consider Essence for AI clock usage. The compendium reports a preference for yellow clock outside burst windows and red clock during Link Time or Chain Burst, with a separate Insight option for more stun.",
+      "caution": "Its results depend on actual clock cycling and finished power finishers. Do not assume AI can execute the manual Crux skill-chain plan or preserve its intended skill availability."
+    },
+    "eustace": {
+      "tab": "t.aqrmfbklqrg9", "style": "Crux",
+      "note": "Consider Crux for Grade IV shots and Perfectionist stacks. The compendium reports effective skill and reload use, while Essence can lose Heaven Comes Down to interruptions.",
+      "caution": "The source reports that Crux keeps dodging even with Stout Heart, an exception to its general AI rule. This has not been reproduced here; watch stack retention and dodging in your own fights."
+    },
+    "id": {
+      "tab": "t.eo3y3nqkklsi", "style": "Essence",
+      "note": "Consider Essence for a simpler Dragonform-focused companion loop; Crux is presented as a stun-oriented alternative. The compendium reports poor AI execution of Insight's Godmight rotation.",
+      "caution": "Do not carry Versalis Heart into a Dragonform-only plan without checking its gauge effect. Avoid stacking optional max-HP penalties just because an endgame AI damage setup uses them."
+    },
+    "sandalphon": {
+      "tab": "t.k7pqzol6ez6n", "style": "Insight",
+      "note": "Consider Insight for easier Archangel access. The compendium reports that AI does not reliably use the manual Revontulet shortcut or spam Zohar during Link Time.",
+      "caution": "A manual combo's theoretical output is not companion output. Essence's finisher requirement can delay transformation, so compare time spent in Archangel form rather than only its peak bonuses."
+    },
+    "seofon": {
+      "tab": "t.79lmlc2o6ew8", "style": "Essence",
+      "note": "Consider Essence for Link Time damage. The compendium reports stronger stun with Insight but an AI tendency to attempt Infinito Creare hold before Avatar Finisher, increasing interruptions outside Link Time.",
+      "caution": "Its cooldown targets depend on a particular Ispirazione setup. Do not treat those values as universal progression requirements; watch actual buff gaps and completed finishers."
+    },
+    "tweyen": {
+      "tab": "t.l7ove9l1ubds", "style": "Essence",
+      "note": "The compendium reports incomplete Multilock charges and weak use of placement-dependent skills. Its Essence recommendation is a specialized Beelzebub damage-over-time setup, not general companion advice.",
+      "caution": "Do not replace the manual Insight build with this niche setup. The source's attack-stacking and death/reset assumptions need separate testing and are not Defender progression targets."
+    },
+    "fraux": {
+      "tab": "t.18y3dtsynzx", "style": "Insight",
+      "note": "Consider Insight for a straightforward companion route. The compendium favors Kick Face over Power Plant because the latter's movement and animation can lose attack time, and uses interruption protection to help complete Dead Lands.",
+      "caution": "Check the team's status plan before combining frequent Burn with Glaciate. The source also reports FPS-dependent SBA generation; its results should not be assumed identical across frame rates."
+    },
+    "fediel": {
+      "tab": "t.l833iqb9jgs6", "style": "Essence",
+      "note": "Consider Essence for a debuff-oriented companion. Although the current manual mechanic uses five stacks, the compendium reports that AI still claws at least ten times before the enhanced finisher under version 2.0.6.",
+      "caution": "That observation describes AI behavior, not a ten-stack requirement: keep the official five-stack correction. Watch fully charged Sphere of Reversal hits against mobile enemies."
+    },
+    "gallanza": {
+      "tab": "t.p1643f54663p", "style": "Crux",
+      "note": "Consider Crux for skills and Flashpoint. The compendium avoids Turbine perks in this particular setup because spinning displaces the intended skill loop.",
+      "caution": "Long boss downtime can remove Deathmatch Finale, and the source reports weaker stun contribution. Select teammates for the encounter's checks instead of treating personal damage as the only requirement."
+    },
+    "maglielle": {
+      "tab": "t.mdtew3n0yczd", "style": "Crux",
+      "note": "Consider Crux for Blade Dance and shield uptime. The compendium reports effective Blade Dance chains but inconsistent combo-finisher selection and less effective AI use of Essence animation cancels.",
+      "caution": "Sostenuto is presented as a short-fight option; repeated casts can displace Blade Dance in long fights. The reported improved Crux dodging is an observation, not independently verified behavior here."
+    }
+  }
+}

@@ -11,6 +11,12 @@ if(synthesisTraits.has('HP'))synthesisTraits.add('Health');
 const context={document:{getElementById:el,addEventListener(){}},console,skillCatalog,legalSigils,synthesisTraits,URLSearchParams,history:{replaceState(){}},location:{pathname:'/',hash:''}};
 vm.createContext(context);vm.runInContext(script,context);
 const data=require('./revision-data.json');
+assert.equal(Object.keys(data.AI_COMPANIONS.characters).length,28);
+for(const c of data.CHARS){
+ const n=data.AI_COMPANIONS.characters[c.slug];
+ assert(n?.note&&n.caution&&/^t\.[a-z0-9]+$/.test(n.tab),'Missing companion source or advice: '+c.slug);
+ assert(c.styles[n.style],'Unknown companion style: '+c.slug);
+}
 assert.equal(data.PATCH_REVIEW.version,'2.0.6');
 assert.equal(data.PATCH_REVIEW.checked,'2026-11-02');
 assert.equal(Object.keys(data.PATCH_REVIEW.characters).length,28);
@@ -65,6 +71,8 @@ const results=vm.runInContext(`(()=>{
   for(const st of STYLES){chosen[active]=st;
    for(const difficulty of STAGES){stage=difficulty;exReady=false;
     for(const paired of [true,false]){pairs=paired;render();views++;
+     const aiNote=AI_COMPANIONS.characters[active];
+     if(!document.getElementById('playbook').innerHTML.includes(E(aiNote.note))||!document.getElementById('playbook').innerHTML.includes('?tab='+aiNote.tab))failures.push(active+' missing character-specific companion advice or source');
      const gear=rows();if(gear.length!==12)failures.push(active+' / '+st+' / '+stage+' slot count');
      if((totals()['Quick Cooldown']||0)>45)failures.push(active+' redundant Quick Cooldown at '+stage);
      for(const r of gear)if(traitName(r.main)==='Improved Dodge'&&r.level<11)failures.push(active+' nonfunctional low-level Improved Dodge');

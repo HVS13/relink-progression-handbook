@@ -111,6 +111,6 @@ for(const row of transmarvel.sigils){
 }
 const synthesizable=require('./research/logs-synthesis-traits.json').map(id=>display.traitOrder[id]?.name).filter(Boolean);
 if(synthesizable.includes('HP'))synthesizable.push('Health');
-const payload={CHARS:baseline.CHARS,STAGES:baseline.STAGES,PROFILES:profiles,GAME:game,ALLOC:selections,TRAITS:traitMeta,WEAPONS:weapons,AWAKENINGS:awakenings,UNIQUE_ROLLS:uniqueRolls,SYNTHESIZABLE:synthesizable,PROGRESSION:progression,EQUIPMENT_EVIDENCE:require('./equipment-evidence.json'),PATCH_REVIEW:require('./research/official-patch-review.json')};
+const payload={CHARS:baseline.CHARS,STAGES:baseline.STAGES,PROFILES:profiles,GAME:game,ALLOC:selections,TRAITS:traitMeta,WEAPONS:weapons,AWAKENINGS:awakenings,UNIQUE_ROLLS:uniqueRolls,SYNTHESIZABLE:synthesizable,PROGRESSION:progression,EQUIPMENT_EVIDENCE:require('./equipment-evidence.json'),PATCH_REVIEW:require('./research/official-patch-review.json'),AI_COMPANIONS:require('./ai-companion-notes.json')};
 fs.writeFileSync('revision-data.json',JSON.stringify(payload));
 console.log(`Prepared ${baseline.CHARS.length} character profiles, ${Object.values(game).reduce((n,x)=>n+Object.keys(x).length,0)} styles and legal 10/10/10/20 node allocations.`);
