@@ -17,7 +17,7 @@ module.exports={
   'Compare shots at equal Heat and distance. Collateral Damage is a separate Duration-dependent risk; do not use its rotation before its specialization is unlocked.'),
  io:plan(['Quick Charge','Charged Attack DMG','Quick Cooldown'],['Fire','Lightning','Freeze','Mystic Vortex'],
   'Use spells to build Mystic Vortex and Quick Cast, then release Stargaze in a safe opening. Fire and Freeze are ordinary skills here; they do not trigger Magic Chain before Essence Rank 2.',
-  'Mage’s Aspiration speeds Stargaze preparation; Savvy belongs to a Stargaze route. Essence’s later Fire/Freeze chain instead reserves the second unique slot for cooldown.',
+  'Mage’s Aspiration speeds Stargaze preparation; Mage’s Warpath adds the Stargaze V damage buff and chance-based Focused/orb economy. Savvy does not apply to Warpath-triggered casts, so it is not the default second unique target.',
   'Check charged Stargaze separately from spell hits. Concentration is required for Superstar; HP-drain nodes are excluded from this high-current-HP plan.'),
  eugen:plan(['Concentrated Fire','Quick Charge','Quick Cooldown'],['Detonator','Sumrak','Armor-Piercing Round','Paralyzing Bullet'],
   'Enter sniper vision at a stable weak point, fire charged shots, and use Detonator when its hits can connect. Use grenades with their ordinary detonation behavior until the mastery-specific melee chain unlocks.',

@@ -13854,9 +13854,9 @@
       ],
       "rank2": [
         {
-          "id": "1897ec39",
+          "id": "fcb12cc5",
           "style": "Insight",
-          "why": "Improves the preset’s skill/resource uptime."
+          "why": "General damage cap supports the actual attacks and skills; Great Scythe Grynoth is not equipped in this Netherwrath preset."
         },
         {
           "id": "96313ec6",
@@ -13963,9 +13963,9 @@
           "why": "Improves the preset’s skill/resource uptime."
         },
         {
-          "id": "fb5a90a7",
-          "style": "Insight",
-          "why": "Improves an equipped skill or its required resource loop."
+          "id": "8789eb3a",
+          "style": "Crux",
+          "why": "Flat Stun Power supports the equipped attacks instead of buffing the unequipped Great Scythe Grynoth."
         },
         {
           "id": "9d7e5444",
@@ -19682,9 +19682,9 @@
           "why": "Adds a separate cap bonus; useful once attacks reach their current cap."
         },
         {
-          "id": "804fe4bb",
-          "style": "Crux",
-          "why": "Improves an equipped skill or its required resource loop."
+          "id": "34bf0317",
+          "style": "Essence",
+          "why": "Adds general damage cap instead of an ATK bonus to the unequipped Sphere of Reversal; preserves the six-node Insight unlock and HP/category selections."
         },
         {
           "id": "dcd01d39",
@@ -19734,9 +19734,9 @@
           "why": "Adds a separate cap bonus; useful once attacks reach their current cap."
         },
         {
-          "id": "021e0aad",
-          "style": "Essence",
-          "why": "Improves an equipped skill or its required resource loop."
+          "id": "c2dd389f",
+          "style": "Crux",
+          "why": "Rescue fallback: slows critical-gauge depletion when incapacitated. Replaces a charge bonus for the unequipped Sphere of Reversal; recovery utility, not a damage increase."
         },
         {
           "id": "f9c0a936",
@@ -19947,9 +19947,9 @@
           "why": "Adds a separate cap bonus; useful once attacks reach their current cap."
         },
         {
-          "id": "804fe4bb",
-          "style": "Crux",
-          "why": "Improves an equipped skill or its required resource loop."
+          "id": "61b25929",
+          "style": "Insight",
+          "why": "Adds maximum HP toward Defender Ecru instead of an ATK bonus to the unequipped Sphere of Reversal."
         }
       ],
       "EX": [
@@ -19994,9 +19994,9 @@
           "why": "Strengthens the selected style’s active perk."
         },
         {
-          "id": "021e0aad",
-          "style": "Essence",
-          "why": "Improves an equipped skill or its required resource loop."
+          "id": "c2dd389f",
+          "style": "Crux",
+          "why": "Rescue fallback: slows critical-gauge depletion when incapacitated. Replaces a charge bonus for the unequipped Sphere of Reversal; the field-duration and equipped-skill bonuses are already selected."
         },
         {
           "id": "870be46c",
@@ -20202,9 +20202,9 @@
           "why": "Flexible stat/utility choice for this preset."
         },
         {
-          "id": "804fe4bb",
+          "id": "634db7d3",
           "style": "Crux",
-          "why": "Improves an equipped skill or its required resource loop."
+          "why": "Critical-hit damage can help uncapped critical hits; Sphere of Reversal is not equipped. Retains the six-node Crux unlock. Reassess this stat if all relevant hits already cap."
         },
         {
           "id": "dcd01d39",
@@ -20249,9 +20249,9 @@
           "why": "Adds a separate cap bonus; useful once attacks reach their current cap."
         },
         {
-          "id": "021e0aad",
-          "style": "Essence",
-          "why": "Improves an equipped skill or its required resource loop."
+          "id": "c2dd389f",
+          "style": "Crux",
+          "why": "Rescue fallback: slows critical-gauge depletion when incapacitated. Replaces a charge bonus for the unequipped Sphere of Reversal; recovery utility, not a damage increase."
         },
         {
           "id": "f9c0a936",

@@ -33,6 +33,13 @@ const result=vm.runInContext(`(()=>{
     assert(!buildText().includes('Before changing a save:')&&!buildText().includes('95–98%'),active+' personal save preference leaked into guide');
     assert(new Set(overmasteryPlan().map(x=>x.split(' +')[0])).size===4,active+' duplicate Over Mastery type');
     if(late()){
+     const total=(gear,name)=>gear.reduce((n,r)=>n+((traitName(r.main)===name?r.level:0)+(r.secondary===name?r.level:0)),0);
+     for(const v of damageVariants()){
+      for(const name of ['DMG Cap','Supplementary DMG','Quick Charge','Quick Cooldown','Cascade'])assert(total(v.gear,name)===total(rows(),name),active+' optional swap removes core '+name);
+      assert(v.gear.length===12&&v.gear.every((r,i)=>r.main===rows()[i].main&&r.level===rows()[i].level),active+' optional swap changes primary categories or item levels');
+      assert(v.gear[v.index].secondary===v.trait&&SYNTHESIZABLE.includes(v.trait),active+' illegal optional secondary');
+      assert(!v.gear.some(r=>r.secondary==='Celestial Ventus'&&lowHP()),active+' duplicates low-HP Ventus');
+     }
      for(const [name,trait,level,bonus,value]of summonPlan()){
       const pool=EQUIPMENT_EVIDENCE.summons[name];
       assert(pool.trait===trait&&pool.levels.includes(level),active+' unsupported Summon main trait');
@@ -62,6 +69,9 @@ const result=vm.runInContext(`(()=>{
  active='lancelot';chosen[active]='Essence';assert(rows().some(r=>traitName(r.main)==='Improved Guard'),'Lancelot missing guard route');
  active='seofon';chosen[active]='Crux';assert(takenNodes().some(n=>n.id==='f59b12a4'),'Seofon missing avatar window');
  active='eustace';chosen[active]='Crux';assert(takenNodes().some(n=>n.id==='a6acb163'),'Eustace missing reload support');
+ assert(preset()[1].includes('second manual reload'),'Eustace missing second-reload warning');
+ active='io';chosen[active]='Essence';stage='Chaos++';assert(rows().some(r=>traitName(r.main)==="Mage's Warpath"),'Io rotation lacks equipped Warpath');assert(!rows().some(r=>traitName(r.main)==="Mage's Savvy"),'Io retains default Savvy for Warpath-triggered casts');
+ assert((totals()['Quick Cooldown']||0)===45,'Io Magic Chain loses max ordinary cooldown');
  assert(summonRolls('Behemoth III','Normal Attack Damage Cap Up').includes(45),'missing legal near-maximum roll');
  assert(!summonRolls('Behemoth III','Normal Attack Damage Cap Up').includes(100),'tier-III Summon given Astral ceiling');
  assert(!summonRolls('Lilith','Healing Cap Up').includes(100),'healing bonus given damage-cap ceiling');

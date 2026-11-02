@@ -24,6 +24,8 @@ assert(data.GAME.beatrix.Essence.pools.rank1.some(n=>/Näed Nulli:/.test(n.text)
 for(const [slug,variants]of Object.entries(data.ALLOC))for(const [style,groups]of Object.entries(variants)){
  for(const [rank,selection]of Object.entries(groups))for(const selected of selection.filter(n=>n.take)){
   const node=data.GAME[slug][selected.style].pools[rank].find(n=>n.id===selected.id);
+  const namedSkill=skillCatalog[data.PROFILES[slug].id.replace('pl','Pl')].find(s=>node.text.startsWith(s.name+':'));
+  if(namedSkill&&!data.PROFILES[slug].styles[style][0].includes(namedSkill.name))assert(rank!=='EX'&&selected.why.startsWith('Unlock-only:'),'Unequipped skill bonus without an unlock reason: '+slug+'/'+style+'/'+rank+' '+node.text);
   assert(!/Rank (11|111)\b/.test(node.text),'Rank-symbol decoding: '+slug+'/'+style);
   const dependency=node.text.match(/^(Insight|Essence|Crux) Rank ([123]):/);
   if(dependency&&dependency[2]!=='1')assert.equal(dependency[1],style,'Inactive perk modifier: '+slug+'/'+style+' '+node.text);
