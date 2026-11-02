@@ -45,6 +45,11 @@ for(const c of baseline.CHARS){
  }
  // Cygames' 2.0.5 patch overrides the older localization in the extracted table.
  if(c.slug==='fediel')pools.Insight.perks.rank2.text=pools.Insight.perks.rank2.text.replace('max lvl 10','max lvl 5')+' [Updated by official patch 2.0.5.]';
+ // The summary swaps Io's reaction labels; Maygi's demonstration agrees with the individual upgrade nodes.
+ if(c.slug==='io')pools.Essence.perks.rank3.text=pools.Essence.perks.rank3.text
+  .replace('Fire + Lightning: Inflicts','Freeze + Lightning: Inflicts')
+  .replace('Freeze + Lightning: Conjures','Fire + Lightning: Conjures')
+  +' [Editorial label correction: Maygi’s Magic Chain demonstration, 0:17–0:40, and the matching field/debuff duration nodes; the saved summary reverses these pairings.]';
  game[c.slug]=pools;
 }
 // Fixed editorial selections are versioned explicitly; rebuilding does not re-rank nodes.

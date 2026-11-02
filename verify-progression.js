@@ -72,6 +72,8 @@ const result=vm.runInContext(`(()=>{
  assert(preset()[1].includes('second manual reload'),'Eustace missing second-reload warning');
  active='io';chosen[active]='Essence';stage='Chaos++';assert(rows().some(r=>traitName(r.main)==="Mage's Warpath"),'Io rotation lacks equipped Warpath');assert(!rows().some(r=>traitName(r.main)==="Mage's Savvy"),'Io retains default Savvy for Warpath-triggered casts');
  assert((totals()['Quick Cooldown']||0)===45,'Io Magic Chain loses max ordinary cooldown');
+ assert(preset()[1].includes('Fire + Lightning for the burn field')&&preset()[1].includes('Freeze + Lightning for ATK↓/DEF↓'),'Io rotation disagrees with corrected reactions');
+ render();assert(buildText().includes('Fire + Lightning for the burn field'),'Io export loses corrected reaction mapping');
  assert(summonRolls('Behemoth III','Normal Attack Damage Cap Up').includes(45),'missing legal near-maximum roll');
  assert(!summonRolls('Behemoth III','Normal Attack Damage Cap Up').includes(100),'tier-III Summon given Astral ceiling');
  assert(!summonRolls('Lilith','Healing Cap Up').includes(100),'healing bonus given damage-cap ceiling');

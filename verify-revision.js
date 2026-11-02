@@ -16,6 +16,11 @@ assert.equal(data.PATCH_REVIEW.checked,'2026-11-02');
 assert.equal(Object.keys(data.PATCH_REVIEW.characters).length,28);
 for(const c of data.CHARS){const patch=data.PATCH_REVIEW.characters[c.slug];assert(patch?.note&&data.PATCH_REVIEW.articles.some(a=>a.version===patch.version),'Missing official patch reference: '+c.slug);}
 assert(/max lvl 5/.test(data.GAME.fediel.Insight.perks.rank2.text),'Stale Fediel stack limit');
+const ioReaction=data.GAME.io.Essence.perks.rank3.text;
+assert(ioReaction.includes('Freeze + Lightning: Inflicts ATK↓ (20%)')&&ioReaction.includes('Fire + Lightning: Conjures a circle that inflicts Burn'),'Io reaction labels reversed');
+assert(ioReaction.includes('Editorial label correction')&&ioReaction.includes('no longer inflicts Paralysis'),'Io reaction correction lost provenance or drawback');
+const ioRaw=Object.values(require('./research/pl0400.json')).find(n=>n.rankRow===2&&n.text.startsWith('Landing Lightning'));
+assert(ioRaw.text.includes('Fire + Lightning: Inflicts'),'Original conflicting source snapshot was overwritten');
 const stonePools=require('./research/logs-transmarvel-pool.json').wrightstones.combos;
 const traitId=name=>Object.entries(display.traitOrder).find(([,t])=>t.name===name)?.[0];
 assert(stonePools.some(p=>p.slots.every((slot,i)=>slot.traits.includes(traitId(['HP','Supplementary DMG','Autorevive'][i]))&&slot.levels.includes([20,15,10][i]))),'Unsupported 20/15/10 Wrightstone');
