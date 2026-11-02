@@ -32,6 +32,7 @@ The build produces `dist/` for GitHub Pages and `Relink_Defender_Field_Guide_Rev
 | `revision-content.js` | Character playbooks, skills, rotations and recommendations |
 | `progression-content.js` | 28 foundation skill plans, progression checkpoints and 84 style-specific trait priorities |
 | `master-selections.json` | Explicit node IDs and reasons for all 84 presets; no automatic node scoring |
+| `equipment-evidence.json` | Named Summon roll values, acquisition routes and versioned source links |
 | `prepare-revision.js` | Validates fixed selections against source snapshots and assembles the data |
 | `revised-runtime.js` | Rendering, equipment targets, totals, links and exports |
 | `handbook-template.html` | Page structure |
@@ -48,5 +49,7 @@ The game-data review targets **game version 2.0.6, checked 28 October 2026**. Th
 The **2 November 2026 progression revision** adds character-specific early equipment/skills, six-stage decisions and explicit node selections. It preserves actual HP healing in support presets, separates low-current-HP gear from high-current-HP gear, and removes several resource-loop mismatches. Source status and concrete changes are recorded in `research/progression-review/README.md`. Live extracted-table requests returned HTTP 403 during this review; those files remain the existing snapshots, not newly fetched data.
 
 The checks cover 1,008 simulated character/style/stage/equipment views, node budgets, skill ownership, item names, selected pairing rules, export consistency and shared-link restoration. They are software and source-consistency checks, not in-game combat benchmarks. Recommendations are analytical starting points and can depend on encounter, execution and equipment conditions.
+
+The equipment follow-up uses Crowthorne’s farming guide, Nenkai’s base/ER quest tables and named Summon pools, and Cleista’s disqualified-equipment examples. Every character/style now includes acquisition restrictions and legal near-perfect guidance, also included in build exports. Single-trait V items are explicitly excluded as synthesis donors; character rolls remain separate from ordinary synthesis. Summon bonus alternatives use actual discrete values, with distinct damage/healing and Astral/tier-III ceilings. The older quest tables (1.3.x / 2.0.2) establish historical routes, not current exact-roll probabilities. No build is assigned a measured 95–98% performance score or top-1% percentile. No save file is edited by the handbook.
 
 This is an unofficial community project. Game names and related material belong to their respective owners. The referenced source data retains its original ownership and terms.

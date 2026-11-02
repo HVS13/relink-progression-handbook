@@ -27,6 +27,18 @@ const result=vm.runInContext(`(()=>{
    for(const difficulty of STAGES){stage=difficulty;exReady=tier()===5;pairs=true;critCovered=false;render();views++;
     assert(document.getElementById('characterProgression').innerText.includes(progression().check),active+' missing checkpoint');
     assert(buildText().includes('Skills: '+equippedSkills().join(' / ')),active+' exported wrong phase skills');
+    assert(document.getElementById('sigils').innerText.includes('Acquisition and legal near-perfect targets'),active+' missing acquisition guidance');
+    assert(buildText().includes('Legal near-perfect targets:'),active+' missing exported equipment limits');
+    for(const r of rows())assert(acquisition(r).length>40,active+' missing acquisition route');
+    if(late()){
+     for(const [name,trait,level,bonus,value]of summonPlan()){
+      const pool=EQUIPMENT_EVIDENCE.summons[name];
+      assert(pool.trait===trait&&pool.levels.includes(level),active+' unsupported Summon main trait');
+      assert(summonRolls(name,bonus).includes(value),active+' unsupported Summon bonus');
+      assert(!summonRolls(name,bonus).includes(95)&&!summonRolls(name,bonus).includes(98),'invented percentile roll');
+     }
+     assert(document.getElementById('summons').innerText.includes('+45% instead of +50%'),active+' missing legal lower-roll option');
+    }
     if(!late())assert(JSON.stringify(equippedSkills())===JSON.stringify(progression().skills),active+' future skill plan before unlock');
     if(tier()===5){
      const attackPrimaries=rows().filter(r=>TRAITS[traitName(r.main)]?.category===1).length;
@@ -48,6 +60,10 @@ const result=vm.runInContext(`(()=>{
  active='lancelot';chosen[active]='Essence';assert(rows().some(r=>traitName(r.main)==='Improved Guard'),'Lancelot missing guard route');
  active='seofon';chosen[active]='Crux';assert(takenNodes().some(n=>n.id==='f59b12a4'),'Seofon missing avatar window');
  active='eustace';chosen[active]='Crux';assert(takenNodes().some(n=>n.id==='a6acb163'),'Eustace missing reload support');
+ assert(summonRolls('Behemoth III','Normal Attack Damage Cap Up').includes(45),'missing legal near-maximum roll');
+ assert(!summonRolls('Behemoth III','Normal Attack Damage Cap Up').includes(100),'tier-III Summon given Astral ceiling');
+ assert(!summonRolls('Lilith','Healing Cap Up').includes(100),'healing bonus given damage-cap ceiling');
+ assert(acquisition({kind:'rolledUnique',item:'test',secondary:'DMG Cap'}).includes('cannot create it'),'unique pairing route suggests generic synthesis');
  return views;
 })()`,ctx);
 console.log(`PASS ${result} progression/EX views, 28 legal foundation skill plans, 84 trait priorities, fixed-node fidelity, preserved healing, low-HP rank gates, and resource-loop regressions.`);

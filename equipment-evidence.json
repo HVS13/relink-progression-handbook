@@ -1,0 +1,18 @@
+{
+  "checked": "2026-11-02",
+  "sources": {
+    "farming": "https://docs.google.com/document/d/1wn8bf2U6CTOHHL3Ax2ejLlexjQXoHqweu5AsGuaAOjk/edit?tab=t.b4omuq2epux3",
+    "summons": "https://nenkai.github.io/relink-modding/resources/summon_trait_chances/",
+    "baseDrops": "https://nenkai.github.io/relink-modding/resources/quest_drop_rates/",
+    "erDrops": "https://nenkai.github.io/relink-modding/resources/quest_drop_rates_er/",
+    "disqualified": "https://relink.cleista.cc/en/disqualified"
+  },
+  "dropVersions": {"base": "1.3.x", "er": "2.0.2"},
+  "summons": {
+    "Lilith": {"trait": "War Elemental", "levels": [15], "damageCap": [45, 50, 60, 80, 100], "healingCap": [45, 50, 55, 60, 75], "quest": "On the Threshold of Destruction", "questId": "40B309"},
+    "Lucilius": {"trait": "Berserker Echo", "levels": [15], "damageCap": [45, 50, 60, 80, 100], "healingCap": [45, 50, 55, 60, 75], "quest": "A Prayer for Black Wings' Demise", "questId": "40A313"},
+    "Beelzebub": {"trait": "Spartan Echo", "levels": [15], "damageCap": [45, 50, 60, 80, 100], "healingCap": [45, 50, 55, 60, 75], "quest": "Let Chaos Reign", "questId": "40A314"},
+    "Behemoth III": {"trait": "Stout Heart", "levels": [15], "damageCap": [35, 40, 45, 50], "healingCap": [35, 40, 45, 50], "quest": "The Myths Are Real", "questId": "40A322"},
+    "Furycane III": {"trait": "Supplementary DMG", "levels": [11, 12, 13, 14, 15], "damageCap": [35, 40, 45, 50], "healingCap": [35, 40, 45, 50], "quest": "The Tempest Rises", "questId": "40A324"}
+  }
+}
