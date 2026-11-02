@@ -50,6 +50,11 @@ for(const c of baseline.CHARS){
   .replace('Fire + Lightning: Inflicts','Freeze + Lightning: Inflicts')
   .replace('Freeze + Lightning: Conjures','Fire + Lightning: Conjures')
   +' [Editorial label correction: Maygi’s Magic Chain demonstration, 0:17–0:40, and the matching field/debuff duration nodes; the saved summary reverses these pairings.]';
+ // Restore names omitted by the source prose using that character's parent perk/paired node.
+ if(c.slug==='rosetta')pools.Crux.pools.rank3.find(n=>n.id==='f803a804').text=pools.Crux.pools.rank3.find(n=>n.id==='f803a804').text.replace('strength of , , and gained','strength of Stackable ATK↑, Supplementary DMG, and DMG↑ gained')+' [Names restored from Crux Rank 3; exact additional strengths are not specified.]';
+ if(c.slug==='tweyen')pools.Crux.perks.rank2.text=pools.Crux.perks.rank2.text.replace('removes and .','removes Dawnray and Dull Point. [Names restored from this perk and the specialist guide.]');
+ if(c.slug==='yodarha')pools.Insight.perks.rank2.text='Normal '+pools.Insight.perks.rank2.text+' [The source omits the attack symbol; normal-attack/finisher timing is corroborated by the specialist guide.]';
+ if(c.slug==='lancelot')pools.Insight.pools.EX.find(n=>n.id==='a5292e0b').text=pools.Insight.pools.EX.find(n=>n.id==='a5292e0b').text.replace('when is removed','when Enhanced Damage Skills is removed')+' [Effect name restored from this node.]';
  game[c.slug]=pools;
 }
 // Fixed editorial selections are versioned explicitly; rebuilding does not re-rank nodes.
@@ -71,7 +76,7 @@ for(const c of baseline.CHARS){
     const healing=/(Panacea|Heal|Reinforce|Stave of Divinity).*instead of healing HP/.test(n.text);
     const category=/per Attack-type/.test(n.text);
     const risky=/while inflicted with|Debuffs on self|Max HP -|Summon Cost [+-]1/i.test(n.text);
-    return {id:n.id,style:n.style,take:Boolean(pick),why:pick?pick.why:category?'Not selected: this primary-category effect is not a useful contribution to the displayed gear. An EX point may remain unspent instead of buying a zero-effect node.':healing?'Not selected: preserves HP recovery instead of converting it to Shield.':risky?'Not selected: self-debuff, maximum-HP or Summon-cost trade-off is outside this progression plan.':'Not selected in this fixed loadout. Compare its printed condition with the equipped skills; changing a node must preserve the rank budget and specialization unlock.'};
+    return {id:n.id,style:n.style,take:Boolean(pick),why:pick?pick.why:n.id==='82120bef'?'Not selected: this modifier names Lost Love, but its parent Spiral Rose Bloomed perk names Spiral Rose. The target is unresolved; Essence/Crux also lack Lost Love to trigger the named buff.':category?'Not selected: this primary-category effect is not a useful contribution to the displayed gear. An EX point may remain unspent instead of buying a zero-effect node.':healing?'Not selected: preserves HP recovery instead of converting it to Shield.':risky?'Not selected: self-debuff, maximum-HP or Summon-cost trade-off is outside this progression plan.':'Not selected in this fixed loadout. Compare its printed condition with the equipped skills; changing a node must preserve the rank budget and specialization unlock.'};
    });
   }
  }

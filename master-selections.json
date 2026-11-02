@@ -3965,9 +3965,9 @@
           "why": "Strengthens the selected style’s active perk."
         },
         {
-          "id": "82120bef",
+          "id": "8ddafdfb",
           "style": "Insight",
-          "why": "Improves actual damage when the stated condition is met."
+          "why": "Unconditional ATK replaces the conflicting Bloomed modifier; supports uncapped damage and the displayed ATK threshold, but adds no cap once attacks are capped."
         },
         {
           "id": "46faf283",
@@ -4215,9 +4215,9 @@
       ],
       "rank2": [
         {
-          "id": "82120bef",
+          "id": "8ddafdfb",
           "style": "Insight",
-          "why": "Improves actual damage when the stated condition is met."
+          "why": "Unconditional ATK replaces a Bloomed modifier that cannot trigger without Lost Love; recheck actual ATK and cap before judging its damage contribution."
         },
         {
           "id": "04b8ff9f",
@@ -4475,9 +4475,9 @@
       ],
       "rank2": [
         {
-          "id": "82120bef",
+          "id": "a733025f",
           "style": "Insight",
-          "why": "Improves actual damage when the stated condition is met."
+          "why": "Separate DMG Cap replaces a Bloomed modifier that cannot trigger without Lost Love; preserves this rank’s budget and specialization count."
         },
         {
           "id": "04b8ff9f",

@@ -21,6 +21,14 @@ assert(ioReaction.includes('Freeze + Lightning: Inflicts ATK↓ (20%)')&&ioReact
 assert(ioReaction.includes('Editorial label correction')&&ioReaction.includes('no longer inflicts Paralysis'),'Io reaction correction lost provenance or drawback');
 const ioRaw=Object.values(require('./research/pl0400.json')).find(n=>n.rankRow===2&&n.text.startsWith('Landing Lightning'));
 assert(ioRaw.text.includes('Fire + Lightning: Inflicts'),'Original conflicting source snapshot was overwritten');
+for(const style of ['Insight','Essence','Crux']){
+ assert(!data.ALLOC.rosetta[style].rank2.some(n=>n.take&&n.id==='82120bef'),'Rosetta retains the unresolved or untriggerable Bloomed modifier');
+ assert(data.ALLOC.rosetta[style].rank2.some(n=>n.take&&n.id===(style==='Crux'?'a733025f':'8ddafdfb')),'Rosetta missing explicit replacement');
+}
+assert(data.GAME.rosetta.Crux.pools.rank3.find(n=>n.id==='f803a804').text.includes('Stackable ATK↑, Supplementary DMG, and DMG↑'),'Rosetta missing named buff effects');
+assert(data.GAME.tweyen.Crux.perks.rank2.text.includes('removes Dawnray and Dull Point'),'Tweyen missing removal conditions');
+assert(data.GAME.lancelot.Insight.pools.EX.find(n=>n.id==='a5292e0b').text.includes('when Enhanced Damage Skills is removed'),'Lancelot missing reset condition');
+assert(data.GAME.yodarha.Insight.perks.rank2.text.startsWith('Normal attacks and combo finishers'),'Yodarha missing timed attack category');
 const stonePools=require('./research/logs-transmarvel-pool.json').wrightstones.combos;
 const traitId=name=>Object.entries(display.traitOrder).find(([,t])=>t.name===name)?.[0];
 assert(stonePools.some(p=>p.slots.every((slot,i)=>slot.traits.includes(traitId(['HP','Supplementary DMG','Autorevive'][i]))&&slot.levels.includes([20,15,10][i]))),'Unsupported 20/15/10 Wrightstone');
