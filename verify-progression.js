@@ -27,17 +27,19 @@ const result=vm.runInContext(`(()=>{
    for(const difficulty of STAGES){stage=difficulty;exReady=tier()===5;pairs=true;critCovered=false;render();views++;
     assert(document.getElementById('characterProgression').innerText.includes(progression().check),active+' missing checkpoint');
     assert(buildText().includes('Skills: '+equippedSkills().join(' / ')),active+' exported wrong phase skills');
-    assert(document.getElementById('sigils').innerText.includes('Acquisition and legal near-perfect targets'),active+' missing acquisition guidance');
-    assert(buildText().includes('Legal near-perfect targets:'),active+' missing exported equipment limits');
+    assert(document.getElementById('sigils').innerText.includes('Acquisition and maximum equipment targets'),active+' missing acquisition guidance');
+    assert(buildText().includes('Equipment priorities:'),active+' missing exported equipment limits');
     for(const r of rows())assert(acquisition(r).length>40,active+' missing acquisition route');
+    assert(!buildText().includes('Before changing a save:')&&!buildText().includes('95–98%'),active+' personal save preference leaked into guide');
+    assert(new Set(overmasteryPlan().map(x=>x.split(' +')[0])).size===4,active+' duplicate Over Mastery type');
     if(late()){
      for(const [name,trait,level,bonus,value]of summonPlan()){
       const pool=EQUIPMENT_EVIDENCE.summons[name];
       assert(pool.trait===trait&&pool.levels.includes(level),active+' unsupported Summon main trait');
       assert(summonRolls(name,bonus).includes(value),active+' unsupported Summon bonus');
-      assert(!summonRolls(name,bonus).includes(95)&&!summonRolls(name,bonus).includes(98),'invented percentile roll');
+      assert(value===Math.max(...summonRolls(name,bonus)),active+' guide downgraded from legal maximum');
      }
-     assert(document.getElementById('summons').innerText.includes('+45% instead of +50%'),active+' missing legal lower-roll option');
+     assert(document.getElementById('summons').innerText.includes('lower values are not the endgame recommendation'),active+' missing maximum-roll recommendation');
     }
     if(!late())assert(JSON.stringify(equippedSkills())===JSON.stringify(progression().skills),active+' future skill plan before unlock');
     if(tier()===5){
