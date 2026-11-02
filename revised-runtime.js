@@ -120,7 +120,7 @@ function damageVariants(){
  if(potion>=0)add('Break / Link Time damage',potion,'Celestial Aqua','Aqua adds its printed DMG Dealt effect during Break, including Link Time attacks and chain bursts. This exchanges Potion Hoarder’s recovery capacity for burst damage. Keep Potion Hoarder when healing supplies limit survival; Aqua is not a permanent damage bonus.');
  if(!base.some(r=>traitName(r.main)==='Celestial Ventus'||r.secondary==='Celestial Ventus')){
   const conditional=base.findIndex(r=>traitName(r.main)==='Aegis'&&['Stamina','Celestial Lumen'].includes(r.secondary));
-  if(conditional>=0)add('Damage with independent recovery',conditional,'Celestial Ventus','Ventus adds its printed DMG Dealt effect but blocks healing received from allies. This removes the shown Stamina/Lumen damage effect, including Lumen’s separate cap where present. Compare already-capped attacks and confirm potions, self-healing or Regen can maintain the required HP. Keep the default when ally healing or the removed effect is more valuable.');
+  if(conditional>=0)add('Damage with independent recovery',conditional,'Celestial Ventus','Ventus adds its printed DMG Dealt effect but blocks healing received from allies. This removes the shown Stamina/Lumen damage effect, including Lumen’s separate cap where present. Recheck Berserker Echo’s 25,000 ATK activation threshold after removing the ATK source. Compare already-capped attacks and confirm potions, self-healing or Regen can maintain the required HP. Keep the default when ally healing or the removed effect is more valuable.');
  }
  return variants;
 }
