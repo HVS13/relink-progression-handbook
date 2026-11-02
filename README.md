@@ -4,9 +4,9 @@ A browser-based, Defender-first progression guide for all 28 characters in **Gra
 
 **[Open the handbook](https://hvs13.github.io/relink-progression-handbook/)**
 
-Choose a character, difficulty and Master Style to see matching equipment targets, four skills, rotations, exact Master Trait allocations, Summons and source references. Progression covers Extreme, Maniac, Proud, Chaos, Chaos+ and Chaos++.
+Choose a character, difficulty, Master Style and unlocked Sigil count. Start with **Your build now**, equip Sigils in the numbered priority order, then follow **Add next** and **Progression and upgrades**. Four skills, combat instructions, exact Master Trait allocations, Summons and source references remain available. Progression covers Extreme, Maniac, Proud, Chaos, Chaos+ and Chaos++.
 
-- **Copy build link** preserves the character, difficulty, style, EX toggle, equipment view and critical-rate replacement toggle. Personal stat inputs are not included in shared links.
+- **Copy build link** preserves the character, difficulty, style, unlocked Sigil count, EX toggle, equipment view and critical-rate replacement toggle. Personal stat inputs are not included in shared links.
 - **Download this build** saves the selected plan as text.
 - **Download offline HTML** saves a standalone edition containing the same data and interface. No server or internet connection is required to browse that file; source links require internet access.
 - The guide uses no framework, external fonts, analytics or runtime APIs. Hosted CSS and JavaScript load as separate, cacheable assets.
@@ -58,3 +58,7 @@ The specialist research follow-up corrects Io's missing Warpath, eight bonuses f
 This is an unofficial community project. Game names and related material belong to their respective owners. The referenced source data retains its original ownership and terms.
 
 The [27-character description review](research/description-review.md) compares the other characters’ perks, modifier nodes, unique effects and rotations. It corrects Rosetta’s rose requirement and three node selections, Eugen’s rank-gated Shell Shock threshold, Vane’s blocking-resource explanation, and several omitted status/input descriptions. Rosetta’s conflicting modifier target is excluded rather than guessed. Defender equipment targets are retained; unresolved observations remain attributed.
+
+The player-facing layout follows patterns reviewed in [KQM quick guides](https://keqingmains.com/q/venti-quickguide/), [Icy Veins progression guides](https://www.icy-veins.com/d4/guides/blizzard-sorcerer-leveling-build/), [MetaBattle builds](https://metabattle.com/wiki/Build:Guardian_-_Core_Power_Guardian), [Snow Crows beginner guidance](https://snowcrows.com/guides/new-player-guides/beginners-guide-to-doing-more-dps/) and [NN/g progressive disclosure](https://www.nngroup.com/articles/progressive-disclosure/): immediate equipment and play instructions first, explicit upgrade order, then expandable variants, mechanics and evidence. These are presentation references, not sources for Relink mechanics.
+
+The unlocked-slot selector supports 1–12 slots. Numbered priorities are suggested progression choices, not in-game slot numbers or a benchmarked optimal ordering. They retain character items before later duplicate stats and preserve the low-HP setup's required ally-healing restriction. The complete 12-item target is unchanged. Totals, category contributions and exports count only the selected equipped targets; upcoming targets are listed separately. Reduced-slot setups can miss full-build stat thresholds, so the site calls out that limitation rather than counting unavailable gear. Phone layouts show the same Sigil data as stacked cards.

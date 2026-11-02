@@ -81,3 +81,24 @@ const result=vm.runInContext(`(()=>{
  return views;
 })()`,ctx);
 console.log(`PASS ${result} progression/EX views, 28 legal foundation skill plans, 84 trait priorities, fixed-node fidelity, preserved healing, low-HP rank gates, and resource-loop regressions.`);
+ctx.assert=assert;
+const slotViews=vm.runInContext(`(()=>{
+ let views=0;
+ const signature=r=>[r.main,r.secondary,r.level,r.kind,r.item||''].join('|');
+ for(const c of CHARS){active=c.slug;for(const style of STYLES){chosen[active]=style;for(const difficulty of STAGES){stage=difficulty;exReady=false;critCovered=false;pairs=true;
+  const target=targetRows(),plan=equipmentPlan();
+  assert.equal(new Set(plan.map(r=>r.priority)).size,12,'Duplicate equip priority');
+  assert(JSON.stringify(target.map(signature).sort())===JSON.stringify(plan.map(signature).sort()),active+' complete target changed while ordering');
+  for(let count=1;count<=12;count++){slotCount=count;const equipped=rows();assert.equal(equipped.length,count,active+' wrong equipped slot count');
+   const expected={};for(const r of equipped)for(const name of [traitName(r.main),r.secondary])if(name!=='—')expected[name]=(expected[name]||0)+r.level;
+   assert(JSON.stringify(totals())===JSON.stringify(expected),active+' counted an unequipped target');views++;
+  }
+  slotCount=8;render();assert.equal((buildText().match(/^\\d+\\. /gm)||[]).length,8,active+' exported wrong equipped count');
+  assert(buildText().includes('Unlocked Sigil slots: 8 / 12')&&buildText().includes('Add next: 9.'),active+' export missing slot count or next upgrades');
+  assert(document.getElementById('meter').innerText.includes('8 selected Sigil slots'),active+' totals label incorrect');
+  for(const item of target.filter(r=>['awakening','rolledUnique','unique'].includes(r.kind)))assert(rows().some(r=>signature(r)===signature(item)),active+' dropped a planned character item from eight-slot plan');
+  if(late()&&lowHP())assert(rows().some(r=>traitName(r.main)==='Celestial Ventus'),active+' lost low-HP ally-healing restriction');
+ }}}
+ slotCount=12;return views;
+})()`,ctx);
+console.log(`PASS ${slotViews} slot-count configurations; unchanged complete targets, selected-slot totals, eight-slot exports and upgrade queues, character effects and low-HP dependencies.`);

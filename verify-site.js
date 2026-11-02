@@ -22,6 +22,13 @@ assert.deepEqual(JSON.parse(JSON.stringify(selected.state())),{active:'id',stage
 assert(selected.context.document.title.includes('Id · Chaos++ · Essence'));
 assert(!selected.elements.get('sigils').innerHTML.includes('<strong>Versalis Soul+'));
 const roundTrip=open(selected.location.search);assert.equal(JSON.stringify(roundTrip.state()),JSON.stringify(selected.state()));
+const eight=open('?character=io&stage=Proud&style=Essence&slots=8');
+assert.equal(vm.runInContext('slotCount',eight.context),8);
+assert(eight.location.search.includes('slots=8'),'Shared link lost slot count');
+assert.equal(vm.runInContext('rows().length',open(eight.location.search).context),8,'Slot count failed to restore');
+assert(eight.elements.get('defenderPlan').innerText.includes('Totals count only these 8 slots'),'Missing reduced-slot explanation');
+assert(eight.elements.get('sigils').innerHTML.includes('Add next'),'Missing upgrade queue');
+for(const bad of ['0','13','8.5','nope'])assert.equal(vm.runInContext('slotCount',open('?character=io&slots='+bad).context),12,'Invalid slot count accepted: '+bad);
 assert.equal(open('?character=invalid').state().active,null);
 const invalid=open('?character=io&stage=invalid&style=invalid&ex=1').state();assert.equal(invalid.stage,'Extreme');assert.equal(invalid.exReady,false);
 assert.equal(open('','#seofon').state().active,'seofon','Old character links must continue to work');
