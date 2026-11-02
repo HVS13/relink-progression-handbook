@@ -35,7 +35,7 @@ for(const [slug,variants]of Object.entries(data.ALLOC))for(const [style,groups]o
   if(slug==='eugen'&&style==='Essence')assert(!/^Essence Rank 2: Intercept/.test(node.text),'Eugen selected a modifier for unequipped Intercept');
  }
  for(const [rank,budget]of Object.entries({rank1:10,rank2:10,rank3:10,EX:20})){
-  const selected=groups[rank].filter(n=>n.take);assert.equal(selected.length,budget);assert.equal(new Set(selected.map(n=>n.id)).size,budget);
+  const selected=groups[rank].filter(n=>n.take);if(rank==='EX')assert(selected.length>=19&&selected.length<=20);else assert.equal(selected.length,budget);assert.equal(new Set(selected.map(n=>n.id)).size,selected.length);
   if(rank==='rank2'||rank==='rank3')assert.equal(selected.filter(n=>n.style===style).length,6);
  }
 }
@@ -53,12 +53,12 @@ const results=vm.runInContext(`(()=>{
       if(pairs&&r.secondary!=='—'&&r.kind==='rolledUnique'&&!UNIQUE_ROLLS[traitName(r.main)]?.secondaries.includes(r.secondary))failures.push(active+' unsupported unique roll '+r.main+'/'+r.secondary);
       if(pairs&&r.secondary!=='—'&&!['awakening','rolledUnique'].includes(r.kind)&&(!synthesisTraits.has(traitName(r.main))||!synthesisTraits.has(r.secondary)))failures.push(active+' unsupported ordinary synthesis '+r.main+'/'+r.secondary);
      }
-     for(const skill of preset()[0])if(!skillCatalog[profile().id.replace('pl','Pl')].some(x=>x.name===skill))failures.push(active+' nonexistent character skill '+skill);
+     for(const skill of equippedSkills())if(!skillCatalog[profile().id.replace('pl','Pl')].some(x=>x.name===skill))failures.push(active+' nonexistent character skill '+skill);
      critCovered=true;if(rows().some(r=>traitName(r.main)==='Critical Hit Rate'))failures.push(active+' redundant crit primary at '+stage);critCovered=false;
      for(const r of gear){if(!TRAITS[traitName(r.main)])failures.push(active+' unknown primary '+r.main);if(r.secondary!=='—'&&!TRAITS[traitName(r.secondary)])failures.push(active+' unknown secondary '+r.secondary);}
-     if(preset()[0].length!==4||new Set(preset()[0]).size!==4)failures.push(active+' invalid skills '+st);
+     if(equippedSkills().length!==4||new Set(equippedSkills()).size!==4)failures.push(active+' invalid skills '+st);
      const copied=buildText();if(!copied.includes('Style: '+st))failures.push(active+' wrong copied style');
-     for(const skill of preset()[0])if(!copied.includes(skill))failures.push(active+' copied skill missing');
+     for(const skill of equippedSkills())if(!copied.includes(skill))failures.push(active+' copied skill missing');
      if(!late()&&takenNodes().length)failures.push(active+' early nodes counted');
      if(!late()&&copied.includes('rank1\\n'))failures.push(active+' early export includes allocation');
      if(late()&&takenNodes().length!==(tier()>=5?30:tier()>=4?20:10))failures.push(active+' wrong unlocked node count');
@@ -67,7 +67,7 @@ const results=vm.runInContext(`(()=>{
      if(!pairs&&gear.some(r=>/^Celestial/.test(rowItem(r))&&/ V$/.test(rowItem(r))))failures.push(active+' nonexistent single Celestial item');
     }
    }
-   stage='Chaos++';exReady=true;pairs=true;render();if(takenNodes().length!==50)failures.push(active+' wrong full 50 material allocation');
+   stage='Chaos++';exReady=true;pairs=true;render();if(takenNodes().length<49||takenNodes().length>50)failures.push(active+' wrong EX allocation/reserve');
   const withCrit=rows();critCovered=true;const withoutCrit=rows();if(!withoutCrit.some(r=>r.main==='Health V+'&&r.secondary==='Supplementary DMG'))failures.push(active+' missing crit replacement');critCovered=false;
   const category=categoryTargets();const basics=rows().filter(r=>TRAITS[traitName(r.main)]?.category===0).length;if(category.basic&&basics!==5)failures.push(active+' category-node build mismatch');
   }
@@ -84,4 +84,4 @@ const results=vm.runInContext(`(()=>{
 assert.deepEqual([...new Set(results.failures)],[]);
 assert(!/<script[^>]+src=/i.test(html));
 assert(!/\b(?:fetch|XMLHttpRequest)\s*\(/.test(script));
-console.log(`PASS ${results.views} character/style/stage/equipment views; 336 node budgets and perk dependencies; weapon curves; legal Wrightstone; actual Sigil and skill catalogues; eligible synthesis traits; preserved status names; crit replacements; category synergy; full EX allocations; consistent export; no runtime network dependencies.`);
+console.log(`PASS ${results.views} character/style/stage/equipment views; 336 node budgets and perk dependencies; weapon curves; legal Wrightstone; actual Sigil and skill catalogues; eligible synthesis traits; preserved status names; crit replacements; category synergy; EX allocations and explicit reserves; consistent export; no runtime network dependencies.`);

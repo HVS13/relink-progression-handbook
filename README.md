@@ -30,7 +30,9 @@ The build produces `dist/` for GitHub Pages and `Relink_Defender_Field_Guide_Rev
 | File | Purpose |
 | --- | --- |
 | `revision-content.js` | Character playbooks, skills, rotations and recommendations |
-| `prepare-revision.js` | Builds the data and node selections from source snapshots |
+| `progression-content.js` | 28 foundation skill plans, progression checkpoints and 84 style-specific trait priorities |
+| `master-selections.json` | Explicit node IDs and reasons for all 84 presets; no automatic node scoring |
+| `prepare-revision.js` | Validates fixed selections against source snapshots and assembles the data |
 | `revised-runtime.js` | Rendering, equipment targets, totals, links and exports |
 | `handbook-template.html` | Page structure |
 | `handbook.css` | Responsive layout, focus states and print styling |
@@ -42,6 +44,8 @@ Pushes to `main` build and test the handbook before deploying `dist/` to GitHub 
 ## Evidence and limitations
 
 The game-data review targets **game version 2.0.6, checked 28 October 2026**. The interface updates do not imply a new mechanics review. Character pages link their official documentation, extracted tables and community references. Extracted relink-logs sources are pinned to the recorded commit in `research/logs-source-revision.json`.
+
+The **2 November 2026 progression revision** adds character-specific early equipment/skills, six-stage decisions and explicit node selections. It preserves actual HP healing in support presets, separates low-current-HP gear from high-current-HP gear, and removes several resource-loop mismatches. Source status and concrete changes are recorded in `research/progression-review/README.md`. Live extracted-table requests returned HTTP 403 during this review; those files remain the existing snapshots, not newly fetched data.
 
 The checks cover 1,008 simulated character/style/stage/equipment views, node budgets, skill ownership, item names, selected pairing rules, export consistency and shared-link restoration. They are software and source-consistency checks, not in-game combat benchmarks. Recommendations are analytical starting points and can depend on encounter, execution and equipment conditions.
 

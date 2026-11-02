@@ -1,0 +1,880 @@
+[
+  {
+    "c": "captain",
+    "style": "Essence",
+    "rank": "rank1",
+    "remove": "4ffffca3",
+    "add": "acb6619f"
+  },
+  {
+    "c": "captain",
+    "style": "Essence",
+    "rank": "rank2",
+    "remove": "8eae1e3c",
+    "add": "9e4260b5"
+  },
+  {
+    "c": "captain",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "47b8d0b4",
+    "add": "0ab25bf1"
+  },
+  {
+    "c": "katalina",
+    "style": "Essence",
+    "rank": "rank2",
+    "remove": "cb5fcf74",
+    "add": "5f744249"
+  },
+  {
+    "c": "katalina",
+    "style": "Crux",
+    "rank": "rank2",
+    "remove": "cb5fcf74",
+    "add": "52e40be2"
+  },
+  {
+    "c": "katalina",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "7e1ddadc",
+    "add": "75e000ef"
+  },
+  {
+    "c": "cagliostro",
+    "style": "Crux",
+    "rank": "rank2",
+    "remove": "c96aa367",
+    "add": "46adf532"
+  },
+  {
+    "c": "cagliostro",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "df32bfd7",
+    "add": "e99d145c"
+  },
+  {
+    "c": "maglielle",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "887f1560",
+    "add": "4c06ef61"
+  },
+  {
+    "c": "maglielle",
+    "style": "Essence",
+    "rank": "rank2",
+    "remove": "fcf0f2be",
+    "add": "540a3fdf"
+  },
+  {
+    "c": "rackam",
+    "style": "Insight",
+    "rank": "rank2",
+    "remove": "b02a1da7",
+    "add": "eaaea805",
+    "reason": "Damage-skill hits now add Heat gauge gain to support the selected skill → Bull’s Eye loop. Choose this resource effect instead of another pre-cap ATK node."
+  },
+  {
+    "c": "io",
+    "style": "Essence",
+    "rank": "rank2",
+    "remove": "40b39304",
+    "add": "b03736ee",
+    "reason": "Global skill cooldown reduction supports repeated Fire/Freeze pairs; preferred here to extra ATK on Freeze alone. This is an uptime recommendation, not a measured chain-DPS result."
+  },
+  {
+    "c": "yodarha",
+    "style": "Insight",
+    "rank": "rank3",
+    "remove": "5d706bf9",
+    "add": "d9de2c00",
+    "reason": "A landed finisher can restore three Shroud marks. It is a chance-based resource benefit for this finisher loop, traded against guard-break resistance."
+  },
+  {
+    "c": "yodarha",
+    "style": "Insight",
+    "rank": "rank3",
+    "remove": "19f89325",
+    "add": "3b0b8f45",
+    "reason": "Combo attacks can restore a Shroud mark as combos shorten. Prefer the resource chance over normal-attack cap in this finisher-focused plan; do not assume a guaranteed refund."
+  },
+  {
+    "c": "ghandagoza",
+    "style": "Crux",
+    "rank": "rank3",
+    "remove": "66f62fd7",
+    "add": "984c1153",
+    "reason": "Shortens charged-heavy preparation in the skill → Raging Fist loop instead of adding critical-hit damage to attacks that may already be capped."
+  },
+  {
+    "c": "eustace",
+    "style": "Crux",
+    "rank": "rank2",
+    "remove": "d4f1de25",
+    "add": "a6acb163",
+    "reason": "Perfect reloads gain more Loaded gauge, supporting the heavy-ammo cycle. Prefer this resource gain to ATK for Grade II shots."
+  },
+  {
+    "c": "seofon",
+    "style": "Crux",
+    "rank": "rank3",
+    "remove": "f650f917",
+    "add": "f59b12a4",
+    "reason": "Prevents initial avatar gauge depletion briefly after summoning. Prefer reliable avatar-window support over critical-hit damage for the Crux loop."
+  },
+  {
+    "c": "fediel",
+    "style": "Insight",
+    "rank": "rank2",
+    "remove": "70f588ec",
+    "add": "99a02dca",
+    "reason": "Global cooldown reduction supports repeated skill and Hands windows without requiring the boss to accept Primordial Fear’s Petrified status."
+  },
+  {
+    "c": "gallanza",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "995ff1ba",
+    "add": "1bb14980",
+    "reason": "Adds maximum HP from the equipped Defense/Support primaries for Defender Ecru and a missed Turbine cue. Trades normal-attack ATK for survivability."
+  },
+  {
+    "c": "maglielle",
+    "style": "Insight",
+    "rank": "rank2",
+    "remove": "e517b6e4",
+    "add": "5a96d75c",
+    "reason": "Global cooldown reduction works with the equipped weapon skills without assuming a shield. This Insight skill set does not equip Sostenuto."
+  },
+  {
+    "c": "cagliostro",
+    "style": "Insight",
+    "rank": "rank2",
+    "remove": "d19b3e34",
+    "add": "05b3f071",
+    "reason": "Mehen cooldown reduction supports the equipped debuff field and Truth-building loop, preferred to generic pre-cap ATK."
+  },
+  {
+    "c": "cagliostro",
+    "style": "Insight",
+    "rank": "rank3",
+    "remove": "dc57d499",
+    "add": "4a0e5cec",
+    "reason": "Debuff-triggered cooldown recovery supports the selected Mehen/finisher loop. Disruption is not equipped and its cooldown node would give no benefit."
+  },
+  {
+    "c": "cagliostro",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "0206442e",
+    "add": "d3412ca4",
+    "reason": "Extends Mehen’s ATK-down duration on susceptible foes. Disruption is not equipped; this choice supports the actual debuff skill instead."
+  },
+  {
+    "c": "captain",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "bc7c8518",
+    "add": "0ab25bf1",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "captain",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "bc7c8518",
+    "add": "610edeb6",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "captain",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "bc7c8518",
+    "add": "0ab25bf1",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "katalina",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "a5d51bf1",
+    "add": "75e000ef",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "katalina",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "a5d51bf1",
+    "add": "75e000ef",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "katalina",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "a5d51bf1",
+    "add": "7e09668f",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "rackam",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "c24921b9",
+    "add": "44851fba",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "rackam",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "c24921b9",
+    "add": "44851fba",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "rackam",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "c24921b9",
+    "add": null,
+    "reason": "Reserve one EX point instead of assigning a zero-effect or unequipped-skill node."
+  },
+  {
+    "c": "io",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "4bffc408",
+    "add": null,
+    "reason": "Reserve one EX point instead of assigning a zero-effect or unequipped-skill node."
+  },
+  {
+    "c": "io",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "61874818",
+    "add": "95d62ee6",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "io",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "4bffc408",
+    "add": "0b2eda06",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "io",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "4bffc408",
+    "add": "0b2eda06",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "eugen",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "03997b00",
+    "add": "95c28564",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "eugen",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "03997b00",
+    "add": "95c28564",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "eugen",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "03997b00",
+    "add": "95c28564",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "rosetta",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "437d6785",
+    "add": "57b66c6d",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "rosetta",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "ae216d09",
+    "add": "c7986d3f",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "rosetta",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "437d6785",
+    "add": "57b66c6d",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "rosetta",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "437d6785",
+    "add": "57b66c6d",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "charlotta",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "65363434",
+    "add": "5915357a",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "charlotta",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "18d94758",
+    "add": "01cacd7a",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "charlotta",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "65363434",
+    "add": "5915357a",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "charlotta",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "65363434",
+    "add": "5915357a",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "ghandagoza",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "13b3d9b2",
+    "add": "4a56bdfc",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "ghandagoza",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "13b3d9b2",
+    "add": "4a56bdfc",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "ferry",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "3cb40ffd",
+    "add": "620ec0f9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "ferry",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "8c65fa59",
+    "add": "367f38d7",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "ferry",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "3cb40ffd",
+    "add": "620ec0f9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "ferry",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "3cb40ffd",
+    "add": "620ec0f9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "narmaya",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "ec14130f",
+    "add": "465e5db9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "narmaya",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "4fa96e46",
+    "add": "28a05965",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "narmaya",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "ec14130f",
+    "add": "465e5db9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "narmaya",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "ec14130f",
+    "add": "465e5db9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "lancelot",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "2d954096",
+    "add": "26f89da8",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "lancelot",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "92b89bb9",
+    "add": "3def8e26",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "lancelot",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "2d954096",
+    "add": "26f89da8",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "lancelot",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "2d954096",
+    "add": "26f89da8",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "vane",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "d396d8d4",
+    "add": "b4fe614b",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "vane",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "d396d8d4",
+    "add": "b4fe614b",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "vane",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "d396d8d4",
+    "add": "b4fe614b",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "percival",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "1a3ed5f8",
+    "add": "9cde7953",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "percival",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "1a3ed5f8",
+    "add": "9cde7953",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "percival",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "1a3ed5f8",
+    "add": "9cde7953",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "siegfried",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "0c1d404b",
+    "add": "b2374953",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "siegfried",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "b4f91adb",
+    "add": "45915703",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "siegfried",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "0c1d404b",
+    "add": "b2374953",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "siegfried",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "0c1d404b",
+    "add": "b2374953",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "cagliostro",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "41598d01",
+    "add": "e99d145c",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "cagliostro",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "41598d01",
+    "add": "e99d145c",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "cagliostro",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "41598d01",
+    "add": "7de744fa",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "yodarha",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "6f1d0115",
+    "add": "c2bcf827",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "yodarha",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "3f301d2d",
+    "add": "65df460f",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "yodarha",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "6f1d0115",
+    "add": "c2bcf827",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "yodarha",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "6f1d0115",
+    "add": "c2bcf827",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "zeta",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "722c6f11",
+    "add": "b99bff56",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "zeta",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "722c6f11",
+    "add": "b99bff56",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "zeta",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "722c6f11",
+    "add": null,
+    "reason": "Reserve one EX point instead of assigning a zero-effect or unequipped-skill node."
+  },
+  {
+    "c": "eustace",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "5d60c2aa",
+    "add": "f7e39ac9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "eustace",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "ecc39772",
+    "add": "12b59bb8",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "eustace",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "5d60c2aa",
+    "add": "f7e39ac9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "eustace",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "5d60c2aa",
+    "add": "f7e39ac9",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "id",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "2cd7f40e",
+    "add": "861cfb25",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "id",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "7c4a0b22",
+    "add": "c677eb29",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "id",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "2cd7f40e",
+    "add": "861cfb25",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "id",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "2cd7f40e",
+    "add": "861cfb25",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "sandalphon",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "42c0a268",
+    "add": "42c6a67c",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "sandalphon",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "42c0a268",
+    "add": "42c6a67c",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "seofon",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "86b9d5a3",
+    "add": "27d2e641",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "seofon",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "fba14828",
+    "add": "bd597e36",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "seofon",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "86b9d5a3",
+    "add": "27d2e641",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "seofon",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "86b9d5a3",
+    "add": "27d2e641",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "tweyen",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "28f4a91e",
+    "add": "e679196f",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "tweyen",
+    "style": "Essence",
+    "rank": "rank3",
+    "remove": "34cb2144",
+    "add": "3d2923e6",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "tweyen",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "28f4a91e",
+    "add": "e679196f",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "tweyen",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "28f4a91e",
+    "add": "e679196f",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "fraux",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "9780dec0",
+    "add": "ad2cee11",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "fraux",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "9780dec0",
+    "add": "ad2cee11",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "fraux",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "9780dec0",
+    "add": "ad2cee11",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "fediel",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "ef97a8a6",
+    "add": "999e01f8",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "fediel",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "ef97a8a6",
+    "add": "999e01f8",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "fediel",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "ef97a8a6",
+    "add": "999e01f8",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "gallanza",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "dffb3abb",
+    "add": "560e9466",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "gallanza",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "dffb3abb",
+    "add": "560e9466",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "gallanza",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "dffb3abb",
+    "add": "560e9466",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "maglielle",
+    "style": "Insight",
+    "rank": "EX",
+    "remove": "9cab505f",
+    "add": "f0543c68",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "maglielle",
+    "style": "Essence",
+    "rank": "EX",
+    "remove": "9cab505f",
+    "add": "4c06ef61",
+    "reason": "Remove zero-contribution category node after primary compression."
+  },
+  {
+    "c": "maglielle",
+    "style": "Crux",
+    "rank": "EX",
+    "remove": "9cab505f",
+    "add": "4c06ef61",
+    "reason": "Remove zero-contribution category node after primary compression."
+  }
+]
