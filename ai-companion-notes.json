@@ -1,9 +1,17 @@
 {
   "title": "The AI Compendium",
   "url": "https://docs.google.com/document/d/1y6tGs1WZ3Q6z8ANYH0A_T2oz6xvhS7gV7peULIK6jbU/edit",
-  "reviewed": "2026-11-02",
+  "reviewed": "2026-11-05",
   "credit": "Erze, with Rain, Phish3r, Blackmyst and QuantizedAnson",
   "scope": "Community-reported companion behavior, not independently reproduced here. Style suggestions apply after Master Traits unlock; they are not complete AI presets. Keep Defender and the progression unlock limits when adapting them.",
+  "methodology": {
+    "tab": "t.b1tf2si0w5ht",
+    "note": "The compendium's 3 November V1 describes mostly Defy Infinity Lucilius testing, selected checks against other bosses, and companion observation at Barrold. The authors acknowledge limited testing below Defy Infinity and encounter-dependent or RNG-based conclusions. This documents their method; it does not independently validate their rankings or establish progression performance."
+  },
+  "farming": {
+    "tab": "t.c5xcu5e5779h",
+    "note": "The Lucilius Chaos++ farming example deliberately reduces stun and adjusts damage and SBA timing for phase skips. It uses Full Assist Eustace with AI companions, including Essence Rackam, and removes interruption protection from Io for its opening. These are encounter-specific choices, not general upgrades: do not automatically remove Stun Power or Stout Heart from progression builds, or assume the setup works unchanged with Defender. The claimed skip consistency is author-reported and has not been reproduced here."
+  },
   "characters": {
     "captain": {
       "tab": "t.ejhff9erk3wh", "style": "Insight",
@@ -108,7 +116,7 @@
     "id": {
       "tab": "t.eo3y3nqkklsi", "style": "Essence",
       "note": "Consider Essence for a simpler Dragonform-focused companion loop; Crux is presented as a stun-oriented alternative. The compendium reports poor AI execution of Insight's Godmight rotation.",
-      "caution": "Do not carry Versalis Heart into a Dragonform-only plan without checking its gauge effect. Avoid stacking optional max-HP penalties just because an endgame AI damage setup uses them."
+      "caution": "Do not carry Versalis Heart into a Dragonform-only plan without checking its gauge effect. Avoid stacking optional max-HP penalties just because an endgame AI damage setup uses them. Unverified community reports also describe rare inactivity after Link Time and repeated finisher hits during the Primal Burst cutscene when Id is third or fourth in the SBA order. The cause and frequency are unconfirmed here; those damage spikes do not establish normal performance and are not a build target."
     },
     "sandalphon": {
       "tab": "t.k7pqzol6ez6n", "style": "Insight",

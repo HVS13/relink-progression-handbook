@@ -45,7 +45,7 @@ Pushes to `main` build and test the handbook before deploying `dist/` to GitHub 
 
 ## Evidence and limitations
 
-The [AI Compendium review](research/ai-compendium-review.md) adds character-specific companion considerations for all 28 characters, attributed to Erze and contributors. These explain where AI behavior may differ from manual play and flag reported bugs and encounter-specific setups. They are not complete tested AI presets; Defender-first manual equipment, skills and node allocations are unchanged.
+The [AI Compendium review](research/ai-compendium-review.md) adds character-specific companion considerations for all 28 characters, attributed to Erze and contributors. The 5 November follow-up incorporates the source's new testing methodology, Lucilius farming limitations and reported Id AI issues. These explain where AI behavior may differ from manual play and flag reported bugs and encounter-specific setups. They are not complete tested AI presets; Defender-first manual equipment, skills and node allocations are unchanged.
 
 The game-data review targets **game version 2.0.6 (released 17 September 2026), confirmed against the live official update list on 2 November 2026**. All five listed update articles (2.0.2 - 2.0.6) were read. Each character has a sourced patch-compatibility note; fixed-level Sigils target level 15, Fediel retains the five-stack correction, and Master Trait limits remain enforced. This patch-note review does not establish an all-character damage ranking. Character pages link their official documentation, extracted tables and community references. Extracted relink-logs sources are pinned to the recorded commit in `research/logs-source-revision.json`.
 
