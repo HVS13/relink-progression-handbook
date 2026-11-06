@@ -8,6 +8,22 @@
     "disqualified": "https://relink.cleista.cc/en/disqualified"
   },
   "dropVersions": {"base": "1.3.x", "er": "2.0.2"},
+  "warpathAcquisition": {
+    "checked": "2026-11-07",
+    "guidance": "A visible Warpath trade does not mean its materials are unlocked. The reviewed 2.0 trade table gates Bright Horn / White Dragon Scale purchases behind Thunderbolts and Lightning (Proud), Abyssal Horn / Black Dragon Scale behind Into the Abyss (Proud), and Crown of Lament / Rancorous Lance behind Lock Horns (Proud). Badges do not bypass those quest gates. Conflux treasure sets are separate sources: unlock the relevant Cycle and set first. The Proud equipment table is a target, not an equip restriction; use a suitable Warpath earlier if you obtain it through an unlocked source.",
+    "scope": "Read-only structural analysis of a published 2.0 table copy; not a fresh 2.0.6 game extraction or in-game shop test. Official 2.0.3–2.0.6 patch notes do not document changes to these gates. This does not prove that every alternate Conflux or reward route is gated to Proud.",
+    "tableSource": "https://github.com/alexfrljuckic/GBFRelinkMod/releases/tag/badge-shop-v1",
+    "tableSourceLimit": "This archive contains a modded table with three added voucher purchases. The builder appends those three rows; they were excluded from the review. No mod was installed or executed. The reported gates belong to the existing material-purchase rows.",
+    "builderSource": "https://github.com/alexfrljuckic/GBFRelinkMod/blob/main/scripts/build-badge-shop.mjs",
+    "schemaSource": "https://github.com/Nenkai/GBFRDataTools/blob/master/GBFRDataTools.Database/Headers/trade.headers",
+    "officialTradeChanges": "https://relink-ragnarok.granbluefantasy.com/en/updates/381/",
+    "confluxRewards": "https://relink.gbf.wiki/Conflux",
+    "gates": [
+      {"items": ["Bright Horn", "White Dragon Scale"], "minimumQuestId": "00407316", "quest": "Thunderbolts and Lightning", "difficulty": "Proud"},
+      {"items": ["Abyssal Horn", "Black Dragon Scale"], "minimumQuestId": "00407317", "quest": "Into the Abyss", "difficulty": "Proud"},
+      {"items": ["Crown of Lament", "Rancorous Lance"], "minimumQuestId": "00407322", "quest": "Lock Horns", "difficulty": "Proud"}
+    ]
+  },
   "summons": {
     "Lilith": {"trait": "War Elemental", "levels": [15], "damageCap": [45, 50, 60, 80, 100], "healingCap": [45, 50, 55, 60, 75], "quest": "On the Threshold of Destruction", "questId": "40B309"},
     "Lucilius": {"trait": "Berserker Echo", "levels": [15], "damageCap": [45, 50, 60, 80, 100], "healingCap": [45, 50, 55, 60, 75], "quest": "A Prayer for Black Wings' Demise", "questId": "40A313"},
