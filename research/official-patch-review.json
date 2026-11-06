@@ -1,9 +1,9 @@
 {
-  "checked": "2026-11-02",
+  "checked": "2026-11-07",
   "version": "2.0.6",
   "released": "2026-09-17",
   "index": "https://relink-ragnarok.granbluefantasy.com/en/updates/",
-  "method": "Read the live official update index and all five listed update articles in the browser.",
+  "method": "Originally read the official update index and all five listed articles on 2 November. Rechecked the official Steam announcement feed on 7 November: 2.0.6 remains the latest versioned update; later posts concern outfits and a sale. Re-read the available patch announcement contents.",
   "articles": [
     {"version": "2.0.6", "url": "https://relink-ragnarok.granbluefantasy.com/en/updates/408/"},
     {"version": "2.0.5", "url": "https://relink-ragnarok.granbluefantasy.com/en/updates/401/"},

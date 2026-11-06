@@ -18,7 +18,7 @@ for(const c of data.CHARS){
  assert(c.styles[n.style],'Unknown companion style: '+c.slug);
 }
 assert.equal(data.PATCH_REVIEW.version,'2.0.6');
-assert.equal(data.PATCH_REVIEW.checked,'2026-11-02');
+assert.equal(data.PATCH_REVIEW.checked,'2026-11-07');
 assert.equal(Object.keys(data.PATCH_REVIEW.characters).length,28);
 for(const c of data.CHARS){const patch=data.PATCH_REVIEW.characters[c.slug];assert(patch?.note&&data.PATCH_REVIEW.articles.some(a=>a.version===patch.version),'Missing official patch reference: '+c.slug);}
 assert(/max lvl 5/.test(data.GAME.fediel.Insight.perks.rank2.text),'Stale Fediel stack limit');
@@ -87,7 +87,7 @@ const results=vm.runInContext(`(()=>{
      for(const r of gear){if(!TRAITS[traitName(r.main)])failures.push(active+' unknown primary '+r.main);if(r.secondary!=='—'&&!TRAITS[traitName(r.secondary)])failures.push(active+' unknown secondary '+r.secondary);}
      if(equippedSkills().length!==4||new Set(equippedSkills()).size!==4)failures.push(active+' invalid skills '+st);
      const copied=buildText();if(!copied.includes('Style: '+st))failures.push(active+' wrong copied style');
-     if(!copied.includes('Official patch check: 2.0.6 / 2026-11-02')||!copied.includes(PATCH_REVIEW.characters[active].note))failures.push(active+' missing patch export');
+     if(!copied.includes('Official patch check: 2.0.6 / 2026-11-07')||!copied.includes(PATCH_REVIEW.characters[active].note))failures.push(active+' missing patch export');
      if(!document.getElementById('sources').innerHTML.includes(PATCH_REVIEW.characters[active].note.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))))failures.push(active+' missing visible patch note');
      for(const skill of equippedSkills())if(!copied.includes(skill))failures.push(active+' copied skill missing');
      if(!late()&&takenNodes().length)failures.push(active+' early nodes counted');
